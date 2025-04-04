@@ -1,0 +1,1 @@
+{"sequence_length": 24, "feature_columns": ["Temperature", "Vibration", "Pressure", "Current", "Speed", "Voltage", "CosPhi", "weather_temperature", "weather_humidity", "weather_wind_speed", "weather_precipitation"], "scaler_path": "scaler_20250318_121712.pkl", "model_path": "lstm_model_final_20250318_121712.h5"}
