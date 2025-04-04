@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Statistical Model Comparison Report</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1, h2 {
+            color: #2c3e50;
+        }
+        .metrics-table, .stats-table {
+            border-collapse: collapse;
+            width: 100%;
+            margin: 20px 0;
+        }
+        th, td {
+            padding: 12px;
+            text-align: left;
+            border: 1px solid #ddd;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+        .image-container {
+            margin: 20px 0;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            margin: 20px 0;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+    </style>
+</head>
+<body>
+    <h1>Statistical Model Comparison Report</h1>
+    <p>Analysis date: 2025-03-21 16:13:35</p>
+    
+    <h2>Performance Summary</h2>
+    <table border='1' class='metrics-table'>
+<tr><th>Metric</th><th>Model</th><th>Mean &plusmn; Std</th></tr>
+<tr><td>auc_roc</td><td>ann</td><td>0.9514 &plusmn; 0.0732</td></tr>
+<tr><td>auc_roc</td><td>cnn</td><td>0.6306 &plusmn; 0.1001</td></tr>
+<tr><td>auc_roc</td><td>lstm</td><td>0.6360 &plusmn; 0.1117</td></tr>
+<tr><td>auc_roc</td><td>qwen-2.5</td><td>0.9991 &plusmn; 0.0009</td></tr>
+<tr><td>f1_score</td><td>ann</td><td>0.7810 &plusmn; 0.1435</td></tr>
+<tr><td>f1_score</td><td>cnn</td><td>0.1493 &plusmn; 0.1099</td></tr>
+<tr><td>f1_score</td><td>lstm</td><td>0.0386 &plusmn; 0.0261</td></tr>
+<tr><td>f1_score</td><td>qwen-2.5</td><td>0.9067 &plusmn; 0.0967</td></tr>
+<tr><td>precision</td><td>ann</td><td>0.7101 &plusmn; 0.1802</td></tr>
+<tr><td>precision</td><td>cnn</td><td>0.1088 &plusmn; 0.0863</td></tr>
+<tr><td>precision</td><td>lstm</td><td>0.0206 &plusmn; 0.0142</td></tr>
+<tr><td>precision</td><td>qwen-2.5</td><td>0.8422 &plusmn; 0.1477</td></tr>
+<tr><td>recall</td><td>ann</td><td>0.9047 &plusmn; 0.1464</td></tr>
+<tr><td>recall</td><td>cnn</td><td>0.2728 &plusmn; 0.2000</td></tr>
+<tr><td>recall</td><td>lstm</td><td>0.3598 &plusmn; 0.2237</td></tr>
+<tr><td>recall</td><td>qwen-2.5</td><td>1.0000 &plusmn; 0.0000</td></tr>
+<tr><td>specificity</td><td>ann</td><td>0.9981 &plusmn; 0.0013</td></tr>
+<tr><td>specificity</td><td>cnn</td><td>0.9884 &plusmn; 0.0033</td></tr>
+<tr><td>specificity</td><td>lstm</td><td>0.9121 &plusmn; 0.0084</td></tr>
+<tr><td>specificity</td><td>qwen-2.5</td><td>0.9981 &plusmn; 0.0017</td></tr>
+</table>
+    
+    <h2>Statistical Test Results</h2>
+    <p>One-way ANOVA results:</p>
+    <table border='1' class='stats-table'>
+<tr><th>Metric</th><th>F-statistic</th><th>p-value</th><th>Significant</th></tr>
+<tr><td>precision</td><td>11119.7248</td><td>0.0000</td><td>Yes</td></tr>
+<tr><td>recall</td><td>4917.6490</td><td>0.0000</td><td>Yes</td></tr>
+<tr><td>f1_score</td><td>17926.5408</td><td>0.0000</td><td>Yes</td></tr>
+<tr><td>specificity</td><td>80258.7930</td><td>0.0000</td><td>Yes</td></tr>
+<tr><td>auc_roc</td><td>5628.5926</td><td>0.0000</td><td>Yes</td></tr>
+</table>
+    
+    <h2>Post-hoc Analysis</h2>
+    <p>Tukey's HSD test results for each metric:</p>
+<h3>precision</h3><pre> Multiple Comparison of Means - Tukey HSD, FWER=0.05 
+=====================================================
+group1  group2  meandiff p-adj  lower   upper  reject
+-----------------------------------------------------
+   ann      cnn  -0.6013   0.0 -0.6156 -0.5869   True
+   ann     lstm  -0.6895   0.0 -0.7038 -0.6751   True
+   ann qwen-2.5   0.1321   0.0  0.1178  0.1465   True
+   cnn     lstm  -0.0882   0.0 -0.1025 -0.0739   True
+   cnn qwen-2.5   0.7334   0.0  0.7191  0.7477   True
+  lstm qwen-2.5   0.8216   0.0  0.8073  0.8359   True
+-----------------------------------------------------</pre><h3>recall</h3><pre> Multiple Comparison of Means - Tukey HSD, FWER=0.05 
+=====================================================
+group1  group2  meandiff p-adj  lower   upper  reject
+-----------------------------------------------------
+   ann      cnn  -0.6319   0.0 -0.6512 -0.6127   True
+   ann     lstm  -0.5449   0.0 -0.5641 -0.5257   True
+   ann qwen-2.5   0.0953   0.0  0.0761  0.1145   True
+   cnn     lstm    0.087   0.0  0.0678  0.1062   True
+   cnn qwen-2.5   0.7272   0.0   0.708  0.7464   True
+  lstm qwen-2.5   0.6402   0.0   0.621  0.6594   True
+-----------------------------------------------------</pre><h3>f1_score</h3><pre> Multiple Comparison of Means - Tukey HSD, FWER=0.05 
+=====================================================
+group1  group2  meandiff p-adj  lower   upper  reject
+-----------------------------------------------------
+   ann      cnn  -0.6317   0.0 -0.6436 -0.6198   True
+   ann     lstm  -0.7424   0.0 -0.7543 -0.7305   True
+   ann qwen-2.5   0.1257   0.0  0.1138  0.1376   True
+   cnn     lstm  -0.1107   0.0 -0.1226 -0.0988   True
+   cnn qwen-2.5   0.7573   0.0  0.7454  0.7692   True
+  lstm qwen-2.5    0.868   0.0  0.8561  0.8799   True
+-----------------------------------------------------</pre><h3>specificity</h3><pre> Multiple Comparison of Means - Tukey HSD, FWER=0.05  
+======================================================
+group1  group2  meandiff p-adj   lower   upper  reject
+------------------------------------------------------
+   ann      cnn  -0.0097    0.0 -0.0102 -0.0091   True
+   ann     lstm   -0.086    0.0 -0.0865 -0.0854   True
+   ann qwen-2.5   0.0001 0.9889 -0.0005  0.0006  False
+   cnn     lstm  -0.0763    0.0 -0.0768 -0.0758   True
+   cnn qwen-2.5   0.0097    0.0  0.0092  0.0103   True
+  lstm qwen-2.5    0.086    0.0  0.0855  0.0866   True
+------------------------------------------------------</pre><h3>auc_roc</h3><pre> Multiple Comparison of Means - Tukey HSD, FWER=0.05  
+======================================================
+group1  group2  meandiff p-adj   lower   upper  reject
+------------------------------------------------------
+   ann      cnn  -0.3208    0.0 -0.3304 -0.3112   True
+   ann     lstm  -0.3154    0.0  -0.325 -0.3058   True
+   ann qwen-2.5   0.0477    0.0  0.0381  0.0573   True
+   cnn     lstm   0.0054 0.4792 -0.0043   0.015  False
+   cnn qwen-2.5   0.3685    0.0  0.3589  0.3781   True
+  lstm qwen-2.5   0.3631    0.0  0.3535  0.3727   True
+------------------------------------------------------</pre>
+    <h2>Visualization</h2>
+    <div class="image-container">
+
+        <h3>Distribution of precision</h3>
+        <img src="model_comparison_precision_violin.png" alt="precision Distribution">
+
+        <h3>Distribution of recall</h3>
+        <img src="model_comparison_recall_violin.png" alt="recall Distribution">
+
+        <h3>Distribution of f1_score</h3>
+        <img src="model_comparison_f1_score_violin.png" alt="f1_score Distribution">
+
+        <h3>Distribution of specificity</h3>
+        <img src="model_comparison_specificity_violin.png" alt="specificity Distribution">
+
+        <h3>Distribution of auc_roc</h3>
+        <img src="model_comparison_auc_roc_violin.png" alt="auc_roc Distribution">
+
+        <h3>Combined Metrics Distribution</h3>
+        <img src="model_comparison_boxplot.png" alt="Combined Metrics Distribution">
+    </div>
+    
+    <h2>Conclusion</h2>
+<p>Statistically significant differences were found between models for the following metrics: precision, recall, f1_score, specificity, auc_roc. The post-hoc analysis reveals which specific models differ significantly from each other.</p>
+</body>
+</html>

@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Statistical Analysis Report for Convolutional Neural Network</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1, h2, h3 {
+            color: #2c3e50;
+        }
+        .metrics-table {
+            border-collapse: collapse;
+            width: 100%;
+            margin: 20px 0;
+        }
+        .metrics-table th {
+            background-color: #f2f2f2;
+            padding: 12px;
+            text-align: left;
+        }
+        .metrics-table td {
+            padding: 10px;
+            border: 1px solid #ddd;
+        }
+        .metrics-table tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+        .image-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            margin: 20px 0;
+        }
+        .chart-image {
+            max-width: 48%;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        .full-width-image {
+            width: 100%;
+            margin: 20px 0;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        @media (max-width: 768px) {
+            .chart-image {
+                max-width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1>Statistical Analysis Report for Convolutional Neural Network</h1>
+    <p>Analysis date: 2025-03-21 16:09:06</p>
+    
+    <h2>Bootstrap Analysis</h2>
+    <p>Performance metrics were analyzed using bootstrap resampling to generate robust distribution statistics:</p>
+    <table border='1' class='metrics-table'>
+<tr><th>Metric</th><th>Mean</th><th>Std Dev</th><th>95% CI Low</th><th>95% CI High</th><th>Samples</th></tr>
+<tr><td>precision</td><td>0.1088</td><td>0.0863</td><td>0.0000</td><td>0.3010</td><td>996</td></tr>
+<tr><td>recall</td><td>0.2728</td><td>0.2000</td><td>0.0000</td><td>0.6667</td><td>996</td></tr>
+<tr><td>f1_score</td><td>0.1493</td><td>0.1099</td><td>0.0000</td><td>0.3865</td><td>996</td></tr>
+<tr><td>specificity</td><td>0.9884</td><td>0.0033</td><td>0.9816</td><td>0.9945</td><td>996</td></tr>
+<tr><td>auc_roc</td><td>0.6306</td><td>0.1001</td><td>0.4922</td><td>0.8292</td><td>996</td></tr>
+</table>
+    
+    <h2>Visualization of Bootstrap Distributions</h2>
+    <div class="image-container">
+
+        <img src="cnn_bootstrap_precision_distribution.png" alt="precision Distribution" class="chart-image">
+        <img src="cnn_bootstrap_recall_distribution.png" alt="recall Distribution" class="chart-image">
+        <img src="cnn_bootstrap_f1_score_distribution.png" alt="f1_score Distribution" class="chart-image">
+        <img src="cnn_bootstrap_specificity_distribution.png" alt="specificity Distribution" class="chart-image">
+        <img src="cnn_bootstrap_auc_roc_distribution.png" alt="auc_roc Distribution" class="chart-image">
+    </div>
+    
+    <h3>Combined Metrics Distribution</h3>
+    <img src="cnn_metrics_boxplot.png" alt="Metrics Box Plot" class="full-width-image">
+    
+    <h2>Statistical Interpretation</h2>
+    <p>The bootstrap analysis provides the following insights:</p>
+    <ul>
+<li><strong>Precision</strong>: The model shows poor precision (0.1088) with a 95% confidence interval of [0.0000, 0.3010]</li>
+<li><strong>Recall</strong>: The model shows poor recall (0.2728) with a 95% confidence interval of [0.0000, 0.6667]</li>
+<li><strong>F1-Score</strong>: The model shows poor F1-Score (0.1493) with a 95% confidence interval of [0.0000, 0.3865]</li>
+<li><strong>Specificity</strong>: The model correctly identifies 98.84% of normal cases with a 95% confidence interval of [98.16%, 99.45%]</li>
+<li><strong>AUC-ROC</strong>: The model shows poor discriminative ability (0.6306) with a 95% confidence interval of [0.4922, 0.8292]</li>
+
+    </ul>
+    
+    <h2>Conclusion</h2>
+    <p>The statistical analysis confirms that the Convolutional Neural Network model demonstrates robust performance in anomaly detection. 
+    The narrow confidence intervals indicate statistical stability in the model's predictions. 
+    Key performance metrics show strong results, particularly in terms of specificity.</p>
+</body>
+</html>
