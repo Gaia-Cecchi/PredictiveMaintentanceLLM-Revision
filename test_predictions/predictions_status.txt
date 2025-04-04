@@ -1,0 +1,201 @@
+Modifica llm_predictor.py e evaluate_anomalies.py in modo che l'analisi venga fatta da x, il cui doc è x
+
+QWEN 2.5 32B
+
+Interim accuracy: 99.83% (1181/1183)
+Short pause between batches...
+
+=== PROCESSING BATCH 237/217 (CASES 1184-1188) ===
+Elapsed time: 28 minutes 23.3 seconds
+Estimated remaining time: 484 minutes 57.9 seconds
+Estimated completion: 2025-03-16 20:10:03.437620
+
+#========== FULL DATABASE ANALYSIS COMPLETED ==========
+Total analysis time: 740 minutes 9.5 seconds + 31 minutes 38.2 seconds
+
+Started: 21:19:15
+Finished: 09:39:24
+
+Started: 11:08:18
+Finished: 11:39:56
+
+#========== FULL DATABASE ANALYSIS RESULTS ==========
+Overall accuracy: 99.83%
+Anomaly precision: 88.24%
+Anomaly recall: 100.00%
+Anomaly F1 score: 93.75%
+Normal value accuracy: 99.83%
+
+--------------------------------------------------------------
+
+DEEPSEEK R1 DISTILL QWEN 32B (deepseek-r1-distill-qwen-32b)
+
+========== INTERIM METRICS ==========
+Cases processed: 500
+Overall accuracy: 90.60%
+Anomaly precision: 6.45%
+Anomaly recall: 10.00%
+Anomaly F1 score: 7.84%
+Normal cases accuracy: 93.96%
+
+Confusion Matrix:
+            | Pred: NORMAL | Pred: ANOMALY |
+True NORMAL |          451 |            29 |
+True ANOMALY|           18 |             2 |
+
+========== VALIDATION COMPLETED ==========
+Total validation time: 233 minutes 50.5 seconds
+Started: 19:43:59
+Finished: 23:37:49
+
+========== VALIDATION RESULTS ==========
+Overall accuracy: 90.60%
+Anomaly precision: 6.45%
+Anomaly recall: 10.00%
+Anomaly F1 score: 7.84%
+Normal value accuracy: 93.96%
+Checkpoint and backup created successfully
+
+========== FINAL VALIDATION METRICS ==========
+Cases processed: 500
+Overall accuracy: 90.60%
+Anomaly precision: 6.45%
+Anomaly recall: 10.00%
+Anomaly F1 score: 7.84%
+Normal cases accuracy: 93.96%
+
+Confusion Matrix:
+            | Pred: NORMAL | Pred: ANOMALY |
+True NORMAL |          451 |            29 |
+True ANOMALY|           18 |             2 |
+
+Custom analysis completed in 233 minutes 54.3 seconds
+
+Elapsed session time: 233 minutes 58.2 seconds
+
+
+
+
+
+--------------------------------------------------------------
+
+LLAMA 3.3 70B VERSATILE (llama-3.3-70b-versatile)
+
+========== VALIDATION COMPLETED ==========
+Total validation time: 571 minutes 0.9 seconds + 76 minutes 28.0 seconds
+Started: 23:46:30
+Finished: 09:17:30
+
+========== VALIDATION RESULTS ==========
+Overall accuracy: 100.00%
+Anomaly precision: 0.00%
+Anomaly recall: 0.00%
+Anomaly F1 score: 0.00%
+Normal value accuracy: 100.00%
+
+
+--------------------------------------------------------------
+
+QWEN QWQ 32B (qwen-qwq-32b)
+
+========== INTERIM METRICS ==========
+Cases processed: 500
+Overall accuracy: 92.40%
+Anomaly precision: 3.45%
+Anomaly recall: 9.09%
+Anomaly F1 score: 5.00%
+Normal cases accuracy: 94.27%
+
+Confusion Matrix:
+            | Pred: NORMAL | Pred: ANOMALY |
+True NORMAL |          461 |            28 |
+True ANOMALY|           10 |             1 |
+
+========== VALIDATION COMPLETED ==========
+Total validation time: 232 minutes 8.8 seconds
+Started: 09:33:19
+Finished: 13:25:28
+
+========== VALIDATION RESULTS ==========
+Overall accuracy: 92.40%
+Checkpoint and backup created successfully
+Anomaly precision: 3.45%
+Anomaly recall: 9.09%
+Anomaly F1 score: 5.00%
+Normal value accuracy: 94.27%
+
+========== FINAL VALIDATION METRICS ==========
+Cases processed: 500
+Overall accuracy: 92.40%
+Anomaly precision: 3.45%
+Anomaly recall: 9.09%
+Anomaly F1 score: 5.00%
+Normal cases accuracy: 94.27%
+
+Confusion Matrix:
+            | Pred: NORMAL | Pred: ANOMALY |
+True NORMAL |          461 |            28 |
+True ANOMALY|           10 |             1 |
+
+Custom analysis completed in 232 minutes 11.5 seconds
+
+Elapsed session time: 232 minutes 22.7 seconds
+
+
+
+--------------------------------------------------------------
+
+LLAMA 3.2 11B VISION PREVIEW (llama-3.2-11b-vision-preview)
+
+========== VALIDATION COMPLETED ==========
+Total validation time: 118 minutes 7.3 seconds
+Started: 10:59:23
+Finished: 12:57:30
+
+========== VALIDATION RESULTS ==========
+Overall accuracy: 98.20%
+Anomaly precision: 0.00%
+Anomaly recall: 0.00%
+Anomaly F1 score: 0.00%
+Normal value accuracy: 100.00%
+
+
+
+
+--------------------------------------------------------------
+
+LLAMA 3.2 90B VISION PREVIEW (llama-3.2-90b-vision-preview)
+
+302 casi
+
+========== VALIDATION COMPLETED ==========
+Total validation time: 72 minutes 19.0 seconds + 66 minutes 42.1 seconds
+Started: 18:24:01
+Finished: 19:30:43
+
+========== VALIDATION RESULTS ==========
+Overall accuracy: 98.29%
+Anomaly precision: 0.00%
+Anomaly recall: 0.00%
+Anomaly F1 score: 0.00%
+Normal value accuracy: 100.00%
+
+
+
+
+
+--------------------------------------------------------------
+OTTIMIZZAZIONI
+# Ottimizzazioni per Rendere l'Analisi più Veloce senza Compromettere la Qualità
+
+Implementerò diverse ottimizzazioni per accelerare l'analisi, mantenendo o migliorando la qualità della predizione.
+
+## Step-by-step:
+1. Ottimizzare il sistema di cache per le predizioni
+2. Migliorare l'estrazione dei dati rilevanti
+3. Ottimizzare i parametri di chiamata per il modello deepseek-r1-distill-qwen-32b
+4. Implementare elaborazione parallela dove possibile
+5. Ottimizzare la gestione della memoria
+
+llm_predictor.py -> Ottimizzazione della classe LLMPredictor per migliorare la velocità
+evaluate_anomalies.py -> Ottimizzazione del processo di analisi e validazione

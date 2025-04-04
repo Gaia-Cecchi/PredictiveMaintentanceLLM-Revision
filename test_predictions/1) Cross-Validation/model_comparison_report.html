@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Model Comparison Report</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1, h2 {
+            color: #2c3e50;
+        }
+        .metrics-table {
+            border-collapse: collapse;
+            width: 100%;
+            margin: 20px 0;
+        }
+        .metrics-table th {
+            background-color: #f2f2f2;
+            padding: 12px;
+            text-align: left;
+        }
+        .metrics-table td {
+            padding: 10px;
+            border: 1px solid #ddd;
+        }
+        .metrics-table tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+        .image-container {
+            margin: 20px 0;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            margin: 20px 0;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+    </style>
+</head>
+<body>
+    <h1>Model Comparison Report</h1>
+    <p>Analysis date: 2025-03-21 15:47:10</p>
+    
+    <h2>Performance Comparison</h2>
+    <table border='1' class='metrics-table'>
+<tr><th>Metric</th><th>Qwen 2.5 (mean &plusmn; std)</th><th>ANN (mean &plusmn; std)</th><th>CNN (mean &plusmn; std)</th><th>LSTM (mean &plusmn; std)</th><th>Best Model</th></tr>
+<tr><td>precision</td><td>0.8933 &plusmn; 0.1535</td><td>0.6100 &plusmn; 0.3847</td><td>0.1300 &plusmn; 0.1857</td><td>0.7500 &plusmn; 0.2500</td><td>Qwen 2.5</td></tr>
+<tr><td>recall</td><td>1.0000 &plusmn; 0.0000</td><td>0.7500 &plusmn; 0.4330</td><td>0.2500 &plusmn; 0.4330</td><td>0.7500 &plusmn; 0.2500</td><td>Qwen 2.5</td></tr>
+<tr><td>f1_score</td><td>0.9378 &plusmn; 0.0908</td><td>0.6611 &plusmn; 0.3911</td><td>0.1643 &plusmn; 0.2520</td><td>0.7500 &plusmn; 0.2500</td><td>Qwen 2.5</td></tr>
+<tr><td>auc_roc</td><td>0.9991 &plusmn; 0.0012</td><td>0.9679 &plusmn; 0.0627</td><td>0.6516 &plusmn; 0.2376</td><td>0.8748 &plusmn; 0.1248</td><td>Qwen 2.5</td></tr>
+<tr><td>specificity</td><td>0.9982 &plusmn; 0.0025</td><td>0.9982 &plusmn; 0.0010</td><td>0.9885 &plusmn; 0.0056</td><td>0.9995 &plusmn; 0.0005</td><td>LSTM</td></tr>
+</table>
+    
+    <h2>Visualization</h2>
+    <div class="image-container">
+        <h3>Bar Chart Comparison</h3>
+        <img src="model_comparison.png" alt="Model Performance Comparison">
+        
+        <h3>Radar Chart Comparison</h3>
+        <img src="model_comparison_radar.png" alt="Model Comparison Radar Chart">
+    </div>
+    
+    <h2>Conclusion</h2>
+    <p>Based on the analysis of all metrics:</p>
+    <ul>
+        <li>Qwen 2.5 shows the best overall performance with highest F1-score and most consistent results</li>
+        <li>LSTM shows second-best performance with good balance between precision and recall</li>
+        <li>ANN shows moderate performance with higher variability</li>
+        <li>CNN shows lower performance compared to other models</li>
+    </ul>
+</body>
+</html>

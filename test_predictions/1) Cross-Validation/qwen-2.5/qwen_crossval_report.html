@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cross-Validation Report for Qwen 2.5-32B</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1, h2 {
+            color: #2c3e50;
+        }
+        .metrics-table {
+            border-collapse: collapse;
+            width: 100%;
+            margin: 20px 0;
+        }
+        .metrics-table th {
+            background-color: #f2f2f2;
+            padding: 12px;
+            text-align: left;
+        }
+        .metrics-table td {
+            padding: 10px;
+            border: 1px solid #ddd;
+        }
+        .metrics-table tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+        .image-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            margin: 20px 0;
+        }
+        .chart-image {
+            max-width: 48%;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        .full-width-image {
+            width: 100%;
+            margin: 20px 0;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        @media (max-width: 768px) {
+            .chart-image {
+                max-width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1>Cross-Validation Report for Qwen 2.5-32B</h1>
+    <p>Analysis date: 2025-03-21 13:04:22</p>
+    
+    <h2>Overview</h2>
+    <ul>
+        <li>Total samples analyzed: 1133</li>
+        <li>Number of anomalies in dataset: 11</li>
+        <li>Percentage of anomalies: 0.97%</li>
+        <li>Number of folds: 5</li>
+    </ul>
+    
+    <h2>Main Metrics (mean ± std)</h2>
+    <table border='1' class='metrics-table'>
+<tr><th>Metric</th><th>Mean</th><th>Std Dev</th><th>Min</th><th>Max</th></tr>
+<tr><td>precision</td><td>0.8933</td><td>0.1535</td><td>0.6667</td><td>1.0000</td></tr>
+<tr><td>recall</td><td>1.0000</td><td>0.0000</td><td>1.0000</td><td>1.0000</td></tr>
+<tr><td>f1_score</td><td>0.9378</td><td>0.0908</td><td>0.8000</td><td>1.0000</td></tr>
+<tr><td>auc_roc</td><td>0.9991</td><td>0.0012</td><td>0.9978</td><td>1.0000</td></tr>
+<tr><td>specificity</td><td>0.9982</td><td>0.0025</td><td>0.9955</td><td>1.0000</td></tr>
+</table>
+    
+    <h2>Metrics Visualization</h2>
+    <div class="image-container">
+        <img src="qwen_crossval_precision_distribution.png" alt="Precision Distribution" class="chart-image">
+        <img src="qwen_crossval_recall_distribution.png" alt="Recall Distribution" class="chart-image">
+        <img src="qwen_crossval_f1_score_distribution.png" alt="F1-Score Distribution" class="chart-image">
+        <img src="qwen_crossval_specificity_distribution.png" alt="Specificity Distribution" class="chart-image">
+    </div>
+    
+    <h3>Metrics Radar Chart</h3>
+    <img src="qwen_crossval_radar_chart.png" alt="Metrics Radar Chart" class="full-width-image">
+    
+    <h2>Interpretation</h2>
+    <p>The metrics show consistency across folds, indicating that the model generalizes well to unseen data. The F1-score variation (CV=0.097) is normal, suggesting a good balance between stability and adaptation.</p>
+    
+    <h2>Conclusion</h2>
+    <p>The Qwen 2.5-32B model shows overall good performance in classifying anomalies in the predictive maintenance dataset.</p>
+</body>
+</html>
