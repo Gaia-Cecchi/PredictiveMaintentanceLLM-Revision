@@ -1,0 +1,32 @@
+Data,Giorno,Mese,Temperatura minima,Temperatura massima,Punto di rugiada,Umidità media,Umidità minima,Umidità massima,Visibilità media,Velocità del vento media,Velocità massima del vento,Raffica,Pressione media sul livello del mare,Pressione media,Pioggia,Fenomeni,Condizione Meteo,Temperatura media
+2024-03-01,1,Marzo,12 °C,13 °C,12 °C,98 %,82 %,100 %,18 km,8 km/h,17 km/h,-,1003 mb,-,n/d,Pioggia,pioggia e schiarite,
+2024-03-02,2,Marzo,10 °C,15 °C,11 °C,93 %,77 %,100 %,21 km,10 km/h,22 km/h,-,1009 mb,-,n/d,Pioggia,pioggia e schiarite,13 °C
+2024-03-03,3,Marzo,9 °C,14 °C,9 °C,85 %,72 %,100 %,18 km,19 km/h,33 km/h,-,1005 mb,-,n/d,Pioggia - Temporale,pioggia e schiarite,
+2024-03-04,4,Marzo,9 °C,14 °C,8 °C,85 %,72 %,94 %,19 km,10 km/h,22 km/h,-,1005 mb,-,n/d,Pioggia,nubi sparse,
+2024-03-05,5,Marzo,6 °C,15 °C,9 °C,88 %,62 %,100 %,20 km,12 km/h,24 km/h,-,1012 mb,-,-,Nebbia,poco nuvoloso,11 °C
+2024-03-06,6,Marzo,7 °C,14 °C,7 °C,79 %,51 %,100 %,20 km,16 km/h,39 km/h,-,1014 mb,-,n/d,Pioggia,poco nuvoloso,11 °C
+2024-03-07,7,Marzo,4 °C,14 °C,7 °C,88 %,62 %,100 %,20 km,8 km/h,17 km/h,-,1017 mb,-,-,Nessuno,poco nuvoloso,9 °C
+2024-03-08,8,Marzo,4 °C,14 °C,7 °C,88 %,58 %,100 %,18 km,11 km/h,22 km/h,-,1014 mb,-,n/d,Pioggia,pioggia e schiarite,10 °C
+2024-03-09,9,Marzo,8 °C,16 °C,10 °C,88 %,51 %,100 %,20 km,12 km/h,22 km/h,-,1009 mb,-,n/d,Pioggia,pioggia e schiarite,
+2024-03-10,10,Marzo,9 °C,14 °C,11 °C,95 %,88 %,100 %,19 km,16 km/h,30 km/h,-,1002 mb,-,n/d,Pioggia - Temporale - Nebbia,pioggia e schiarite,
+2024-03-11,11,Marzo,7 °C,16 °C,10 °C,91 %,72 %,100 %,18 km,9 km/h,24 km/h,-,1005 mb,-,-,Nebbia,nubi sparse,11 °C
+2024-03-12,12,Marzo,6 °C,16 °C,9 °C,91 %,67 %,100 %,16 km,8 km/h,17 km/h,-,1013 mb,-,-,Nebbia,nebbia al mattino,11 °C
+2024-03-13,13,Marzo,7 °C,16 °C,10 °C,91 %,63 %,100 %,19 km,8 km/h,17 km/h,-,1017 mb,-,-,Nebbia,nebbia al mattino,11 °C
+2024-03-14,14,Marzo,6 °C,16 °C,9 °C,92 %,68 %,100 %,14 km,8 km/h,17 km/h,-,1019 mb,-,-,Nebbia,nebbia al mattino,
+2024-03-15,15,Marzo,8 °C,13 °C,11 °C,99 %,94 %,100 %,14 km,5 km/h,11 km/h,-,1019 mb,-,n/d,Pioggia - Nebbia,pioggia e schiarite,11 °C
+2024-03-16,16,Marzo,10 °C,17 °C,12 °C,95 %,77 %,100 %,19 km,6 km/h,13 km/h,-,1020 mb,-,n/d,Pioggia - Nebbia,pioggia e schiarite,13 °C
+2024-03-17,17,Marzo,8 °C,17 °C,11 °C,94 %,68 %,100 %,12 km,6 km/h,15 km/h,-,1022 mb,-,-,Nebbia,nebbia al mattino,12 °C
+2024-03-18,18,Marzo,10 °C,14 °C,12 °C,99 %,94 %,100 %,4 km,5 km/h,11 km/h,-,1016 mb,-,n/d,Pioggia - Nebbia,pioggia debole,
+2024-03-19,19,Marzo,10 °C,19 °C,12 °C,90 %,64 %,100 %,14 km,7 km/h,17 km/h,-,1016 mb,-,-,Nebbia,nebbia al mattino,14 °C
+2024-03-20,20,Marzo,9 °C,20 °C,9 °C,78 %,39 %,100 %,20 km,9 km/h,21 km/h,-,1020 mb,-,-,Nebbia,sereno,14 °C
+2024-03-21,21,Marzo,8 °C,19 °C,12 °C,92 %,73 %,100 %,16 km,9 km/h,21 km/h,-,1023 mb,-,n/d,Pioggia - Nebbia,nebbia al mattino,14 °C
+2024-03-22,22,Marzo,9 °C,21 °C,12 °C,87 %,56 %,100 %,16 km,8 km/h,21 km/h,-,1019 mb,-,-,Nebbia,nebbia al mattino,15 °C
+2024-03-23,23,Marzo,9 °C,18 °C,12 °C,93 %,72 %,100 %,20 km,10 km/h,42 km/h,-,1014 mb,-,-,Nessuno,poco nuvoloso,14 °C
+2024-03-24,24,Marzo,,17 °C,10 °C,77 %,59 %,100 %,21 km,20 km/h,37 km/h,-,1008 mb,-,-,Nessuno,poco nuvoloso,
+2024-03-25,25,Marzo,6 °C,18 °C,7 °C,77 %,45 %,100 %,20 km,10 km/h,21 km/h,-,1007 mb,-,-,Nessuno,poco nuvoloso,
+2024-03-26,26,Marzo,10 °C,15 °C,11 °C,90 %,77 %,100 %,20 km,12 km/h,18 km/h,-,998 mb,-,n/d,Pioggia,pioggia e schiarite,12 °C
+2024-03-27,27,Marzo,10 °C,14 °C,10 °C,85 %,62 %,100 %,16 km,19 km/h,35 km/h,-,996 mb,-,n/d,Pioggia,pioggia e schiarite,13 °C
+2024-03-28,28,Marzo,11 °C,19 °C,13 °C,88 %,67 %,100 %,16 km,26 km/h,42 km/h,-,1003 mb,-,n/d,Pioggia,pioggia e schiarite,15 °C
+2024-03-29,29,Marzo,11 °C,21 °C,12 °C,82 %,56 %,100 %,17 km,13 km/h,24 km/h,-,1011 mb,-,-,Nessuno,poco nuvoloso,16 °C
+2024-03-30,30,Marzo,15 °C,21 °C,10 °C,63 %,40 %,100 %,17 km,17 km/h,37 km/h,-,1006 mb,-,n/d,Pioggia,pioggia e schiarite,
+2024-03-31,31,Marzo,13 °C,20 °C,15 °C,92 %,68 %,100 %,12 km,12 km/h,30 km/h,-,1007 mb,-,n/d,Pioggia,nubi sparse,16 °C

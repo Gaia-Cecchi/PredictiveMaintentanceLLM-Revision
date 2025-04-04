@@ -1,0 +1,31 @@
+Data,Giorno,Mese,Temperatura media,Temperatura minima,Temperatura massima,Punto di rugiada,Umidità media,Umidità minima,Umidità massima,Visibilità media,Velocità del vento media,Velocità massima del vento,Raffica,Pressione media sul livello del mare,Pressione media,Pioggia,Fenomeni,Condizione Meteo
+2024-06-01,1,Giugno,18 °C,12 °C,24 °C,15 °C,80 %,50 %,100 %,21 km,-,-,-,1012 mb,-,-,Nessuno,poco nuvoloso
+2024-06-02,2,Giugno,18 °C,14 °C,24 °C,16 °C,88 %,61 %,100 %,21 km,-,-,-,1015 mb,-,n/d,Pioggia - Temporale,temporale e schiarite
+2024-06-03,3,Giugno,19 °C,14 °C,23 °C,16 °C,85 %,61 %,100 %,21 km,-,-,-,1014 mb,-,n/d,Pioggia - Temporale - Nebbia,poco nuvoloso
+2024-06-04,4,Giugno,19 °C,13 °C,24 °C,16 °C,83 %,47 %,100 %,19 km,-,-,-,1015 mb,-,-,Nessuno,poco nuvoloso
+2024-06-05,5,Giugno,20 °C,16 °C,24 °C,18 °C,87 %,65 %,100 %,20 km,-,-,-,1016 mb,-,-,Nessuno,poco nuvoloso
+2024-06-06,6,Giugno,21 °C,16 °C,24 °C,18 °C,84 %,61 %,100 %,21 km,-,-,-,1019 mb,-,-,Nessuno,poco nuvoloso
+2024-06-07,7,Giugno,22 °C,17 °C,25 °C,18 °C,83 %,54 %,100 %,19 km,-,-,-,1018 mb,-,-,Nessuno,poco nuvoloso
+2024-06-08,8,Giugno,23 °C,15 °C,28 °C,17 °C,74 %,42 %,100 %,21 km,-,-,-,1014 mb,-,-,Nessuno,sereno
+2024-06-09,9,Giugno,23 °C,19 °C,29 °C,18 °C,77 %,40 %,100 %,21 km,-,-,-,1007 mb,-,n/d,Pioggia - Temporale,poco nuvoloso
+2024-06-10,10,Giugno,22 °C,20 °C,24 °C,20 °C,87 %,78 %,100 %,20 km,-,-,-,1006 mb,-,n/d,Pioggia - Temporale,nubi sparse
+2024-06-11,11,Giugno,22 °C,16 °C,26 °C,17 °C,75 %,51 %,100 %,18 km,-,-,-,1010 mb,-,-,Nessuno,poco nuvoloso
+2024-06-12,12,Giugno,21 °C,17 °C,25 °C,16 °C,77 %,36 %,100 %,20 km,-,-,-,1012 mb,-,-,Nessuno,poco nuvoloso
+2024-06-13,13,Giugno,19 °C,16 °C,23 °C,16 °C,81 %,53 %,100 %,21 km,-,-,-,1015 mb,-,-,Nessuno,poco nuvoloso
+2024-06-14,14,Giugno,20 °C,16 °C,24 °C,17 °C,80 %,61 %,100 %,20 km,-,-,-,1018 mb,-,-,Nessuno,poco nuvoloso
+2024-06-15,15,Giugno,21 °C,15 °C,26 °C,17 °C,79 %,50 %,100 %,21 km,-,-,-,1013 mb,-,-,Nessuno,poco nuvoloso
+2024-06-16,16,Giugno,21 °C,16 °C,26 °C,17 °C,77 %,50 %,94 %,21 km,-,-,-,1012 mb,-,-,Nessuno,poco nuvoloso
+2024-06-17,17,Giugno,22 °C,14 °C,28 °C,15 °C,70 %,37 %,100 %,19 km,-,-,-,1016 mb,-,-,Nessuno,sereno
+2024-06-18,18,Giugno,25 °C,16 °C,32 °C,15 °C,61 %,35 %,100 %,20 km,-,-,-,1016 mb,-,-,Nessuno,sole e caldo
+2024-06-19,19,Giugno,24 °C,19 °C,29 °C,19 °C,74 %,45 %,94 %,19 km,-,-,-,1016 mb,-,-,Nessuno,poco nuvoloso
+2024-06-20,20,Giugno,26 °C,21 °C,31 °C,21 °C,77 %,49 %,100 %,21 km,-,-,-,1017 mb,-,-,Nessuno,sole e caldo
+2024-06-21,21,Giugno,25 °C,22 °C,29 °C,22 °C,86 %,62 %,100 %,19 km,-,-,-,1015 mb,-,-,Nessuno,poco nuvoloso
+2024-06-22,22,Giugno,22 °C,20 °C,25 °C,20 °C,86 %,65 %,100 %,20 km,-,-,-,1013 mb,-,-,Nessuno,poco nuvoloso
+2024-06-23,23,Giugno,21 °C,18 °C,25 °C,19 °C,90 %,54 %,100 %,19 km,-,-,-,1010 mb,-,n/d,Pioggia - Temporale,pioggia e schiarite
+2024-06-24,24,Giugno,21 °C,19 °C,25 °C,20 °C,91 %,69 %,100 %,20 km,-,-,-,1011 mb,-,n/d,Pioggia,pioggia e schiarite
+2024-06-25,25,Giugno,22 °C,19 °C,25 °C,20 °C,87 %,78 %,100 %,18 km,-,-,-,1012 mb,-,n/d,Pioggia - Temporale,temporale e schiarite
+2024-06-26,26,Giugno,21 °C,17 °C,26 °C,19 °C,89 %,69 %,100 %,21 km,-,-,-,1012 mb,-,-,Nebbia,poco nuvoloso
+2024-06-27,27,Giugno,23 °C,18 °C,27 °C,20 °C,84 %,61 %,100 %,18 km,-,-,-,1013 mb,-,-,Nebbia,poco nuvoloso
+2024-06-28,28,Giugno,,19 °C,29 °C,20 °C,77 %,48 %,100 %,20 km,-,-,-,1016 mb,-,-,Nessuno,sereno
+2024-06-29,29,Giugno,26 °C,21 °C,33 °C,22 °C,78 %,53 %,100 %,19 km,-,-,-,1015 mb,-,-,Nessuno,sole e caldo
+2024-06-30,30,Giugno,24 °C,20 °C,27 °C,21 °C,84 %,70 %,100 %,19 km,-,-,-,1013 mb,-,-,Nessuno,poco nuvoloso

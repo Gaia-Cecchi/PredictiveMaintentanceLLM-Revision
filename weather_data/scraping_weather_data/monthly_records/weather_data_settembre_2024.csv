@@ -1,0 +1,31 @@
+Data,Giorno,Mese,Temperatura media,Temperatura minima,Temperatura massima,Punto di rugiada,Umidità media,Umidità minima,Umidità massima,Visibilità media,Velocità del vento media,Velocità massima del vento,Raffica,Pressione media sul livello del mare,Pressione media,Pioggia,Fenomeni,Condizione Meteo
+2024-09-01,1,Settembre,26 °C,20 °C,32 °C,19 °C,67 %,34 %,94 %,19 km,-,-,-,1014 mb,-,-,Nessuno,sole e caldo
+2024-09-02,2,Settembre,24 °C,19 °C,29 °C,20 °C,83 %,45 %,100 %,19 km,-,-,-,1013 mb,-,n/d,Pioggia,poco nuvoloso
+2024-09-03,3,Settembre,25 °C,20 °C,30 °C,19 °C,76 %,43 %,100 %,19 km,-,-,-,1015 mb,-,-,Nessuno,poco nuvoloso
+2024-09-04,4,Settembre,24 °C,19 °C,30 °C,20 °C,83 %,45 %,100 %,20 km,-,-,-,1013 mb,-,n/d,Pioggia - Temporale,poco nuvoloso
+2024-09-05,5,Settembre,22 °C,20 °C,25 °C,20 °C,89 %,74 %,100 %,19 km,-,-,-,1008 mb,-,n/d,Pioggia - Temporale,poco nuvoloso
+2024-09-06,6,Settembre,23 °C,18 °C,28 °C,19 °C,80 %,55 %,100 %,18 km,-,-,-,1011 mb,-,-,Nessuno,poco nuvoloso
+2024-09-07,7,Settembre,24 °C,16 °C,30 °C,20 °C,80 %,55 %,100 %,22 km,-,-,-,1015 mb,-,n/d,Pioggia,poco nuvoloso
+2024-09-08,8,Settembre,23 °C,20 °C,27 °C,22 °C,95 %,84 %,100 %,16 km,-,-,-,1011 mb,-,n/d,Pioggia - Temporale,temporale e schiarite
+2024-09-09,9,Settembre,23 °C,20 °C,25 °C,20 °C,86 %,69 %,100 %,18 km,-,-,-,1004 mb,-,n/d,Pioggia,poco nuvoloso
+2024-09-10,10,Settembre,23 °C,18 °C,27 °C,20 °C,89 %,62 %,100 %,20 km,-,-,-,1008 mb,-,-,Nessuno,poco nuvoloso
+2024-09-11,11,Settembre,23 °C,18 °C,27 °C,20 °C,87 %,70 %,100 %,19 km,-,-,-,1008 mb,-,-,Nessuno,poco nuvoloso
+2024-09-12,12,Settembre,21 °C,19 °C,23 °C,16 °C,74 %,56 %,94 %,18 km,1 km/h,37 km/h,-,1004 mb,-,-,Nessuno,nubi sparse
+2024-09-13,13,Settembre,17 °C,13 °C,20 °C,13 °C,79 %,40 %,100 %,20 km,-,-,-,1006 mb,-,n/d,Pioggia - Temporale,pioggia e schiarite
+2024-09-14,14,Settembre,16 °C,9 °C,23 °C,9 °C,68 %,31 %,100 %,20 km,-,-,-,1013 mb,-,-,Nessuno,poco nuvoloso
+2024-09-15,15,Settembre,17 °C,11 °C,24 °C,15 °C,86 %,64 %,100 %,19 km,-,-,-,1013 mb,-,-,Nessuno,poco nuvoloso
+2024-09-16,16,Settembre,19 °C,15 °C,24 °C,14 °C,75 %,31 %,100 %,20 km,-,-,-,1011 mb,-,-,Nessuno,poco nuvoloso
+2024-09-17,17,Settembre,19 °C,16 °C,22 °C,12 °C,65 %,46 %,100 %,21 km,-,-,-,1012 mb,-,n/d,Pioggia,pioggia e schiarite
+2024-09-18,18,Settembre,18 °C,16 °C,22 °C,15 °C,83 %,61 %,94 %,21 km,-,-,-,1015 mb,-,n/d,Pioggia,pioggia e schiarite
+2024-09-19,19,Settembre,18 °C,14 °C,23 °C,15 °C,82 %,57 %,100 %,21 km,-,-,-,1014 mb,-,-,Nessuno,poco nuvoloso
+2024-09-20,20,Settembre,19 °C,14 °C,25 °C,14 °C,75 %,50 %,100 %,20 km,-,-,-,1017 mb,-,-,Nessuno,poco nuvoloso
+2024-09-21,21,Settembre,20 °C,15 °C,26 °C,16 °C,77 %,48 %,100 %,20 km,-,-,-,1020 mb,-,-,Nessuno,poco nuvoloso
+2024-09-22,22,Settembre,20 °C,16 °C,25 °C,17 °C,81 %,54 %,100 %,20 km,-,-,-,1018 mb,-,-,Nessuno,poco nuvoloso
+2024-09-23,23,Settembre,20 °C,18 °C,24 °C,19 °C,92 %,74 %,100 %,19 km,-,-,-,1012 mb,-,n/d,Pioggia - Temporale,pioggia e schiarite
+2024-09-24,24,Settembre,20 °C,17 °C,24 °C,17 °C,84 %,69 %,100 %,19 km,-,-,-,1012 mb,-,n/d,Pioggia,poco nuvoloso
+2024-09-25,25,Settembre,20 °C,15 °C,24 °C,17 °C,86 %,65 %,100 %,21 km,-,-,-,1014 mb,-,n/d,Pioggia,poco nuvoloso
+2024-09-26,26,Settembre,21 °C,16 °C,25 °C,19 °C,89 %,74 %,100 %,19 km,-,-,-,1012 mb,-,-,Nebbia,poco nuvoloso
+2024-09-27,27,Settembre,23 °C,20 °C,25 °C,21 °C,90 %,78 %,100 %,20 km,-,-,-,1009 mb,-,n/d,Pioggia,nubi sparse
+2024-09-28,28,Settembre,19 °C,15 °C,21 °C,15 °C,79 %,64 %,100 %,20 km,-,-,-,1012 mb,-,-,Nessuno,poco nuvoloso
+2024-09-29,29,Settembre,18 °C,13 °C,23 °C,13 °C,80 %,44 %,100 %,21 km,-,-,-,1021 mb,-,-,Nessuno,poco nuvoloso
+2024-09-30,30,Settembre,17 °C,12 °C,23 °C,14 °C,85 %,61 %,100 %,21 km,-,-,-,1021 mb,-,-,Nessuno,poco nuvoloso

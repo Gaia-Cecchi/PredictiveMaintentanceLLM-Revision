@@ -1,0 +1,100 @@
+﻿Feedback degli utenti sullo stato del compressore
+Segnalazioni Positive
+1. Efficienza della Procedura di Segnalazione:
+   * La procedura di segnalazione delle anomalie è stata molto efficiente e facile da utilizzare. Ho potuto segnalare un problema con il compressore 1 in pochi minuti, e la risposta è stata tempestiva.
+   * Data: 10/02/2024
+   * Ora: 08:00
+   * Descrizione: Compressore 1: riduzione della pressione. La procedura ha funzionato bene, e il tecnico è intervenuto rapidamente.
+   * Valutazione: 5/5
+   * Commento: "La procedura è stata facile da seguire e il tecnico è arrivato subito. Sono molto soddisfatto del servizio."
+2. Formazione Efficace:
+   * I corsi di formazione sulla procedura di segnalazione delle anomalie sono stati molto utili. Ora mi sento più sicuro nel segnalare eventuali problemi.
+   * Data: 15/02/2024
+   * Ora: 14:00
+   * Descrizione: Ho partecipato al corso di formazione e adesso so esattamente come segnalare le anomalie in modo corretto.
+   * Valutazione: 5/5
+   * Commento: "Il corso di formazione è stato chiaro e ben strutturato. Adesso mi sento più competente nel gestire le segnalazioni."
+3. Supporto Tecnico:
+   * Il supporto tecnico è stato eccezionale. Quando ho segnalato un rumore insolito nel compressore 2, il tecnico è arrivato entro poche ore e ha risolto il problema.
+   * Data: 20/02/2024
+   * Ora: 10:00
+   * Descrizione: Compressore 2: rumore insolito. Il tecnico ha identificato il problema e lo ha risolto rapidamente.
+   * Valutazione: 5/5
+   * Commento: "Il tecnico è stato molto professionale e ha risolto il problema in breve tempo. Sono molto soddisfatto del servizio."
+4. Ambiente di Lavoro Sicuro:
+   * L'ambiente di lavoro è sempre stato sicuro e pulito. Le procedure di sicurezza sono state rispettate e mi sento protetto durante le operazioni.
+   * Data: 25/02/2024
+   * Ora: 16:00
+   * Descrizione: Ho notato che le procedure di sicurezza sono sempre state seguite correttamente.
+   * Valutazione: 5/5
+   * Commento: "Mi sento sempre al sicuro sul posto di lavoro grazie alle procedure di sicurezza ben definite."
+5. Collaborazione del Team:
+   * Il team è sempre stato collaborativo e disponibile. Quando ho avuto bisogno di aiuto, sono stato supportato immediatamente.
+   * Data: 28/02/2024
+   * Ora: 10:00
+   * Descrizione: Ho ricevuto un grande supporto dal team durante una situazione critica.
+   * Valutazione: 5/5
+   * Commento: "Il team è sempre pronto ad aiutare. Sono molto grato per il loro supporto."
+6. Strumenti e Attrezzature Adeguate:
+   * Ho sempre avuto accesso a strumenti e attrezzature adeguate per svolgere le mie mansioni. Questo ha migliorato notevolmente la mia efficienza.
+   * Data: 01/03/2024
+   * Ora: 14:00
+   * Descrizione: Ho trovato sempre gli strumenti necessari per completare le mie attività.
+   * Valutazione: 5/5
+   * Commento: "Gli strumenti e le attrezzature sono sempre stati disponibili e in buone condizioni."
+7. Comunicazione Efficace:
+   * La comunicazione con il team tecnico è stata sempre efficace. Ho ricevuto risposte pronte e chiare alle mie domande.
+   * Data: 03/03/2024
+   * Ora: 10:00
+   * Descrizione: Ho sempre ricevuto risposte rapide e utili dal team tecnico.
+   * Valutazione: 5/5
+   * Commento: "La comunicazione è stata sempre chiara e tempestiva. Sono molto soddisfatto."
+1. Difficoltà con il Modulo di Segnalazione:
+   * Ho avuto difficoltà a compilare il modulo di segnalazione perché non era chiaro dove inserire alcune informazioni. Sarebbe utile una guida più dettagliata.
+   * Data: 22/02/2024
+   * Ora: 12:00
+   * Descrizione: Ho avuto problemi a capire come compilare correttamente il modulo di segnalazione.
+   * Valutazione: 2/5
+   * Commento: "Il modulo è un po' confuso. Sarebbe utile una guida più chiara per evitare errori."
+2. Ritardi nella Risposta:
+   * Una volta ho segnalato un problema con il compressore 3, ma la risposta è arrivata dopo più di 4 ore. Sarebbe meglio ridurre i tempi di risposta.
+   * Data: 25/02/2024
+   * Ora: 16:00
+   * Descrizione: Compressore 3: aumento del consumo energetico. La risposta è stata troppo lenta.
+   * Valutazione: 2/5
+   * Commento: "La risposta è stata troppo lenta. Sarebbe meglio avere tempi di risposta più rapidi per evitare interruzioni prolungate."
+3. Mancanza di Feedback:
+   * Dopo aver segnalato un problema, non ho ricevuto un feedback chiaro sullo stato della risoluzione. Sarebbe utile avere aggiornamenti regolari.
+   * Data: 28/02/2024
+   * Ora: 10:00
+   * Descrizione: Non ho ricevuto aggiornamenti sulla risoluzione del problema segnalato.
+   * Valutazione: 2/5
+   * Commento: "Non ho ricevuto aggiornamenti sulla risoluzione del problema. Sarebbe utile avere un feedback regolare per sapere cosa sta succedendo."
+4. Problemi di Comunicazione:
+   * Ho avuto difficoltà a comunicare con il team tecnico perché non sempre erano disponibili o non rispondevano prontamente alle mie richieste.
+   * Data: 01/03/2024
+   * Ora: 14:00
+   * Descrizione: Ho avuto problemi a contattare il team tecnico per una questione urgente.
+   * Valutazione: 2/5
+   * Commento: "A volte è difficile contattare il team tecnico. Sarebbe meglio avere un canale di comunicazione più efficiente."
+5. Mancanza di Risorse:
+   * A volte, non ho avuto accesso a tutte le risorse necessarie per completare le mie mansioni. Sarebbe utile migliorare la disponibilità di strumenti e materiali.
+   * Data: 03/03/2024
+   * Ora: 10:00
+   * Descrizione: Ho avuto difficoltà a trovare i materiali necessari per un intervento di manutenzione.
+   * Valutazione: 2/5
+   * Commento: "A volte mancano materiali o strumenti importanti. Sarebbe utile migliorare la logistica per evitare ritardi."
+6. Complessità delle Procedure:
+   * Le procedure di segnalazione e risoluzione dei problemi sono a volte troppo complesse e difficili da seguire. Sarebbe utile semplificarle.
+   * Data: 05/03/2024
+   * Ora: 12:00
+   * Descrizione: Ho trovato le procedure troppo complesse e difficili da capire.
+   * Valutazione: 2/5
+   * Commento: "Le procedure sono un po' troppo complesse. Sarebbe meglio semplificarle per renderle più accessibili a tutti."
+7. Mancanza di Aggiornamenti sulle Normative:
+   * Non sempre sono stato informato degli aggiornamenti sulle normative di sicurezza e procedure operative. Sarebbe utile ricevere comunicazioni regolari su questi argomenti.
+   * Data: 08/03/2024
+   * Ora: 10:00
+   * Descrizione: Non ho ricevuto aggiornamenti sulle normative di sicurezza recenti.
+   * Valutazione: 2/5
+   * Commento: "Non sempre sono informato degli aggiornamenti sulle normative. Sarebbe utile ricevere comunicazioni regolari per rimanere aggiornato."

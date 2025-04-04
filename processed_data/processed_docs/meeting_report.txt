@@ -1,0 +1,62 @@
+Report sulla Riunione del 9 Gennaio 2025
+Introduzione
+Oggi si è tenuta una riunione dedicata all’attività progettuale della manutenzione pre-
+dittiva dei macchinari delle concerie. Durante l’incontro, sono emerse diverse conside-
+razioni importanti riguardo alla raccolta e all’analisi delle variabili significative per il
+monitoraggio e la gestione dei macchinari.
+Obiettivi della Riunione
+L’obiettivo principale della riunione è stato quello di valutare l’importanza di definire
+un approccio sistematico per la raccolta dei dati e l’analisi delle variabili operative dei
+macchinari, con particolare attenzione ai compressori, ma con un’estensione prevista ad
+altri tipi di macchinari utilizzati nelle concerie.
+La definizione di queste variabili è cruciale per:
+1.Identificare i parametri critici : Riconoscere le variabili che influenzano il fun-
+zionamento e l’efficienza del macchinario.
+2.Stabilire relazioni tra variabili : Comprendere come le diverse variabili inte-
+ragiscono tra loro e come queste relazioni possano influenzare la performance del
+macchinario.
+3.Prevenire guasti : Utilizzare i dati raccolti per prevedere potenziali guasti e
+ottimizzare le operazioni di manutenzione.
+È stato proposto di preparare uno schema che delinei quali variabili utilizzare per
+ciascun tipo di macchinario, basandosi sul comportamento atteso da dottrina. Questo
+richiede un lavoro preliminare di schematizzazione parametrica per ogni appliance che si
+intende studiare.
+Esempio per i Compressori
+Per i compressori, alcune delle variabili significative da monitorare includono:
+•Umidità dell’aria : Un elevato livello di umidità può compromettere l’efficienza
+del compressore e causare corrosione interna.
+•Pressione di uscita : Monitorare la pressione di uscita è fondamentale per garan-
+tire che il compressore operi all’interno delle specifiche progettuali.
+1
+•Temperatura dell’olio : La temperatura dell’olio lubrificante deve essere mante-
+nuta entro limiti specifici per evitare danni alle parti meccaniche.
+•Vibrazioni : L’analisi delle vibrazioni può fornire indicazioni precoci su problemi
+meccanici o malfunzionamenti.
+La scelta di queste variabili non è casuale; ognuna ha un impatto diretto sulla perfor-
+mance e sulla longevità del compressore. Ad esempio:
+•Umidità dell’aria : Un aumento dell’umidità può portare a problemi di condensa,
+riducendo l’efficienza energetica e aumentando il rischio di guasti.
+•Pressione di uscita : Se la pressione non è mantenuta entro i limiti operativi, si
+possono verificare sovraccarichi che possono danneggiare il compressore o ridurne
+la vita utile.
+Di seguito è riportata una tabella che riassume lo schema parametrico per i compres-
+sori, includendo unità di misura e range da dottrina.
+Tabella 1: Schema Parametrico per i Compressori
+Variabile Unità di Misura Range da Dottrina
+Umidità dell’Aria % 0 - 100%
+Pressione di Uscita bar 1 - 10 bar (a seconda del modello)
+Temperatura dell’Olio °C 20 - 80 °C
+Vibrazioni mm/s < 2 mm/s (valore normale)
+Conclusioni
+La riunione ha evidenziato la necessità di un approccio metodico alla manutenzione pre-
+dittiva dei macchinari nelle concerie. La definizione chiara delle variabili operative e
+la comprensione delle loro relazioni sono essenziali per ottimizzare le prestazioni dei
+compressori e degli altri macchinari. È fondamentale procedere con la creazione degli
+schemi di raccolta dati e con l’analisi dettagliata delle variabili per garantire un’efficace
+implementazione della manutenzione predittiva.
+Prossimi Passi
+1. Sviluppo dello schema di raccolta dati per i compressori e altri macchinari.
+2. Identificazione delle variabili chiave da monitorare in base ai principi dottrinali.
+3. Pianificazione di ulteriori incontri per discutere i progressi e le eventuali modifiche
+necessarie al piano d’azione.
+2

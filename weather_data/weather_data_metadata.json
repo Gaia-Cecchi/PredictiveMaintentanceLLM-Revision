@@ -1,0 +1,25 @@
+{
+  "data_source": "Weather Underground (wunderground.com)",
+  "location": "Pisa, Italy (LIRP)",
+  "time_period": "2024-3 to 2024-5",
+  "coordinates": {
+    "latitude": 43.683,
+    "longitude": 10.3991
+  },
+  "columns": {
+    "timestamp": "ISO 8601 datetime string (YYYY-MM-DDTHH:MM:SS)",
+    "temperature": "Temperature in Celsius degrees (numeric)",
+    "dew_point": "Dew point temperature in Celsius degrees (numeric)",
+    "humidity": "Relative humidity percentage (numeric)",
+    "wind_direction": "Wind direction abbreviation (e.g., N, SE, WSW)",
+    "wind_degrees": "Wind direction in degrees (0-360, where 0/360 is North)",
+    "wind_speed": "Wind speed in km/h (numeric)",
+    "wind_gust": "Wind gust speed in km/h (numeric)",
+    "pressure": "Atmospheric pressure in hPa (numeric)",
+    "precipitation": "Precipitation in mm (numeric)",
+    "condition": "Weather condition description (text)",
+    "weather_category": "Simplified weather category (sunny, cloudy, rainy, snowy, foggy, other)"
+  },
+  "schema_version": "1.0",
+  "created_at": "2025-03-14T10:53:29"
+}

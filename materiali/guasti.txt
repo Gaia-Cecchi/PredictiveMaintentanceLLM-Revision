@@ -1,0 +1,64 @@
+﻿Storico dei Guasti del Compressore
+1. Guasto Elettrico
+* Data e Ora: 15/05/2024, 10:00
+* Tipologia del Guasto: Fusibile bruciato
+* Frequenza: Primo guasto di questo tipo
+* Causa: Sovraccarico elettrico dovuto a un cortocircuito nel cablaggio
+* Soluzione: Sostituzione del fusibile e verifica del cablaggio per evitare futuri problemi
+* Altre Informazioni: Il guasto ha causato un'interruzione di 2 ore nel funzionamento del compressore
+2. Accumulo di Ossidazione
+* Data e Ora: 22/05/2024, 14:00
+* Tipologia del Guasto: Corrosione interna
+* Frequenza: Secondo guasto di questo tipo
+* Causa: Uso di refrigeranti e lubrificanti di bassa qualità
+* Soluzione: Pulizia interna e sostituzione dei refrigeranti e lubrificanti con prodotti di alta qualità
+* Altre Informazioni: Il guasto ha ridotto l'efficienza del compressore del 20%
+3. Mancanza di Manutenzione
+* Data e Ora: 25/05/2024, 16:00
+* Tipologia del Guasto: Filtri dell'aria ostruiti
+* Frequenza: Terzo guasto di questo tipo
+* Causa: Mancata pulizia regolare dei filtri
+* Soluzione: Pulizia e sostituzione dei filtri dell'aria
+* Altre Informazioni: Il guasto ha causato una riduzione del flusso d'aria del 30%
+4. Surriscaldamento
+* Data e Ora: 01/06/2024, 12:00
+* Tipologia del Guasto: Ventilatore ostruito
+* Frequenza: Primo guasto di questo tipo
+* Causa: Polvere accumulata sul ventilatore
+* Soluzione: Pulizia del ventilatore e verifica della ventilazione nella sala compressori
+* Altre Informazioni: Il guasto ha aumentato la temperatura di funzionamento del compressore di 5°C
+5. Livelli del Refrigerante Bassi
+* Data e Ora: 08/06/2024, 10:00
+* Tipologia del Guasto: Perdita di refrigerante
+* Frequenza: Secondo guasto di questo tipo
+* Causa: Guarnizione difettosa nel sistema di refrigerazione
+* Soluzione: Sostituzione della guarnizione e rabbocco del refrigerante
+* Altre Informazioni: Il guasto ha ridotto l'efficienza di raffreddamento del 25%
+6. Guasti Meccanici
+* Data e Ora: 15/06/2024, 14:00
+* Tipologia del Guasto: Valvole difettose
+* Frequenza: Primo guasto di questo tipo
+* Causa: Usura delle valvole dovuta a mancanza di manutenzione
+* Soluzione: Sostituzione delle valvole e verifica delle condizioni di funzionamento
+* Altre Informazioni: Il guasto ha causato una perdita di pressione del 20%
+7. Problemi con il Sistema di Controllo
+* Data e Ora: 22/06/2024, 16:00
+* Tipologia del Guasto: Controllore difettoso
+* Frequenza: Primo guasto di questo tipo
+* Causa: Configurazione errata del controllore
+* Soluzione: Ri-configurazione del controllore e verifica della sua funzionalità
+* Altre Informazioni: Il guasto ha causato un'interruzione di 3 ore nel funzionamento del compressore
+8. Vibrazioni Eccessive
+* Data e Ora: 25/06/2024, 10:00
+* Tipologia del Guasto: Cinghie allentate
+* Frequenza: Secondo guasto di questo tipo
+* Causa: Mancata regolazione delle cinghie
+* Soluzione: Regolazione delle cinghie e verifica delle condizioni di funzionamento
+* Altre Informazioni: Il guasto ha causato un aumento delle vibrazioni del 30%
+9. Problemi di Lubrificazione
+* Data e Ora: 28/06/2024, 14:00
+* Tipologia del Guasto: Livelli di lubrificante bassi
+* Frequenza: Terzo guasto di questo tipo
+* Causa: Mancata verifica dei livelli di lubrificante
+* Soluzione: Rabbocco del lubrificante e verifica regolare dei livelli
+* Altre Informazioni: Il guasto ha ridotto l'efficienza del compressore del 15%

@@ -1,0 +1,31 @@
+Data,Giorno,Mese,Temperatura media,Temperatura minima,Temperatura massima,Punto di rugiada,Umidità media,Umidità minima,Umidità massima,Visibilità media,Velocità del vento media,Velocità massima del vento,Raffica,Pressione media sul livello del mare,Pressione media,Pioggia,Fenomeni,Condizione Meteo
+2024-11-01,1,Novembre,15 °C,9 °C,22 °C,12 °C,86 %,50 %,100 %,17 km,-,-,-,1024 mb,-,-,Nebbia,sereno
+2024-11-02,2,Novembre,14 °C,8 °C,21 °C,12 °C,89 %,64 %,100 %,16 km,-,-,-,1023 mb,-,-,Nebbia,poco nuvoloso
+2024-11-03,3,Novembre,14 °C,8 °C,20 °C,12 °C,90 %,60 %,100 %,16 km,-,-,-,1024 mb,-,-,Nebbia,nebbia al mattino
+2024-11-04,4,Novembre,13 °C,8 °C,20 °C,10 °C,86 %,52 %,100 %,16 km,-,-,-,1025 mb,-,-,Nebbia,nebbia al mattino
+2024-11-05,5,Novembre,12 °C,7 °C,19 °C,10 °C,89 %,56 %,100 %,18 km,-,-,-,1024 mb,-,-,Nebbia,sereno
+2024-11-06,6,Novembre,12 °C,8 °C,19 °C,9 °C,84 %,45 %,100 %,21 km,-,-,-,1026 mb,-,-,Nessuno,sereno
+2024-11-07,7,Novembre,12 °C,7 °C,19 °C,7 °C,79 %,42 %,100 %,19 km,-,-,-,1027 mb,-,-,Nessuno,sereno
+2024-11-08,8,Novembre,13 °C,8 °C,19 °C,9 °C,80 %,46 %,100 %,20 km,-,-,-,1025 mb,-,-,Nessuno,poco nuvoloso
+2024-11-09,9,Novembre,14 °C,11 °C,18 °C,12 °C,84 %,64 %,100 %,20 km,-,-,-,1023 mb,-,-,Nessuno,poco nuvoloso
+2024-11-10,10,Novembre,12 °C,8 °C,19 °C,10 °C,85 %,52 %,100 %,21 km,-,-,-,1020 mb,-,-,Nessuno,sereno
+2024-11-11,11,Novembre,11 °C,5 °C,18 °C,5 °C,69 %,37 %,93 %,21 km,-,-,-,1021 mb,-,-,Nessuno,sereno
+2024-11-12,12,Novembre,11 °C,6 °C,16 °C,6 °C,71 %,48 %,100 %,18 km,-,-,-,1019 mb,-,-,Nessuno,poco nuvoloso
+2024-11-13,13,Novembre,10 °C,6 °C,15 °C,4 °C,69 %,41 %,100 %,21 km,-,-,-,1021 mb,-,-,Nessuno,sereno
+2024-11-14,14,Novembre,9 °C,5 °C,15 °C,4 °C,73 %,44 %,100 %,20 km,-,-,-,1020 mb,-,-,Nessuno,sereno
+2024-11-15,15,Novembre,8 °C,2 °C,15 °C,4 °C,83 %,47 %,100 %,21 km,-,-,-,1022 mb,-,-,Nessuno,sereno
+2024-11-16,16,Novembre,8 °C,1 °C,16 °C,6 °C,87 %,51 %,100 %,19 km,-,-,-,1022 mb,-,-,Nebbia,poco nuvoloso
+2024-11-17,17,Novembre,11 °C,8 °C,15 °C,11 °C,98 %,88 %,100 %,18 km,-,-,-,1015 mb,-,n/d,Pioggia,pioggia e schiarite
+2024-11-18,18,Novembre,14 °C,12 °C,18 °C,13 °C,93 %,77 %,100 %,21 km,-,-,-,1011 mb,-,-,Nessuno,poco nuvoloso
+2024-11-19,19,Novembre,14 °C,11 °C,17 °C,12 °C,89 %,77 %,100 %,20 km,-,-,-,1010 mb,-,n/d,Pioggia,nubi sparse
+2024-11-20,20,Novembre,15 °C,6 °C,18 °C,11 °C,81 %,59 %,100 %,19 km,22 km/h,55 km/h,-,999 mb,-,n/d,Pioggia,poco nuvoloso
+2024-11-21,21,Novembre,10 °C,2 °C,17 °C,7 °C,85 %,41 %,100 %,17 km,7 km/h,65 km/h,-,1002 mb,-,n/d,Pioggia,pioggia e schiarite
+2024-11-22,22,Novembre,13 °C,5 °C,18 °C,11 °C,43 %,14 %,83 %,19 km,19 km/h,59 km/h,-,1001 mb,-,-,Nessuno,poco nuvoloso
+2024-11-23,23,Novembre,5 °C,-1 °C,12 °C,2 °C,70 %,30 %,100 %,20 km,-,-,-,1026 mb,-,-,Nessuno,poco nuvoloso
+2024-11-24,24,Novembre,10 °C,7 °C,13 °C,6 °C,81 %,62 %,93 %,19 km,-,-,-,1032 mb,-,-,Nessuno,nubi sparse
+2024-11-25,25,Novembre,10 °C,8 °C,15 °C,8 °C,87 %,67 %,100 %,19 km,-,-,-,1028 mb,-,-,Nessuno,nubi sparse
+2024-11-26,26,Novembre,13 °C,9 °C,17 °C,12 °C,95 %,88 %,100 %,19 km,-,-,-,1022 mb,-,n/d,Pioggia,nubi sparse
+2024-11-27,27,Novembre,14 °C,9 °C,18 °C,14 °C,98 %,88 %,100 %,9 km,-,-,-,1022 mb,-,n/d,Pioggia - Nebbia,nebbia al mattino
+2024-11-28,28,Novembre,12 °C,9 °C,15 °C,12 °C,99 %,94 %,100 %,12 km,-,-,-,1023 mb,-,n/d,Pioggia - Nebbia,nebbia al mattino
+2024-11-29,29,Novembre,13 °C,8 °C,16 °C,9 °C,80 %,54 %,100 %,20 km,-,-,-,1023 mb,-,-,Nessuno,poco nuvoloso
+2024-11-30,30,Novembre,8 °C,4 °C,14 °C,3 °C,73 %,44 %,100 %,21 km,-,-,-,1027 mb,-,-,Nessuno,poco nuvoloso

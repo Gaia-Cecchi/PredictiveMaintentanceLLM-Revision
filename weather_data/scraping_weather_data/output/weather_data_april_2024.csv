@@ -1,0 +1,1434 @@
+Date,Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Condition
+2024-04-01,12:15 AM,15 °C,15 °C,100 %,E,17 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-01,12:45 AM,16 °C,14 °C,88 %,ESE,17 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-01,1:15 AM,16 °C,14 °C,88 %,S,13 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-01,1:45 AM,15 °C,15 °C,100 %,S,4 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Light Rain
+2024-04-01,2:15 AM,15 °C,15 °C,100 %,S,6 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Light Rain
+2024-04-01,2:45 AM,15 °C,15 °C,100 %,SSE,11 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Light Rain
+2024-04-01,3:15 AM,15 °C,15 °C,100 %,SSE,13 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Light Rain
+2024-04-01,3:45 AM,15 °C,15 °C,100 %,E,4 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Light Rain
+2024-04-01,4:15 AM,15 °C,15 °C,100 %,SSW,2 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Light Rain
+2024-04-01,4:45 AM,15 °C,15 °C,100 %,S,2 km/h,0 km/h,"1,004.28 hPa",0.0 mm,Light Rain
+2024-04-01,5:15 AM,15 °C,15 °C,100 %,S,7 km/h,0 km/h,"1,004.28 hPa",0.0 mm,Light Rain
+2024-04-01,5:45 AM,14 °C,14 °C,100 %,W,28 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Light Rain
+2024-04-01,6:15 AM,14 °C,14 °C,100 %,W,13 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Light Rain
+2024-04-01,6:45 AM,14 °C,14 °C,100 %,WNW,7 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Light Rain
+2024-04-01,7:15 AM,14 °C,14 °C,100 %,NW,9 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Light Rain
+2024-04-01,7:45 AM,14 °C,14 °C,100 %,NNE,9 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Light Rain
+2024-04-01,8:15 AM,14 °C,14 °C,100 %,NNW,9 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Light Rain
+2024-04-01,8:45 AM,14 °C,14 °C,100 %,N,7 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Light Rain
+2024-04-01,9:15 AM,14 °C,14 °C,100 %,N,6 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Light Rain
+2024-04-01,9:45 AM,14 °C,14 °C,100 %,NE,9 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Light Rain
+2024-04-01,10:15 AM,14 °C,14 °C,100 %,ENE,4 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Light Rain
+2024-04-01,10:45 AM,14 °C,14 °C,100 %,SE,4 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Light Rain
+2024-04-01,11:15 AM,14 °C,14 °C,100 %,SSE,7 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-01,11:45 AM,14 °C,14 °C,100 %,E,6 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-01,12:15 PM,14 °C,14 °C,100 %,VAR,2 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-01,12:45 PM,14 °C,14 °C,100 %,VAR,4 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Partly Cloudy
+2024-04-01,1:15 PM,15 °C,14 °C,94 %,SE,7 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Partly Cloudy
+2024-04-01,1:45 PM,15 °C,15 °C,100 %,SSW,7 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Partly Cloudy
+2024-04-01,2:15 PM,15 °C,13 °C,88 %,W,17 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Partly Cloudy
+2024-04-01,2:45 PM,15 °C,12 °C,82 %,W,15 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Partly Cloudy
+2024-04-01,3:15 PM,15 °C,12 °C,82 %,W,19 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Partly Cloudy
+2024-04-01,3:45 PM,15 °C,13 °C,88 %,W,20 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Partly Cloudy
+2024-04-01,4:15 PM,16 °C,13 °C,82 %,W,24 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Partly Cloudy
+2024-04-01,4:45 PM,15 °C,12 °C,82 %,W,33 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Partly Cloudy / Windy
+2024-04-01,5:15 PM,15 °C,10 °C,72 %,W,31 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Partly Cloudy
+2024-04-01,5:45 PM,15 °C,10 °C,72 %,W,28 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Partly Cloudy
+2024-04-01,6:15 PM,14 °C,11 °C,82 %,W,22 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Partly Cloudy
+2024-04-01,6:45 PM,14 °C,11 °C,82 %,WSW,31 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Fair
+2024-04-01,7:15 PM,14 °C,11 °C,82 %,WSW,43 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Partly Cloudy / Windy
+2024-04-01,7:45 PM,14 °C,11 °C,82 %,WSW,30 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Partly Cloudy
+2024-04-01,8:15 PM,14 °C,11 °C,82 %,WSW,30 km/h,0 km/h,"1,008.28 hPa",0.0 mm,Fair
+2024-04-01,8:45 PM,14 °C,11 °C,82 %,W,26 km/h,0 km/h,"1,008.28 hPa",0.0 mm,Fair
+2024-04-01,9:15 PM,14 °C,11 °C,82 %,W,17 km/h,0 km/h,"1,009.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-01,9:45 PM,14 °C,11 °C,82 %,W,17 km/h,0 km/h,"1,009.28 hPa",0.0 mm,Partly Cloudy
+2024-04-01,10:15 PM,14 °C,12 °C,88 %,WSW,22 km/h,0 km/h,"1,009.28 hPa",0.0 mm,Fair
+2024-04-01,10:45 PM,14 °C,12 °C,88 %,WSW,20 km/h,0 km/h,"1,010.28 hPa",0.0 mm,Fair
+2024-04-01,11:15 PM,14 °C,14 °C,100 %,E,15 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-01,11:45 PM,14 °C,14 °C,100 %,E,17 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-02,12:15 AM,14 °C,11 °C,82 %,W,22 km/h,0 km/h,"1,011.28 hPa",0.0 mm,Fair
+2024-04-02,12:45 AM,14 °C,11 °C,82 %,W,20 km/h,0 km/h,"1,011.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-02,1:15 AM,14 °C,11 °C,82 %,W,30 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Partly Cloudy
+2024-04-02,1:45 AM,14 °C,11 °C,82 %,W,20 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-02,2:15 AM,14 °C,11 °C,82 %,W,20 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Partly Cloudy
+2024-04-02,2:45 AM,14 °C,11 °C,82 %,W,30 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Partly Cloudy
+2024-04-02,3:15 AM,14 °C,11 °C,82 %,W,30 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-02,3:45 AM,14 °C,12 °C,88 %,WSW,17 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-02,4:15 AM,14 °C,11 °C,82 %,W,17 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Partly Cloudy
+2024-04-02,4:45 AM,14 °C,11 °C,82 %,W,15 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-02,5:15 AM,14 °C,12 °C,88 %,WSW,22 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-02,5:45 AM,14 °C,12 °C,88 %,WSW,28 km/h,0 km/h,"1,013.28 hPa",0.0 mm,Partly Cloudy
+2024-04-02,6:15 AM,13 °C,11 °C,88 %,WSW,19 km/h,0 km/h,"1,013.28 hPa",0.0 mm,Fair
+2024-04-02,6:45 AM,14 °C,12 °C,88 %,WSW,22 km/h,0 km/h,"1,013.28 hPa",0.0 mm,Fair
+2024-04-02,7:15 AM,14 °C,12 °C,88 %,SW,20 km/h,0 km/h,"1,013.28 hPa",0.0 mm,Fair
+2024-04-02,7:45 AM,15 °C,11 °C,77 %,SW,20 km/h,0 km/h,"1,013.28 hPa",0.0 mm,Fair
+2024-04-02,8:15 AM,16 °C,11 °C,72 %,SW,20 km/h,0 km/h,"1,013.28 hPa",0.0 mm,Fair
+2024-04-02,8:45 AM,16 °C,11 °C,72 %,SW,15 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Fair
+2024-04-02,9:15 AM,17 °C,11 °C,68 %,SSW,19 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Partly Cloudy
+2024-04-02,9:45 AM,17 °C,11 °C,68 %,SSW,17 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Partly Cloudy
+2024-04-02,10:15 AM,17 °C,9 °C,59 %,SW,19 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Partly Cloudy
+2024-04-02,10:45 AM,17 °C,9 °C,59 %,SW,30 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Partly Cloudy
+2024-04-02,11:15 AM,17 °C,11 °C,68 %,SW,31 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Partly Cloudy
+2024-04-02,11:45 AM,17 °C,9 °C,59 %,SW,31 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Partly Cloudy
+2024-04-02,12:15 PM,17 °C,9 °C,59 %,WSW,30 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Partly Cloudy
+2024-04-02,12:45 PM,17 °C,9 °C,59 %,WSW,28 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Partly Cloudy
+2024-04-02,1:15 PM,17 °C,10 °C,63 %,W,31 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Partly Cloudy
+2024-04-02,1:45 PM,18 °C,10 °C,59 %,WSW,31 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Partly Cloudy
+2024-04-02,2:15 PM,17 °C,10 °C,63 %,W,31 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Partly Cloudy
+2024-04-02,2:45 PM,17 °C,9 °C,59 %,W,30 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Partly Cloudy
+2024-04-02,3:15 PM,17 °C,10 °C,63 %,W,30 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Partly Cloudy
+2024-04-02,3:45 PM,17 °C,11 °C,68 %,W,28 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Partly Cloudy
+2024-04-02,4:15 PM,17 °C,11 °C,68 %,W,26 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Partly Cloudy
+2024-04-02,4:45 PM,17 °C,11 °C,68 %,W,22 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Partly Cloudy
+2024-04-02,5:15 PM,16 °C,11 °C,72 %,W,22 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Partly Cloudy
+2024-04-02,5:45 PM,15 °C,11 °C,77 %,W,20 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Partly Cloudy
+2024-04-02,6:15 PM,15 °C,11 °C,77 %,W,22 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Partly Cloudy
+2024-04-02,6:45 PM,15 °C,12 °C,82 %,W,15 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-02,7:15 PM,15 °C,12 °C,82 %,W,9 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-02,7:45 PM,14 °C,12 °C,88 %,W,9 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-02,8:15 PM,13 °C,12 °C,94 %,W,7 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-02,8:45 PM,13 °C,11 °C,88 %,W,4 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-02,9:15 PM,13 °C,12 °C,94 %,VAR,2 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-02,9:45 PM,12 °C,12 °C,100 %,VAR,4 km/h,0 km/h,"1,018.27 hPa",0.0 mm,Fair
+2024-04-02,10:15 PM,11 °C,11 °C,100 %,SE,9 km/h,0 km/h,"1,018.27 hPa",0.0 mm,Fair
+2024-04-02,10:45 PM,12 °C,12 °C,100 %,SSE,9 km/h,0 km/h,"1,018.27 hPa",0.0 mm,Fair
+2024-04-02,11:15 PM,14 °C,12 °C,88 %,W,19 km/h,0 km/h,"1,010.28 hPa",0.0 mm,Fair
+2024-04-02,11:45 PM,14 °C,12 °C,88 %,W,19 km/h,0 km/h,"1,011.28 hPa",0.0 mm,Fair
+2024-04-03,12:15 AM,11 °C,11 °C,100 %,SSE,7 km/h,0 km/h,"1,018.27 hPa",0.0 mm,Fair
+2024-04-03,12:45 AM,10 °C,10 °C,100 %,E,9 km/h,0 km/h,"1,018.27 hPa",0.0 mm,Fair
+2024-04-03,1:15 AM,10 °C,10 °C,100 %,S,4 km/h,0 km/h,"1,018.27 hPa",0.0 mm,Fair
+2024-04-03,1:45 AM,10 °C,10 °C,100 %,ESE,9 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-03,2:15 AM,10 °C,10 °C,100 %,ESE,11 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-03,2:45 AM,10 °C,10 °C,100 %,ESE,7 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-03,3:15 AM,10 °C,10 °C,100 %,ESE,6 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-03,3:45 AM,10 °C,10 °C,100 %,ENE,7 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-03,4:15 AM,10 °C,10 °C,100 %,S,6 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-03,4:45 AM,10 °C,10 °C,100 %,E,4 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-03,5:15 AM,10 °C,10 °C,100 %,S,6 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-03,5:45 AM,10 °C,10 °C,100 %,ESE,7 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-03,6:15 AM,10 °C,10 °C,100 %,ESE,6 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-03,6:45 AM,10 °C,10 °C,100 %,SE,7 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-03,7:15 AM,11 °C,10 °C,94 %,ESE,6 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Partly Cloudy
+2024-04-03,7:45 AM,11 °C,11 °C,100 %,ESE,6 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Partly Cloudy
+2024-04-03,8:15 AM,12 °C,11 °C,94 %,E,6 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Partly Cloudy
+2024-04-03,8:45 AM,12 °C,12 °C,100 %,ESE,6 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Partly Cloudy
+2024-04-03,9:15 AM,13 °C,12 °C,94 %,ESE,6 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Partly Cloudy
+2024-04-03,9:45 AM,13 °C,11 °C,88 %,ESE,11 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Partly Cloudy
+2024-04-03,10:15 AM,14 °C,11 °C,82 %,ESE,11 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Partly Cloudy
+2024-04-03,10:45 AM,15 °C,10 °C,72 %,ESE,9 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Partly Cloudy
+2024-04-03,11:15 AM,15 °C,10 °C,72 %,SSE,11 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-03,11:45 AM,16 °C,10 °C,68 %,SSE,7 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-03,12:15 PM,17 °C,11 °C,68 %,SSE,7 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-03,12:45 PM,18 °C,11 °C,64 %,SSW,7 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-03,1:15 PM,19 °C,11 °C,60 %,SW,9 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-03,1:45 PM,19 °C,8 °C,49 %,W,17 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-03,2:15 PM,19 °C,9 °C,52 %,SSW,20 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Partly Cloudy
+2024-04-03,2:45 PM,18 °C,7 °C,49 %,WSW,15 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Partly Cloudy
+2024-04-03,3:15 PM,17 °C,10 °C,63 %,WSW,13 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Partly Cloudy
+2024-04-03,3:45 PM,17 °C,9 °C,59 %,WSW,15 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Partly Cloudy
+2024-04-03,4:15 PM,17 °C,8 °C,55 %,WSW,13 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Partly Cloudy
+2024-04-03,4:45 PM,17 °C,8 °C,55 %,WSW,9 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Partly Cloudy
+2024-04-03,5:15 PM,17 °C,9 °C,59 %,WSW,9 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Partly Cloudy
+2024-04-03,5:45 PM,16 °C,9 °C,63 %,WSW,11 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Partly Cloudy
+2024-04-03,6:15 PM,16 °C,10 °C,68 %,WSW,9 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Partly Cloudy
+2024-04-03,6:45 PM,16 °C,10 °C,68 %,WSW,9 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Partly Cloudy
+2024-04-03,7:15 PM,15 °C,12 °C,82 %,W,7 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Partly Cloudy
+2024-04-03,7:45 PM,15 °C,12 °C,82 %,W,7 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Partly Cloudy
+2024-04-03,8:15 PM,15 °C,13 °C,88 %,VAR,6 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Partly Cloudy
+2024-04-03,8:45 PM,15 °C,13 °C,88 %,WSW,6 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Partly Cloudy
+2024-04-03,9:15 PM,14 °C,13 °C,94 %,W,6 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Partly Cloudy
+2024-04-03,9:45 PM,14 °C,13 °C,94 %,W,6 km/h,0 km/h,"1,018.27 hPa",0.0 mm,Partly Cloudy
+2024-04-03,10:15 PM,14 °C,13 °C,94 %,SSW,7 km/h,0 km/h,"1,018.27 hPa",0.0 mm,Partly Cloudy
+2024-04-03,10:45 PM,13 °C,13 °C,100 %,SE,6 km/h,0 km/h,"1,018.27 hPa",0.0 mm,Fair
+2024-04-03,11:15 PM,10 °C,10 °C,100 %,N,6 km/h,0 km/h,"1,018.27 hPa",0.0 mm,Fair
+2024-04-03,11:45 PM,10 °C,10 °C,100 %,VAR,4 km/h,0 km/h,"1,018.27 hPa",0.0 mm,Fair
+2024-04-04,12:15 AM,12 °C,12 °C,100 %,SE,9 km/h,0 km/h,"1,018.27 hPa",0.0 mm,Fair
+2024-04-04,12:45 AM,11 °C,11 °C,100 %,SSE,7 km/h,0 km/h,"1,018.27 hPa",0.0 mm,Fair
+2024-04-04,1:15 AM,11 °C,11 °C,100 %,ESE,4 km/h,0 km/h,"1,018.27 hPa",0.0 mm,Fair
+2024-04-04,1:45 AM,11 °C,11 °C,100 %,ESE,6 km/h,0 km/h,"1,018.27 hPa",0.0 mm,Fair
+2024-04-04,2:45 AM,11 °C,11 °C,100 %,SE,4 km/h,0 km/h,"1,018.27 hPa",0.0 mm,Partly Cloudy
+2024-04-04,3:15 AM,11 °C,11 °C,100 %,VAR,4 km/h,0 km/h,"1,018.27 hPa",0.0 mm,Partly Cloudy
+2024-04-04,3:45 AM,11 °C,11 °C,100 %,SE,4 km/h,0 km/h,"1,018.27 hPa",0.0 mm,Mostly Cloudy
+2024-04-04,4:15 AM,11 °C,11 °C,100 %,S,6 km/h,0 km/h,"1,018.27 hPa",0.0 mm,Mostly Cloudy
+2024-04-04,4:45 AM,11 °C,11 °C,100 %,VAR,6 km/h,0 km/h,"1,018.27 hPa",0.0 mm,Mostly Cloudy
+2024-04-04,5:15 AM,11 °C,11 °C,100 %,ESE,11 km/h,0 km/h,"1,018.27 hPa",0.0 mm,Mostly Cloudy
+2024-04-04,5:45 AM,11 °C,11 °C,100 %,E,11 km/h,0 km/h,"1,018.27 hPa",0.0 mm,Mostly Cloudy
+2024-04-04,6:15 AM,12 °C,12 °C,100 %,SE,13 km/h,0 km/h,"1,018.27 hPa",0.0 mm,Mostly Cloudy
+2024-04-04,6:45 AM,12 °C,12 °C,100 %,ESE,11 km/h,0 km/h,"1,019.27 hPa",0.0 mm,Mostly Cloudy
+2024-04-04,7:15 AM,12 °C,12 °C,100 %,E,7 km/h,0 km/h,"1,019.27 hPa",0.0 mm,Mostly Cloudy
+2024-04-04,7:45 AM,13 °C,12 °C,94 %,E,7 km/h,0 km/h,"1,019.27 hPa",0.0 mm,Mostly Cloudy
+2024-04-04,8:15 AM,13 °C,12 °C,94 %,E,7 km/h,0 km/h,"1,019.27 hPa",0.0 mm,Mostly Cloudy
+2024-04-04,8:45 AM,14 °C,12 °C,88 %,E,6 km/h,0 km/h,"1,020.27 hPa",0.0 mm,Mostly Cloudy
+2024-04-04,9:15 AM,14 °C,12 °C,88 %,SSE,6 km/h,0 km/h,"1,021.27 hPa",0.0 mm,Mostly Cloudy
+2024-04-04,9:45 AM,15 °C,13 °C,88 %,SE,6 km/h,0 km/h,"1,021.27 hPa",0.0 mm,Mostly Cloudy
+2024-04-04,10:15 AM,15 °C,12 °C,82 %,SE,6 km/h,0 km/h,"1,021.27 hPa",0.0 mm,Mostly Cloudy
+2024-04-04,10:45 AM,16 °C,12 °C,77 %,VAR,4 km/h,0 km/h,"1,021.27 hPa",0.0 mm,Mostly Cloudy
+2024-04-04,11:15 AM,16 °C,12 °C,77 %,ESE,2 km/h,0 km/h,"1,021.27 hPa",0.0 mm,Mostly Cloudy
+2024-04-04,11:45 AM,17 °C,12 °C,72 %,N,6 km/h,0 km/h,"1,021.27 hPa",0.0 mm,Mostly Cloudy
+2024-04-04,12:15 PM,18 °C,13 °C,73 %,VAR,4 km/h,0 km/h,"1,021.27 hPa",0.0 mm,Partly Cloudy
+2024-04-04,12:45 PM,18 °C,12 °C,68 %,SW,13 km/h,0 km/h,"1,020.27 hPa",0.0 mm,Fair
+2024-04-04,1:15 PM,19 °C,11 °C,60 %,SW,11 km/h,0 km/h,"1,020.27 hPa",0.0 mm,Partly Cloudy
+2024-04-04,1:45 PM,18 °C,11 °C,64 %,SW,15 km/h,0 km/h,"1,020.27 hPa",0.0 mm,Fair
+2024-04-04,2:15 PM,18 °C,11 °C,64 %,W,17 km/h,0 km/h,"1,020.27 hPa",0.0 mm,Fair
+2024-04-04,2:45 PM,18 °C,11 °C,64 %,W,19 km/h,0 km/h,"1,020.27 hPa",0.0 mm,Fair
+2024-04-04,3:15 PM,18 °C,11 °C,64 %,W,15 km/h,0 km/h,"1,020.27 hPa",0.0 mm,Fair
+2024-04-04,3:45 PM,18 °C,12 °C,68 %,WNW,13 km/h,0 km/h,"1,020.27 hPa",0.0 mm,Fair
+2024-04-04,4:15 PM,18 °C,12 °C,68 %,WNW,15 km/h,0 km/h,"1,020.27 hPa",0.0 mm,Fair
+2024-04-04,4:45 PM,18 °C,12 °C,68 %,W,11 km/h,0 km/h,"1,020.27 hPa",0.0 mm,Fair
+2024-04-04,5:15 PM,18 °C,13 °C,73 %,WNW,13 km/h,0 km/h,"1,020.27 hPa",0.0 mm,Fair
+2024-04-04,5:45 PM,17 °C,13 °C,77 %,NW,9 km/h,0 km/h,"1,020.27 hPa",0.0 mm,Fair
+2024-04-04,6:15 PM,17 °C,14 °C,82 %,NNW,9 km/h,0 km/h,"1,020.27 hPa",0.0 mm,Fair
+2024-04-04,6:45 PM,16 °C,13 °C,82 %,NNW,9 km/h,0 km/h,"1,020.27 hPa",0.0 mm,Fair
+2024-04-04,7:15 PM,15 °C,13 °C,88 %,NNW,7 km/h,0 km/h,"1,020.27 hPa",0.0 mm,Fair
+2024-04-04,7:45 PM,15 °C,14 °C,94 %,NNW,7 km/h,0 km/h,"1,021.27 hPa",0.0 mm,Fair
+2024-04-04,8:15 PM,15 °C,13 °C,88 %,VAR,4 km/h,0 km/h,"1,021.27 hPa",0.0 mm,Fair
+2024-04-04,8:45 PM,14 °C,13 °C,94 %,VAR,4 km/h,0 km/h,"1,021.27 hPa",0.0 mm,Fair
+2024-04-04,9:15 PM,13 °C,12 °C,94 %,VAR,4 km/h,0 km/h,"1,021.27 hPa",0.0 mm,Fair
+2024-04-04,9:45 PM,12 °C,12 °C,100 %,VAR,4 km/h,0 km/h,"1,022.27 hPa",0.0 mm,Fair
+2024-04-04,10:15 PM,11 °C,11 °C,100 %,VAR,6 km/h,0 km/h,"1,022.27 hPa",0.0 mm,Fair
+2024-04-04,10:45 PM,11 °C,11 °C,100 %,VAR,4 km/h,0 km/h,"1,022.27 hPa",0.0 mm,Fair
+2024-04-04,11:15 PM,12 °C,12 °C,100 %,SE,4 km/h,0 km/h,"1,018.27 hPa",0.0 mm,Fair
+2024-04-04,11:45 PM,13 °C,13 °C,100 %,S,7 km/h,0 km/h,"1,018.27 hPa",0.0 mm,Fair
+2024-04-05,12:15 AM,11 °C,11 °C,100 %,E,6 km/h,0 km/h,"1,022.27 hPa",0.0 mm,Fair
+2024-04-05,12:45 AM,11 °C,11 °C,100 %,SE,7 km/h,0 km/h,"1,022.27 hPa",0.0 mm,Fair
+2024-04-05,1:15 AM,11 °C,11 °C,100 %,VAR,6 km/h,0 km/h,"1,022.27 hPa",0.0 mm,Fair
+2024-04-05,1:45 AM,10 °C,10 °C,100 %,VAR,6 km/h,0 km/h,"1,022.27 hPa",0.0 mm,Fair
+2024-04-05,2:15 AM,10 °C,10 °C,100 %,VAR,4 km/h,0 km/h,"1,022.27 hPa",0.0 mm,Fair
+2024-04-05,2:45 AM,10 °C,10 °C,100 %,E,4 km/h,0 km/h,"1,022.27 hPa",0.0 mm,Shallow Fog
+2024-04-05,3:15 AM,10 °C,10 °C,100 %,VAR,4 km/h,0 km/h,"1,022.27 hPa",0.0 mm,Shallow Fog
+2024-04-05,3:45 AM,9 °C,9 °C,100 %,VAR,2 km/h,0 km/h,"1,022.27 hPa",0.0 mm,Fair
+2024-04-05,4:15 AM,9 °C,9 °C,100 %,VAR,4 km/h,0 km/h,"1,022.27 hPa",0.0 mm,Fair
+2024-04-05,4:45 AM,9 °C,9 °C,100 %,SSE,6 km/h,0 km/h,"1,022.27 hPa",0.0 mm,Fair
+2024-04-05,5:15 AM,9 °C,9 °C,100 %,ESE,7 km/h,0 km/h,"1,022.27 hPa",0.0 mm,Fair
+2024-04-05,5:45 AM,9 °C,9 °C,100 %,E,7 km/h,0 km/h,"1,022.27 hPa",0.0 mm,Fair
+2024-04-05,6:15 AM,9 °C,9 °C,100 %,ESE,7 km/h,0 km/h,"1,022.27 hPa",0.0 mm,Fair
+2024-04-05,6:45 AM,9 °C,9 °C,100 %,ESE,7 km/h,0 km/h,"1,022.27 hPa",0.0 mm,Fair
+2024-04-05,7:15 AM,10 °C,10 °C,100 %,ESE,9 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fair
+2024-04-05,7:45 AM,11 °C,11 °C,100 %,ESE,7 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fair
+2024-04-05,8:15 AM,12 °C,12 °C,100 %,SSE,7 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-05,8:45 AM,13 °C,13 °C,100 %,SSE,7 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-05,9:15 AM,15 °C,13 °C,88 %,SSE,6 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-05,9:45 AM,16 °C,13 °C,82 %,E,6 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-05,10:15 AM,17 °C,14 °C,82 %,S,6 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-05,10:45 AM,18 °C,14 °C,77 %,S,4 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-05,11:15 AM,18 °C,13 °C,73 %,S,4 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-05,11:45 AM,19 °C,12 °C,64 %,W,6 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-05,12:15 PM,19 °C,12 °C,64 %,E,11 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-05,12:45 PM,19 °C,14 °C,73 %,WNW,13 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-05,1:15 PM,19 °C,14 °C,73 %,WSW,11 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-05,1:45 PM,19 °C,15 °C,78 %,W,19 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-05,2:15 PM,19 °C,15 °C,78 %,W,17 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-05,2:45 PM,19 °C,15 °C,78 %,W,13 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-05,3:15 PM,19 °C,15 °C,78 %,WNW,15 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fair
+2024-04-05,3:45 PM,18 °C,15 °C,83 %,W,15 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fair
+2024-04-05,4:15 PM,18 °C,15 °C,83 %,W,17 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fair
+2024-04-05,4:45 PM,18 °C,15 °C,83 %,WSW,13 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fair
+2024-04-05,5:15 PM,18 °C,15 °C,83 %,WSW,13 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fair
+2024-04-05,5:45 PM,17 °C,15 °C,88 %,W,13 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fair
+2024-04-05,6:15 PM,16 °C,15 °C,94 %,W,7 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fair
+2024-04-05,6:45 PM,16 °C,15 °C,94 %,W,7 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fair
+2024-04-05,7:15 PM,16 °C,15 °C,94 %,WNW,6 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fair
+2024-04-05,7:45 PM,16 °C,15 °C,94 %,NW,4 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-05,8:15 PM,15 °C,15 °C,100 %,W,2 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-05,8:45 PM,15 °C,15 °C,100 %,NNW,4 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-05,9:15 PM,15 °C,15 °C,100 %,VAR,4 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-05,9:45 PM,14 °C,14 °C,100 %,NE,4 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Shallow Fog
+2024-04-05,10:15 PM,13 °C,13 °C,100 %,E,6 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Shallow Fog
+2024-04-05,10:45 PM,13 °C,13 °C,100 %,ENE,6 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Shallow Fog
+2024-04-05,11:15 PM,11 °C,11 °C,100 %,VAR,4 km/h,0 km/h,"1,022.27 hPa",0.0 mm,Fair
+2024-04-05,11:45 PM,11 °C,11 °C,100 %,ESE,6 km/h,0 km/h,"1,022.27 hPa",0.0 mm,Fair
+2024-04-06,12:15 AM,11 °C,11 °C,100 %,SE,6 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Shallow Fog
+2024-04-06,12:45 AM,11 °C,11 °C,100 %,E,6 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Shallow Fog
+2024-04-06,1:15 AM,11 °C,11 °C,100 %,ESE,6 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fog
+2024-04-06,1:45 AM,11 °C,11 °C,100 %,VAR,4 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fog
+2024-04-06,2:15 AM,10 °C,10 °C,100 %,VAR,4 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fog
+2024-04-06,2:45 AM,10 °C,10 °C,100 %,SE,7 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Shallow Fog
+2024-04-06,3:15 AM,10 °C,10 °C,100 %,ESE,6 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fog
+2024-04-06,3:45 AM,11 °C,11 °C,100 %,VAR,4 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fog
+2024-04-06,4:15 AM,10 °C,10 °C,100 %,SE,7 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Mist
+2024-04-06,4:45 AM,10 °C,10 °C,100 %,SE,6 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fair
+2024-04-06,5:15 AM,10 °C,10 °C,100 %,ESE,9 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fog
+2024-04-06,5:45 AM,10 °C,10 °C,100 %,ESE,7 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fog
+2024-04-06,6:15 AM,10 °C,10 °C,100 %,SE,6 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fog
+2024-04-06,6:45 AM,9 °C,9 °C,100 %,SSE,6 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-06,7:15 AM,11 °C,11 °C,100 %,SE,7 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-06,7:45 AM,12 °C,12 °C,100 %,SE,7 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-06,8:15 AM,13 °C,13 °C,100 %,SE,7 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-06,8:45 AM,14 °C,14 °C,100 %,E,7 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-06,9:15 AM,15 °C,14 °C,94 %,E,9 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-06,9:45 AM,16 °C,13 °C,82 %,ESE,13 km/h,0 km/h,"1,025.27 hPa",0.0 mm,Fair
+2024-04-06,10:15 AM,17 °C,13 °C,77 %,ESE,11 km/h,0 km/h,"1,025.27 hPa",0.0 mm,Fair
+2024-04-06,10:45 AM,19 °C,13 °C,68 %,ESE,7 km/h,0 km/h,"1,025.27 hPa",0.0 mm,Fair
+2024-04-06,11:15 AM,19 °C,11 °C,60 %,ESE,7 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-06,11:45 AM,20 °C,11 °C,56 %,S,6 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-06,12:15 PM,20 °C,10 °C,52 %,W,7 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-06,12:45 PM,20 °C,10 °C,52 %,W,6 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-06,1:15 PM,21 °C,11 °C,53 %,W,9 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-06,1:45 PM,21 °C,10 °C,49 %,WNW,11 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-06,2:15 PM,21 °C,10 °C,49 %,W,11 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fair
+2024-04-06,2:45 PM,21 °C,9 °C,46 %,W,13 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fair
+2024-04-06,3:15 PM,21 °C,10 °C,49 %,W,13 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fair
+2024-04-06,3:45 PM,21 °C,10 °C,49 %,W,11 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fair
+2024-04-06,4:15 PM,21 °C,10 °C,49 %,W,13 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fair
+2024-04-06,4:45 PM,20 °C,10 °C,52 %,WSW,11 km/h,0 km/h,"1,022.27 hPa",0.0 mm,Fair
+2024-04-06,5:15 PM,20 °C,10 °C,52 %,WSW,15 km/h,0 km/h,"1,022.27 hPa",0.0 mm,Fair
+2024-04-06,5:45 PM,19 °C,11 °C,60 %,W,9 km/h,0 km/h,"1,022.27 hPa",0.0 mm,Fair
+2024-04-06,6:15 PM,18 °C,13 °C,73 %,WNW,11 km/h,0 km/h,"1,022.27 hPa",0.0 mm,Fair
+2024-04-06,6:45 PM,17 °C,13 °C,77 %,WNW,9 km/h,0 km/h,"1,022.27 hPa",0.0 mm,Fair
+2024-04-06,7:15 PM,17 °C,14 °C,82 %,WNW,6 km/h,0 km/h,"1,022.27 hPa",0.0 mm,Fair
+2024-04-06,7:45 PM,16 °C,14 °C,88 %,NNW,4 km/h,0 km/h,"1,022.27 hPa",0.0 mm,Fair
+2024-04-06,8:15 PM,15 °C,13 °C,88 %,NNW,6 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fair
+2024-04-06,8:45 PM,15 °C,12 °C,82 %,NNW,4 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fair
+2024-04-06,9:15 PM,14 °C,12 °C,88 %,S,4 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fair
+2024-04-06,9:45 PM,13 °C,12 °C,94 %,CALM,0 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fair
+2024-04-06,10:15 PM,12 °C,12 °C,100 %,S,7 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fair
+2024-04-06,10:45 PM,12 °C,12 °C,100 %,ESE,6 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fair
+2024-04-06,11:15 PM,13 °C,13 °C,100 %,NE,6 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Shallow Fog
+2024-04-06,11:45 PM,12 °C,12 °C,100 %,SE,7 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Mist
+2024-04-07,12:15 AM,11 °C,11 °C,100 %,ESE,6 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fair
+2024-04-07,12:45 AM,11 °C,11 °C,100 %,E,6 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fair
+2024-04-07,1:15 AM,11 °C,11 °C,100 %,E,6 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fair
+2024-04-07,1:45 AM,11 °C,11 °C,100 %,ESE,2 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fair
+2024-04-07,2:15 AM,10 °C,10 °C,100 %,ESE,2 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fair
+2024-04-07,2:45 AM,10 °C,9 °C,94 %,ESE,4 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fair
+2024-04-07,3:15 AM,10 °C,10 °C,100 %,ESE,6 km/h,0 km/h,"1,022.27 hPa",0.0 mm,Fair
+2024-04-07,3:45 AM,9 °C,9 °C,100 %,ESE,7 km/h,0 km/h,"1,022.27 hPa",0.0 mm,Fair
+2024-04-07,4:15 AM,9 °C,9 °C,100 %,ESE,7 km/h,0 km/h,"1,022.27 hPa",0.0 mm,Fair
+2024-04-07,4:45 AM,9 °C,9 °C,100 %,ESE,4 km/h,0 km/h,"1,022.27 hPa",0.0 mm,Fair
+2024-04-07,5:15 AM,9 °C,9 °C,100 %,SSE,9 km/h,0 km/h,"1,022.27 hPa",0.0 mm,Fair
+2024-04-07,5:45 AM,9 °C,9 °C,100 %,ESE,7 km/h,0 km/h,"1,022.27 hPa",0.0 mm,Fair
+2024-04-07,6:15 AM,9 °C,9 °C,100 %,ESE,9 km/h,0 km/h,"1,022.27 hPa",0.0 mm,Fair
+2024-04-07,6:45 AM,9 °C,9 °C,100 %,E,6 km/h,0 km/h,"1,022.27 hPa",0.0 mm,Fair
+2024-04-07,7:15 AM,9 °C,9 °C,100 %,SE,6 km/h,0 km/h,"1,022.27 hPa",0.0 mm,Fair
+2024-04-07,7:45 AM,10 °C,10 °C,100 %,SE,7 km/h,0 km/h,"1,022.27 hPa",0.0 mm,Fair
+2024-04-07,8:15 AM,11 °C,10 °C,94 %,SE,4 km/h,0 km/h,"1,022.27 hPa",0.0 mm,Fair
+2024-04-07,8:45 AM,11 °C,10 °C,94 %,ESE,7 km/h,0 km/h,"1,022.27 hPa",0.0 mm,Fair
+2024-04-07,9:15 AM,13 °C,10 °C,82 %,ESE,11 km/h,0 km/h,"1,022.27 hPa",0.0 mm,Fair
+2024-04-07,9:45 AM,15 °C,10 °C,72 %,ESE,13 km/h,0 km/h,"1,022.27 hPa",0.0 mm,Fair
+2024-04-07,10:15 AM,17 °C,10 °C,63 %,E,11 km/h,0 km/h,"1,022.27 hPa",0.0 mm,Fair
+2024-04-07,10:45 AM,18 °C,10 °C,59 %,ESE,9 km/h,0 km/h,"1,022.27 hPa",0.0 mm,Fair
+2024-04-07,11:15 AM,19 °C,8 °C,49 %,SSE,6 km/h,0 km/h,"1,022.27 hPa",0.0 mm,Fair
+2024-04-07,11:45 AM,20 °C,8 °C,46 %,ESE,6 km/h,0 km/h,"1,021.27 hPa",0.0 mm,Fair
+2024-04-07,12:15 PM,20 °C,6 °C,40 %,NW,6 km/h,0 km/h,"1,021.27 hPa",0.0 mm,Fair
+2024-04-07,12:45 PM,21 °C,6 °C,38 %,NW,7 km/h,0 km/h,"1,021.27 hPa",0.0 mm,Fair
+2024-04-07,1:15 PM,21 °C,8 °C,43 %,W,11 km/h,0 km/h,"1,020.27 hPa",0.0 mm,Fair
+2024-04-07,1:45 PM,22 °C,10 °C,46 %,W,13 km/h,0 km/h,"1,020.27 hPa",0.0 mm,Fair
+2024-04-07,2:15 PM,21 °C,8 °C,43 %,W,13 km/h,0 km/h,"1,020.27 hPa",0.0 mm,Fair
+2024-04-07,2:45 PM,21 °C,7 °C,40 %,WNW,13 km/h,0 km/h,"1,019.27 hPa",0.0 mm,Fair
+2024-04-07,3:15 PM,21 °C,7 °C,40 %,W,11 km/h,0 km/h,"1,019.27 hPa",0.0 mm,Fair
+2024-04-07,3:45 PM,21 °C,7 °C,40 %,W,11 km/h,0 km/h,"1,019.27 hPa",0.0 mm,Fair
+2024-04-07,4:15 PM,21 °C,6 °C,38 %,W,9 km/h,0 km/h,"1,019.27 hPa",0.0 mm,Fair
+2024-04-07,4:45 PM,21 °C,5 °C,35 %,W,11 km/h,0 km/h,"1,018.27 hPa",0.0 mm,Fair
+2024-04-07,5:15 PM,21 °C,7 °C,40 %,W,11 km/h,0 km/h,"1,018.27 hPa",0.0 mm,Fair
+2024-04-07,5:45 PM,20 °C,10 °C,52 %,W,11 km/h,0 km/h,"1,018.27 hPa",0.0 mm,Fair
+2024-04-07,6:15 PM,19 °C,11 °C,60 %,W,11 km/h,0 km/h,"1,018.27 hPa",0.0 mm,Fair
+2024-04-07,6:45 PM,18 °C,12 °C,68 %,W,7 km/h,0 km/h,"1,018.27 hPa",0.0 mm,Fair
+2024-04-07,7:15 PM,16 °C,12 °C,77 %,WNW,4 km/h,0 km/h,"1,018.27 hPa",0.0 mm,Fair
+2024-04-07,7:45 PM,16 °C,12 °C,77 %,WSW,4 km/h,0 km/h,"1,018.27 hPa",0.0 mm,Fair
+2024-04-07,8:15 PM,15 °C,12 °C,82 %,WSW,4 km/h,0 km/h,"1,018.27 hPa",0.0 mm,Fair
+2024-04-07,8:45 PM,14 °C,12 °C,88 %,WSW,2 km/h,0 km/h,"1,018.27 hPa",0.0 mm,Fair
+2024-04-07,9:15 PM,14 °C,12 °C,88 %,WSW,4 km/h,0 km/h,"1,018.27 hPa",0.0 mm,Fair
+2024-04-07,9:45 PM,14 °C,12 °C,88 %,SSE,2 km/h,0 km/h,"1,018.27 hPa",0.0 mm,Fair
+2024-04-07,10:15 PM,13 °C,12 °C,94 %,SE,4 km/h,0 km/h,"1,018.27 hPa",0.0 mm,Fair
+2024-04-07,10:45 PM,12 °C,11 °C,94 %,E,6 km/h,0 km/h,"1,018.27 hPa",0.0 mm,Fair
+2024-04-07,11:15 PM,11 °C,11 °C,100 %,E,6 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fair
+2024-04-07,11:45 PM,11 °C,11 °C,100 %,ESE,7 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fair
+2024-04-08,12:15 AM,12 °C,11 °C,94 %,ESE,6 km/h,0 km/h,"1,018.27 hPa",0.0 mm,Fair
+2024-04-08,12:45 AM,11 °C,11 °C,100 %,E,6 km/h,0 km/h,"1,018.27 hPa",0.0 mm,Fair
+2024-04-08,1:15 AM,11 °C,11 °C,100 %,E,4 km/h,0 km/h,"1,018.27 hPa",0.0 mm,Fair
+2024-04-08,1:45 AM,11 °C,11 °C,100 %,E,6 km/h,0 km/h,"1,018.27 hPa",0.0 mm,Fair
+2024-04-08,2:15 AM,11 °C,10 °C,94 %,ESE,9 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-08,2:45 AM,11 °C,10 °C,94 %,ESE,7 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-08,3:15 AM,11 °C,11 °C,100 %,ESE,9 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-08,3:45 AM,11 °C,10 °C,94 %,ESE,7 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-08,4:15 AM,11 °C,11 °C,100 %,ESE,7 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-08,4:45 AM,11 °C,10 °C,94 %,ESE,7 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-08,5:15 AM,10 °C,10 °C,100 %,SE,9 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-08,5:45 AM,10 °C,10 °C,100 %,SE,11 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-08,6:15 AM,10 °C,10 °C,100 %,SSE,9 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-08,6:45 AM,10 °C,10 °C,100 %,SSE,7 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-08,7:15 AM,12 °C,11 °C,94 %,SSE,4 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-08,7:45 AM,13 °C,13 °C,100 %,VAR,4 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-08,8:15 AM,13 °C,13 °C,100 %,SSW,6 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-08,8:45 AM,15 °C,13 °C,88 %,VAR,6 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-08,9:15 AM,16 °C,13 °C,82 %,VAR,4 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-08,9:45 AM,17 °C,13 °C,77 %,VAR,6 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-08,10:15 AM,18 °C,14 °C,77 %,SSE,9 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-08,10:45 AM,19 °C,13 °C,68 %,SSE,7 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-08,11:15 AM,20 °C,13 °C,64 %,VAR,6 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-08,11:45 AM,21 °C,13 °C,60 %,SE,7 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-08,12:15 PM,22 °C,11 °C,50 %,VAR,4 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-08,12:45 PM,23 °C,11 °C,47 %,VAR,4 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-08,1:15 PM,22 °C,10 °C,46 %,W,13 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-08,1:45 PM,22 °C,10 °C,46 %,WNW,15 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-08,2:15 PM,23 °C,11 °C,47 %,W,11 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-08,2:45 PM,23 °C,11 °C,47 %,WSW,7 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-08,3:15 PM,23 °C,11 °C,47 %,WSW,7 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-08,3:45 PM,22 °C,10 °C,46 %,WNW,15 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-08,4:15 PM,22 °C,11 °C,50 %,W,13 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-08,4:45 PM,21 °C,12 °C,56 %,W,11 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Fair
+2024-04-08,5:15 PM,19 °C,9 °C,52 %,VAR,6 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Fair
+2024-04-08,5:45 PM,19 °C,8 °C,49 %,VAR,6 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Fair
+2024-04-08,6:15 PM,19 °C,8 °C,49 %,VAR,2 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Fair
+2024-04-08,6:45 PM,18 °C,9 °C,56 %,VAR,4 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Fair
+2024-04-08,7:15 PM,16 °C,9 °C,63 %,NW,9 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Fair
+2024-04-08,7:45 PM,16 °C,8 °C,59 %,NNW,9 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Fair
+2024-04-08,8:15 PM,16 °C,8 °C,59 %,NNW,6 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Fair
+2024-04-08,8:45 PM,15 °C,8 °C,63 %,VAR,4 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Fair
+2024-04-08,9:15 PM,15 °C,10 °C,72 %,VAR,4 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Fair
+2024-04-08,9:45 PM,13 °C,9 °C,77 %,ESE,7 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Fair
+2024-04-08,10:15 PM,12 °C,10 °C,88 %,E,7 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Fair
+2024-04-08,10:45 PM,12 °C,7 °C,72 %,E,7 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Fair
+2024-04-08,11:15 PM,12 °C,11 °C,94 %,ESE,6 km/h,0 km/h,"1,018.27 hPa",0.0 mm,Fair
+2024-04-08,11:45 PM,12 °C,11 °C,94 %,ESE,6 km/h,0 km/h,"1,018.27 hPa",0.0 mm,Fair
+2024-04-09,12:15 AM,11 °C,9 °C,88 %,E,7 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Fair
+2024-04-09,12:45 AM,11 °C,9 °C,88 %,VAR,4 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Fair
+2024-04-09,1:15 AM,10 °C,9 °C,94 %,E,6 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Fair
+2024-04-09,1:45 AM,10 °C,9 °C,94 %,NE,6 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Fair
+2024-04-09,2:15 AM,11 °C,9 °C,88 %,E,6 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Fair
+2024-04-09,2:45 AM,11 °C,10 °C,94 %,ESE,11 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Fair
+2024-04-09,3:15 AM,11 °C,11 °C,100 %,SE,6 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Fair
+2024-04-09,3:45 AM,10 °C,9 °C,94 %,SE,13 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Fair
+2024-04-09,4:15 AM,10 °C,10 °C,100 %,SSE,6 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Fair
+2024-04-09,4:45 AM,10 °C,10 °C,100 %,E,6 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Fair
+2024-04-09,5:15 AM,10 °C,10 °C,100 %,ESE,9 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Fair
+2024-04-09,5:45 AM,10 °C,10 °C,100 %,SE,7 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Fair
+2024-04-09,6:15 AM,10 °C,10 °C,100 %,SE,9 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Fair
+2024-04-09,6:45 AM,10 °C,10 °C,100 %,SSE,9 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Fair
+2024-04-09,7:15 AM,11 °C,11 °C,100 %,S,6 km/h,0 km/h,"1,013.28 hPa",0.0 mm,Fair
+2024-04-09,7:45 AM,12 °C,12 °C,100 %,SE,11 km/h,0 km/h,"1,013.28 hPa",0.0 mm,Fair
+2024-04-09,8:15 AM,14 °C,11 °C,82 %,ESE,13 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Fair
+2024-04-09,8:45 AM,14 °C,10 °C,77 %,ESE,9 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Fair
+2024-04-09,9:15 AM,16 °C,11 °C,72 %,ESE,9 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Fair
+2024-04-09,9:45 AM,18 °C,12 °C,68 %,ESE,11 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Fair
+2024-04-09,10:15 AM,19 °C,10 °C,56 %,SSE,11 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Fair
+2024-04-09,10:45 AM,20 °C,8 °C,46 %,ESE,13 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Fair
+2024-04-09,11:15 AM,20 °C,7 °C,43 %,SE,11 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Fair
+2024-04-09,11:45 AM,21 °C,7 °C,40 %,ESE,11 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Fair
+2024-04-09,12:15 PM,21 °C,7 °C,40 %,SE,11 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Fair
+2024-04-09,12:45 PM,21 °C,10 °C,49 %,SSW,17 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Fair
+2024-04-09,1:15 PM,21 °C,15 °C,68 %,SW,31 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Fair
+2024-04-09,1:45 PM,20 °C,14 °C,68 %,SSW,30 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Partly Cloudy
+2024-04-09,2:15 PM,18 °C,13 °C,73 %,SSW,28 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Partly Cloudy
+2024-04-09,2:45 PM,19 °C,14 °C,73 %,SSW,24 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Fair
+2024-04-09,3:15 PM,19 °C,15 °C,78 %,SSW,19 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Fair
+2024-04-09,3:45 PM,18 °C,15 °C,83 %,SSW,11 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Fair
+2024-04-09,4:15 PM,18 °C,15 °C,83 %,SSW,13 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Fair
+2024-04-09,4:45 PM,18 °C,15 °C,83 %,SW,7 km/h,0 km/h,"1,013.28 hPa",0.0 mm,Fair
+2024-04-09,5:15 PM,18 °C,15 °C,83 %,SW,7 km/h,0 km/h,"1,013.28 hPa",0.0 mm,Fair
+2024-04-09,5:45 PM,18 °C,16 °C,88 %,SW,13 km/h,0 km/h,"1,013.28 hPa",0.0 mm,Partly Cloudy
+2024-04-09,6:15 PM,17 °C,16 °C,94 %,SW,19 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Fair
+2024-04-09,6:45 PM,17 °C,16 °C,94 %,SW,17 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Fair
+2024-04-09,7:15 PM,17 °C,16 °C,94 %,VAR,6 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Partly Cloudy
+2024-04-09,7:45 PM,16 °C,16 °C,100 %,VAR,6 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Partly Cloudy
+2024-04-09,8:15 PM,16 °C,15 °C,94 %,VAR,4 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Light Rain
+2024-04-09,8:45 PM,16 °C,16 °C,100 %,VAR,4 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Light Rain
+2024-04-09,9:15 PM,16 °C,16 °C,100 %,VAR,2 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Light Rain
+2024-04-09,9:45 PM,16 °C,16 °C,100 %,VAR,4 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-09,10:15 PM,16 °C,16 °C,100 %,VAR,4 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-09,10:45 PM,16 °C,16 °C,100 %,VAR,4 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-09,11:15 PM,13 °C,7 °C,67 %,S,6 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Fair
+2024-04-09,11:45 PM,11 °C,9 °C,88 %,SE,6 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Fair
+2024-04-10,12:15 AM,15 °C,15 °C,100 %,VAR,4 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Light Rain
+2024-04-10,12:45 AM,15 °C,15 °C,100 %,W,13 km/h,0 km/h,"1,013.28 hPa",0.0 mm,Light Rain
+2024-04-10,1:15 AM,15 °C,15 °C,100 %,WSW,13 km/h,0 km/h,"1,013.28 hPa",0.0 mm,Rain
+2024-04-10,1:45 AM,14 °C,14 °C,100 %,VAR,6 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Light Rain
+2024-04-10,2:15 AM,14 °C,13 °C,94 %,VAR,6 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Light Rain
+2024-04-10,2:45 AM,14 °C,13 °C,94 %,WSW,17 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Light Rain
+2024-04-10,3:15 AM,14 °C,13 °C,94 %,WSW,19 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Light Rain
+2024-04-10,3:45 AM,13 °C,11 °C,88 %,WNW,7 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Light Rain
+2024-04-10,4:15 AM,12 °C,10 °C,88 %,VAR,6 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Light Rain
+2024-04-10,4:45 AM,12 °C,11 °C,94 %,VAR,4 km/h,0 km/h,"1,013.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-10,5:15 AM,12 °C,11 °C,94 %,S,13 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-10,5:45 AM,12 °C,11 °C,94 %,VAR,4 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-10,6:15 AM,12 °C,11 °C,94 %,SSE,7 km/h,0 km/h,"1,013.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-10,6:45 AM,11 °C,11 °C,100 %,SE,11 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-10,7:15 AM,11 °C,11 °C,100 %,SE,13 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-10,7:45 AM,11 °C,11 °C,100 %,SE,11 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-10,8:15 AM,12 °C,11 °C,94 %,ESE,13 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-10,8:45 AM,12 °C,11 °C,94 %,E,9 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-10,9:15 AM,13 °C,11 °C,88 %,ESE,6 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-10,9:45 AM,13 °C,11 °C,88 %,E,7 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-10,10:15 AM,13 °C,11 °C,88 %,ESE,9 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-10,10:45 AM,14 °C,11 °C,82 %,E,9 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-10,11:15 AM,15 °C,10 °C,72 %,VAR,6 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Fair
+2024-04-10,11:45 AM,16 °C,11 °C,72 %,SE,7 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Partly Cloudy
+2024-04-10,12:15 PM,16 °C,10 °C,68 %,ESE,11 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Partly Cloudy
+2024-04-10,12:45 PM,16 °C,10 °C,68 %,ESE,9 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Partly Cloudy
+2024-04-10,1:15 PM,17 °C,10 °C,63 %,SE,11 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Partly Cloudy
+2024-04-10,1:45 PM,17 °C,9 °C,59 %,ESE,19 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Partly Cloudy
+2024-04-10,2:15 PM,16 °C,9 °C,63 %,SE,15 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Fair
+2024-04-10,2:45 PM,17 °C,10 °C,63 %,ESE,13 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Fair
+2024-04-10,3:15 PM,18 °C,10 °C,59 %,E,9 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Partly Cloudy
+2024-04-10,3:45 PM,18 °C,9 °C,56 %,NNE,11 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Partly Cloudy
+2024-04-10,4:15 PM,18 °C,9 °C,56 %,ENE,7 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Partly Cloudy
+2024-04-10,4:45 PM,18 °C,9 °C,56 %,NE,11 km/h,0 km/h,"1,015.28 hPa",0.0 mm,T-Storm
+2024-04-10,5:15 PM,12 °C,10 °C,88 %,E,35 km/h,56 km/h,"1,017.28 hPa",0.0 mm,T-Storm / Windy
+2024-04-10,5:45 PM,13 °C,12 °C,94 %,SE,13 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Thunder in the Vicinity
+2024-04-10,6:15 PM,13 °C,12 °C,94 %,SE,9 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Partly Cloudy
+2024-04-10,6:45 PM,13 °C,12 °C,94 %,S,7 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-10,7:15 PM,12 °C,12 °C,100 %,SSW,7 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-10,7:45 PM,12 °C,12 °C,100 %,NNE,7 km/h,0 km/h,"1,019.27 hPa",0.0 mm,Mostly Cloudy
+2024-04-10,8:15 PM,13 °C,13 °C,100 %,NNE,6 km/h,0 km/h,"1,020.27 hPa",0.0 mm,Partly Cloudy
+2024-04-10,8:45 PM,13 °C,13 °C,100 %,VAR,2 km/h,0 km/h,"1,021.27 hPa",0.0 mm,Partly Cloudy
+2024-04-10,9:15 PM,13 °C,13 °C,100 %,NNW,6 km/h,0 km/h,"1,021.27 hPa",0.0 mm,Fair
+2024-04-10,9:45 PM,12 °C,12 °C,100 %,VAR,4 km/h,0 km/h,"1,021.27 hPa",0.0 mm,Partly Cloudy
+2024-04-10,10:15 PM,12 °C,12 °C,100 %,E,2 km/h,0 km/h,"1,021.27 hPa",0.0 mm,Fair
+2024-04-10,10:45 PM,11 °C,11 °C,100 %,SSW,9 km/h,0 km/h,"1,022.27 hPa",0.0 mm,Fair
+2024-04-10,11:15 PM,16 °C,15 °C,94 %,WSW,11 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Light Rain
+2024-04-10,11:45 PM,15 °C,15 °C,100 %,SSW,6 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Light Rain
+2024-04-11,12:15 AM,11 °C,11 °C,100 %,VAR,2 km/h,0 km/h,"1,022.27 hPa",0.0 mm,Light Rain
+2024-04-11,12:45 AM,12 °C,12 °C,100 %,VAR,2 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Light Rain
+2024-04-11,1:15 AM,12 °C,12 °C,100 %,VAR,4 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Light Rain
+2024-04-11,1:45 AM,12 °C,12 °C,100 %,SSW,4 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Mostly Cloudy
+2024-04-11,2:15 AM,12 °C,12 °C,100 %,VAR,2 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Mostly Cloudy
+2024-04-11,2:45 AM,12 °C,12 °C,100 %,VAR,4 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Light Rain
+2024-04-11,3:15 AM,12 °C,12 °C,100 %,E,4 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Light Rain
+2024-04-11,3:45 AM,12 °C,12 °C,100 %,ENE,4 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Mostly Cloudy
+2024-04-11,4:15 AM,12 °C,12 °C,100 %,ESE,6 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Mostly Cloudy
+2024-04-11,4:45 AM,12 °C,12 °C,100 %,ESE,4 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Mostly Cloudy
+2024-04-11,5:15 AM,12 °C,12 °C,100 %,SE,4 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Mostly Cloudy
+2024-04-11,5:45 AM,11 °C,11 °C,100 %,SE,4 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Mostly Cloudy
+2024-04-11,6:15 AM,11 °C,11 °C,100 %,SE,6 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Partly Cloudy
+2024-04-11,6:45 AM,11 °C,11 °C,100 %,E,4 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Partly Cloudy
+2024-04-11,7:15 AM,12 °C,12 °C,100 %,E,6 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Partly Cloudy
+2024-04-11,7:45 AM,12 °C,12 °C,100 %,CALM,0 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Partly Cloudy
+2024-04-11,8:15 AM,12 °C,12 °C,100 %,SSE,4 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Partly Cloudy
+2024-04-11,8:45 AM,14 °C,13 °C,94 %,S,6 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Mostly Cloudy
+2024-04-11,9:15 AM,15 °C,12 °C,82 %,S,4 km/h,0 km/h,"1,025.27 hPa",0.0 mm,Partly Cloudy
+2024-04-11,9:45 AM,16 °C,12 °C,77 %,SSW,6 km/h,0 km/h,"1,025.27 hPa",0.0 mm,Partly Cloudy
+2024-04-11,10:15 AM,17 °C,12 °C,72 %,WSW,6 km/h,0 km/h,"1,025.27 hPa",0.0 mm,Partly Cloudy
+2024-04-11,10:45 AM,18 °C,12 °C,68 %,WNW,9 km/h,0 km/h,"1,025.27 hPa",0.0 mm,Fair
+2024-04-11,11:15 AM,19 °C,13 °C,68 %,W,7 km/h,0 km/h,"1,025.27 hPa",0.0 mm,Fair
+2024-04-11,11:45 AM,19 °C,12 °C,64 %,W,6 km/h,0 km/h,"1,025.27 hPa",0.0 mm,Fair
+2024-04-11,12:15 PM,20 °C,12 °C,60 %,W,6 km/h,0 km/h,"1,025.27 hPa",0.0 mm,Fair
+2024-04-11,12:45 PM,20 °C,13 °C,64 %,NNW,13 km/h,0 km/h,"1,025.27 hPa",0.0 mm,Fair
+2024-04-11,1:15 PM,21 °C,13 °C,60 %,NNW,9 km/h,0 km/h,"1,025.27 hPa",0.0 mm,Fair
+2024-04-11,1:45 PM,21 °C,13 °C,60 %,W,13 km/h,0 km/h,"1,025.27 hPa",0.0 mm,Fair
+2024-04-11,2:15 PM,21 °C,12 °C,56 %,WNW,17 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-11,2:45 PM,21 °C,12 °C,56 %,WNW,19 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-11,3:15 PM,21 °C,12 °C,56 %,NNW,19 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-11,3:45 PM,20 °C,13 °C,64 %,NNW,19 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-11,4:15 PM,20 °C,13 °C,64 %,NNW,20 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-11,4:45 PM,19 °C,12 °C,64 %,WNW,20 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-11,5:15 PM,18 °C,12 °C,68 %,WNW,13 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-11,5:45 PM,18 °C,12 °C,68 %,WNW,17 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-11,6:15 PM,18 °C,13 °C,73 %,WNW,9 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-11,6:45 PM,17 °C,13 °C,77 %,WNW,9 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-11,7:15 PM,16 °C,12 °C,77 %,W,6 km/h,0 km/h,"1,025.27 hPa",0.0 mm,Fair
+2024-04-11,7:45 PM,16 °C,13 °C,82 %,W,2 km/h,0 km/h,"1,025.27 hPa",0.0 mm,Fair
+2024-04-11,8:15 PM,16 °C,13 °C,82 %,WNW,4 km/h,0 km/h,"1,025.27 hPa",0.0 mm,Fair
+2024-04-11,8:45 PM,15 °C,13 °C,88 %,W,4 km/h,0 km/h,"1,025.27 hPa",0.0 mm,Fair
+2024-04-11,9:15 PM,15 °C,14 °C,94 %,NW,4 km/h,0 km/h,"1,025.27 hPa",0.0 mm,Fair
+2024-04-11,9:45 PM,14 °C,13 °C,94 %,NW,4 km/h,0 km/h,"1,026.27 hPa",0.0 mm,Fair
+2024-04-11,10:15 PM,14 °C,13 °C,94 %,WSW,2 km/h,0 km/h,"1,026.27 hPa",0.0 mm,Fair
+2024-04-11,10:45 PM,13 °C,12 °C,94 %,S,6 km/h,0 km/h,"1,026.27 hPa",0.0 mm,Fair
+2024-04-11,11:15 PM,11 °C,11 °C,100 %,VAR,4 km/h,0 km/h,"1,022.27 hPa",0.0 mm,Mostly Cloudy
+2024-04-11,11:45 PM,11 °C,11 °C,100 %,VAR,4 km/h,0 km/h,"1,022.27 hPa",0.0 mm,Mostly Cloudy
+2024-04-12,12:15 AM,13 °C,12 °C,94 %,S,4 km/h,0 km/h,"1,027.27 hPa",0.0 mm,Fair
+2024-04-12,12:45 AM,13 °C,13 °C,100 %,SE,4 km/h,0 km/h,"1,027.27 hPa",0.0 mm,Fair
+2024-04-12,1:15 AM,13 °C,13 °C,100 %,SSE,4 km/h,0 km/h,"1,027.27 hPa",0.0 mm,Fair
+2024-04-12,1:45 AM,13 °C,13 °C,100 %,SE,6 km/h,0 km/h,"1,027.27 hPa",0.0 mm,Fair
+2024-04-12,2:15 AM,12 °C,12 °C,100 %,ESE,4 km/h,0 km/h,"1,027.27 hPa",0.0 mm,Fair
+2024-04-12,2:45 AM,12 °C,12 °C,100 %,SE,4 km/h,0 km/h,"1,027.27 hPa",0.0 mm,Fair
+2024-04-12,3:15 AM,12 °C,12 °C,100 %,SE,4 km/h,0 km/h,"1,026.27 hPa",0.0 mm,Fair
+2024-04-12,3:45 AM,11 °C,11 °C,100 %,E,4 km/h,0 km/h,"1,026.27 hPa",0.0 mm,Shallow Fog
+2024-04-12,4:15 AM,11 °C,11 °C,100 %,ESE,4 km/h,0 km/h,"1,026.27 hPa",0.0 mm,Shallow Fog
+2024-04-12,4:45 AM,11 °C,11 °C,100 %,ESE,6 km/h,0 km/h,"1,026.27 hPa",0.0 mm,Shallow Fog
+2024-04-12,5:15 AM,11 °C,11 °C,100 %,SE,7 km/h,0 km/h,"1,026.27 hPa",0.0 mm,Fair
+2024-04-12,5:45 AM,10 °C,10 °C,100 %,SE,6 km/h,0 km/h,"1,026.27 hPa",0.0 mm,Fair
+2024-04-12,6:15 AM,10 °C,10 °C,100 %,ESE,6 km/h,0 km/h,"1,026.27 hPa",0.0 mm,Fair
+2024-04-12,6:45 AM,12 °C,11 °C,94 %,E,6 km/h,0 km/h,"1,026.27 hPa",0.0 mm,Fair
+2024-04-12,7:15 AM,13 °C,13 °C,100 %,ESE,7 km/h,0 km/h,"1,027.27 hPa",0.0 mm,Fair
+2024-04-12,7:45 AM,13 °C,13 °C,100 %,ESE,4 km/h,0 km/h,"1,027.27 hPa",0.0 mm,Fair
+2024-04-12,8:15 AM,15 °C,14 °C,94 %,VAR,2 km/h,0 km/h,"1,027.27 hPa",0.0 mm,Fair
+2024-04-12,8:45 AM,17 °C,15 °C,88 %,VAR,2 km/h,0 km/h,"1,027.27 hPa",0.0 mm,Fair
+2024-04-12,9:15 AM,17 °C,14 °C,82 %,VAR,4 km/h,0 km/h,"1,027.27 hPa",0.0 mm,Fair
+2024-04-12,9:45 AM,18 °C,12 °C,68 %,VAR,4 km/h,0 km/h,"1,027.27 hPa",0.0 mm,Fair
+2024-04-12,10:15 AM,19 °C,12 °C,64 %,NW,7 km/h,0 km/h,"1,027.27 hPa",0.0 mm,Fair
+2024-04-12,10:45 AM,20 °C,14 °C,68 %,VAR,6 km/h,0 km/h,"1,027.27 hPa",0.0 mm,Fair
+2024-04-12,11:15 AM,21 °C,14 °C,64 %,W,6 km/h,0 km/h,"1,027.27 hPa",0.0 mm,Fair
+2024-04-12,11:45 AM,22 °C,15 °C,64 %,WNW,9 km/h,0 km/h,"1,027.27 hPa",0.0 mm,Fair
+2024-04-12,12:15 PM,23 °C,14 °C,57 %,W,13 km/h,0 km/h,"1,027.27 hPa",0.0 mm,Fair
+2024-04-12,12:45 PM,23 °C,13 °C,53 %,W,15 km/h,0 km/h,"1,026.27 hPa",0.0 mm,Fair
+2024-04-12,1:15 PM,23 °C,12 °C,50 %,WNW,13 km/h,0 km/h,"1,026.27 hPa",0.0 mm,Fair
+2024-04-12,1:45 PM,23 °C,11 °C,47 %,NW,17 km/h,0 km/h,"1,026.27 hPa",0.0 mm,Fair
+2024-04-12,2:15 PM,23 °C,11 °C,47 %,WNW,15 km/h,0 km/h,"1,026.27 hPa",0.0 mm,Fair
+2024-04-12,2:45 PM,23 °C,12 °C,50 %,NW,15 km/h,0 km/h,"1,025.27 hPa",0.0 mm,Fair
+2024-04-12,3:15 PM,23 °C,12 °C,50 %,NW,15 km/h,0 km/h,"1,025.27 hPa",0.0 mm,Fair
+2024-04-12,3:45 PM,22 °C,12 °C,53 %,WNW,15 km/h,0 km/h,"1,025.27 hPa",0.0 mm,Fair
+2024-04-12,4:15 PM,22 °C,12 °C,53 %,NW,15 km/h,0 km/h,"1,025.27 hPa",0.0 mm,Fair
+2024-04-12,4:45 PM,22 °C,11 °C,50 %,NW,15 km/h,0 km/h,"1,025.27 hPa",0.0 mm,Fair
+2024-04-12,5:15 PM,22 °C,11 °C,50 %,NW,11 km/h,0 km/h,"1,025.27 hPa",0.0 mm,Fair
+2024-04-12,5:45 PM,22 °C,12 °C,53 %,NW,7 km/h,0 km/h,"1,025.27 hPa",0.0 mm,Fair
+2024-04-12,6:15 PM,22 °C,12 °C,53 %,WNW,7 km/h,0 km/h,"1,025.27 hPa",0.0 mm,Fair
+2024-04-12,6:45 PM,20 °C,13 °C,64 %,WNW,7 km/h,0 km/h,"1,025.27 hPa",0.0 mm,Fair
+2024-04-12,7:15 PM,19 °C,13 °C,68 %,W,6 km/h,0 km/h,"1,025.27 hPa",0.0 mm,Fair
+2024-04-12,7:45 PM,17 °C,15 °C,88 %,W,9 km/h,0 km/h,"1,025.27 hPa",0.0 mm,Fair
+2024-04-12,8:15 PM,17 °C,14 °C,82 %,WNW,7 km/h,0 km/h,"1,025.27 hPa",0.0 mm,Fair
+2024-04-12,8:45 PM,16 °C,15 °C,94 %,WNW,9 km/h,0 km/h,"1,025.27 hPa",0.0 mm,Fair
+2024-04-12,9:15 PM,16 °C,15 °C,94 %,W,9 km/h,0 km/h,"1,025.27 hPa",0.0 mm,Fair
+2024-04-12,9:45 PM,15 °C,14 °C,94 %,SSW,7 km/h,0 km/h,"1,025.27 hPa",0.0 mm,Fair
+2024-04-12,10:15 PM,15 °C,15 °C,100 %,SSW,6 km/h,0 km/h,"1,025.27 hPa",0.0 mm,Fair
+2024-04-12,10:45 PM,14 °C,14 °C,100 %,W,2 km/h,0 km/h,"1,025.27 hPa",0.0 mm,Fair
+2024-04-12,11:15 PM,13 °C,12 °C,94 %,S,4 km/h,0 km/h,"1,026.27 hPa",0.0 mm,Fair
+2024-04-12,11:45 PM,13 °C,12 °C,94 %,S,4 km/h,0 km/h,"1,027.27 hPa",0.0 mm,Fair
+2024-04-13,12:15 AM,13 °C,13 °C,100 %,SSE,7 km/h,0 km/h,"1,025.27 hPa",0.0 mm,Fair
+2024-04-13,12:45 AM,13 °C,13 °C,100 %,E,7 km/h,0 km/h,"1,025.27 hPa",0.0 mm,Fair
+2024-04-13,1:15 AM,13 °C,13 °C,100 %,E,6 km/h,0 km/h,"1,025.27 hPa",0.0 mm,Fair
+2024-04-13,1:45 AM,13 °C,13 °C,100 %,ESE,6 km/h,0 km/h,"1,025.27 hPa",0.0 mm,Fair
+2024-04-13,2:15 AM,13 °C,13 °C,100 %,ESE,6 km/h,0 km/h,"1,025.27 hPa",0.0 mm,Fair
+2024-04-13,2:45 AM,13 °C,13 °C,100 %,E,6 km/h,0 km/h,"1,025.27 hPa",0.0 mm,Fair
+2024-04-13,3:15 AM,12 °C,12 °C,100 %,ESE,7 km/h,0 km/h,"1,025.27 hPa",0.0 mm,Fair
+2024-04-13,3:45 AM,12 °C,12 °C,100 %,ESE,7 km/h,0 km/h,"1,025.27 hPa",0.0 mm,Fair
+2024-04-13,4:15 AM,12 °C,12 °C,100 %,SSE,6 km/h,0 km/h,"1,025.27 hPa",0.0 mm,Fair
+2024-04-13,4:45 AM,11 °C,11 °C,100 %,ESE,11 km/h,0 km/h,"1,025.27 hPa",0.0 mm,Fair
+2024-04-13,5:15 AM,11 °C,11 °C,100 %,ESE,6 km/h,0 km/h,"1,025.27 hPa",0.0 mm,Fair
+2024-04-13,5:45 AM,11 °C,11 °C,100 %,SSE,6 km/h,0 km/h,"1,025.27 hPa",0.0 mm,Fair
+2024-04-13,6:15 AM,11 °C,11 °C,100 %,ESE,4 km/h,0 km/h,"1,025.27 hPa",0.0 mm,Fair
+2024-04-13,6:45 AM,12 °C,12 °C,100 %,E,2 km/h,0 km/h,"1,025.27 hPa",0.0 mm,Fair
+2024-04-13,7:15 AM,13 °C,13 °C,100 %,SE,6 km/h,0 km/h,"1,026.27 hPa",0.0 mm,Fair
+2024-04-13,7:45 AM,14 °C,14 °C,100 %,VAR,4 km/h,0 km/h,"1,026.27 hPa",0.0 mm,Fair
+2024-04-13,8:15 AM,15 °C,14 °C,94 %,VAR,2 km/h,0 km/h,"1,026.27 hPa",0.0 mm,Fair
+2024-04-13,8:45 AM,17 °C,14 °C,82 %,VAR,2 km/h,0 km/h,"1,026.27 hPa",0.0 mm,Fair
+2024-04-13,9:15 AM,19 °C,16 °C,83 %,VAR,4 km/h,0 km/h,"1,026.27 hPa",0.0 mm,Fair
+2024-04-13,9:45 AM,21 °C,14 °C,64 %,VAR,4 km/h,0 km/h,"1,026.27 hPa",0.0 mm,Fair
+2024-04-13,10:15 AM,21 °C,14 °C,64 %,VAR,4 km/h,0 km/h,"1,026.27 hPa",0.0 mm,Fair
+2024-04-13,10:45 AM,22 °C,14 °C,60 %,VAR,2 km/h,0 km/h,"1,026.27 hPa",0.0 mm,Fair
+2024-04-13,11:15 AM,23 °C,14 °C,57 %,VAR,4 km/h,0 km/h,"1,026.27 hPa",0.0 mm,Fair
+2024-04-13,11:45 AM,23 °C,13 °C,53 %,VAR,6 km/h,0 km/h,"1,026.27 hPa",0.0 mm,Fair
+2024-04-13,12:15 PM,24 °C,13 °C,50 %,VAR,6 km/h,0 km/h,"1,025.27 hPa",0.0 mm,Fair
+2024-04-13,12:45 PM,24 °C,15 °C,57 %,W,15 km/h,0 km/h,"1,025.27 hPa",0.0 mm,Fair
+2024-04-13,1:15 PM,25 °C,15 °C,54 %,WNW,17 km/h,0 km/h,"1,025.27 hPa",0.0 mm,Fair
+2024-04-13,1:45 PM,25 °C,12 °C,44 %,NW,17 km/h,0 km/h,"1,025.27 hPa",0.0 mm,Fair
+2024-04-13,2:15 PM,25 °C,12 °C,44 %,NNW,15 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-13,2:45 PM,25 °C,12 °C,44 %,NW,19 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-13,3:15 PM,24 °C,12 °C,47 %,NW,19 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-13,3:45 PM,24 °C,13 °C,50 %,NW,20 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-13,4:15 PM,24 °C,11 °C,44 %,NW,17 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-13,4:45 PM,23 °C,10 °C,44 %,NW,17 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fair
+2024-04-13,5:15 PM,23 °C,10 °C,44 %,NW,13 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fair
+2024-04-13,5:45 PM,23 °C,12 °C,50 %,WNW,13 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fair
+2024-04-13,6:15 PM,22 °C,11 °C,50 %,NW,11 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fair
+2024-04-13,6:45 PM,21 °C,12 °C,56 %,NW,11 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fair
+2024-04-13,7:15 PM,19 °C,11 °C,60 %,NNW,7 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fair
+2024-04-13,7:45 PM,19 °C,11 °C,60 %,NW,6 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fair
+2024-04-13,8:15 PM,20 °C,12 °C,60 %,W,7 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fair
+2024-04-13,8:45 PM,18 °C,12 °C,68 %,WSW,9 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fair
+2024-04-13,9:15 PM,17 °C,14 °C,82 %,SW,9 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fair
+2024-04-13,9:45 PM,16 °C,13 °C,82 %,WSW,9 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-13,10:15 PM,15 °C,14 °C,94 %,VAR,4 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-13,10:45 PM,15 °C,14 °C,94 %,WSW,4 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-13,11:15 PM,14 °C,14 °C,100 %,S,2 km/h,0 km/h,"1,025.27 hPa",0.0 mm,Fair
+2024-04-13,11:45 PM,13 °C,13 °C,100 %,SSE,7 km/h,0 km/h,"1,025.27 hPa",0.0 mm,Fair
+2024-04-14,12:15 AM,14 °C,14 °C,100 %,E,6 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-14,12:45 AM,14 °C,14 °C,100 %,SE,6 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-14,1:15 AM,13 °C,13 °C,100 %,E,4 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-14,1:45 AM,13 °C,13 °C,100 %,VAR,2 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-14,2:15 AM,12 °C,12 °C,100 %,SSE,6 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-14,2:45 AM,12 °C,12 °C,100 %,VAR,4 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fair
+2024-04-14,3:15 AM,12 °C,12 °C,100 %,SE,6 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fair
+2024-04-14,3:45 AM,12 °C,12 °C,100 %,E,7 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fair
+2024-04-14,4:15 AM,11 °C,11 °C,100 %,SSE,6 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fair
+2024-04-14,4:45 AM,11 °C,11 °C,100 %,SE,2 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fair
+2024-04-14,5:15 AM,11 °C,11 °C,100 %,E,6 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fair
+2024-04-14,5:45 AM,11 °C,11 °C,100 %,ESE,4 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fair
+2024-04-14,6:15 AM,11 °C,11 °C,100 %,ESE,7 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fair
+2024-04-14,6:45 AM,11 °C,11 °C,100 %,SE,6 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fair
+2024-04-14,7:15 AM,13 °C,12 °C,94 %,ESE,6 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fair
+2024-04-14,7:45 AM,14 °C,13 °C,94 %,SE,6 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fair
+2024-04-14,8:15 AM,16 °C,14 °C,88 %,ESE,4 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-14,8:45 AM,18 °C,15 °C,83 %,E,4 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-14,9:15 AM,19 °C,15 °C,78 %,E,4 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-14,9:45 AM,20 °C,14 °C,68 %,SE,4 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-14,10:15 AM,21 °C,14 °C,64 %,ESE,4 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-14,10:45 AM,22 °C,14 °C,60 %,S,2 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-14,11:15 AM,23 °C,15 °C,61 %,SSW,4 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-14,11:45 AM,24 °C,15 °C,57 %,W,6 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-14,12:15 PM,23 °C,16 °C,65 %,W,13 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fair
+2024-04-14,12:45 PM,23 °C,16 °C,65 %,W,15 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fair
+2024-04-14,1:15 PM,23 °C,16 °C,65 %,W,17 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fair
+2024-04-14,1:45 PM,24 °C,15 °C,57 %,W,15 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fair
+2024-04-14,2:15 PM,24 °C,14 °C,53 %,W,15 km/h,0 km/h,"1,023.27 hPa",0.0 mm,Fair
+2024-04-14,2:45 PM,23 °C,15 °C,61 %,W,15 km/h,0 km/h,"1,022.27 hPa",0.0 mm,Fair
+2024-04-14,3:15 PM,23 °C,15 °C,61 %,W,13 km/h,0 km/h,"1,022.27 hPa",0.0 mm,Fair
+2024-04-14,3:45 PM,23 °C,15 °C,61 %,W,13 km/h,0 km/h,"1,021.27 hPa",0.0 mm,Fair
+2024-04-14,4:15 PM,23 °C,15 °C,61 %,W,15 km/h,0 km/h,"1,021.27 hPa",0.0 mm,Fair
+2024-04-14,4:45 PM,23 °C,15 °C,61 %,W,15 km/h,0 km/h,"1,021.27 hPa",0.0 mm,Fair
+2024-04-14,5:15 PM,22 °C,15 °C,64 %,W,13 km/h,0 km/h,"1,021.27 hPa",0.0 mm,Fair
+2024-04-14,5:45 PM,21 °C,15 °C,68 %,W,9 km/h,0 km/h,"1,021.27 hPa",0.0 mm,Fair
+2024-04-14,6:15 PM,21 °C,15 °C,68 %,W,9 km/h,0 km/h,"1,021.27 hPa",0.0 mm,Fair
+2024-04-14,6:45 PM,20 °C,17 °C,83 %,W,9 km/h,0 km/h,"1,020.27 hPa",0.0 mm,Fair
+2024-04-14,7:15 PM,19 °C,18 °C,94 %,W,7 km/h,0 km/h,"1,020.27 hPa",0.0 mm,Fair
+2024-04-14,7:45 PM,18 °C,17 °C,94 %,VAR,6 km/h,0 km/h,"1,020.27 hPa",0.0 mm,Fair
+2024-04-14,8:15 PM,18 °C,17 °C,94 %,VAR,4 km/h,0 km/h,"1,021.27 hPa",0.0 mm,Fair
+2024-04-14,8:45 PM,16 °C,16 °C,100 %,VAR,4 km/h,0 km/h,"1,021.27 hPa",0.0 mm,Fair
+2024-04-14,9:15 PM,16 °C,16 °C,100 %,VAR,4 km/h,0 km/h,"1,021.27 hPa",0.0 mm,Fair
+2024-04-14,9:45 PM,16 °C,16 °C,100 %,VAR,2 km/h,0 km/h,"1,021.27 hPa",0.0 mm,Shallow Fog
+2024-04-14,10:15 PM,15 °C,15 °C,100 %,VAR,2 km/h,0 km/h,"1,021.27 hPa",0.0 mm,Shallow Fog
+2024-04-14,10:45 PM,14 °C,14 °C,100 %,VAR,2 km/h,0 km/h,"1,021.27 hPa",0.0 mm,Mist
+2024-04-14,11:15 PM,15 °C,14 °C,94 %,VAR,2 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-14,11:45 PM,14 °C,14 °C,100 %,E,6 km/h,0 km/h,"1,024.27 hPa",0.0 mm,Fair
+2024-04-15,12:15 AM,13 °C,13 °C,100 %,VAR,2 km/h,0 km/h,"1,021.27 hPa",0.0 mm,Fog
+2024-04-15,12:45 AM,13 °C,13 °C,100 %,VAR,6 km/h,0 km/h,"1,020.27 hPa",0.0 mm,Mist
+2024-04-15,1:15 AM,13 °C,13 °C,100 %,VAR,2 km/h,0 km/h,"1,020.27 hPa",0.0 mm,Mist
+2024-04-15,1:45 AM,12 °C,12 °C,100 %,VAR,6 km/h,0 km/h,"1,020.27 hPa",0.0 mm,Mist
+2024-04-15,2:15 AM,11 °C,11 °C,100 %,SE,6 km/h,0 km/h,"1,019.27 hPa",0.0 mm,Mist
+2024-04-15,2:45 AM,11 °C,11 °C,100 %,SSE,7 km/h,0 km/h,"1,019.27 hPa",0.0 mm,Mist
+2024-04-15,3:15 AM,10 °C,10 °C,100 %,SSE,7 km/h,0 km/h,"1,019.27 hPa",0.0 mm,Mist
+2024-04-15,3:45 AM,10 °C,10 °C,100 %,ENE,7 km/h,0 km/h,"1,019.27 hPa",0.0 mm,Mist
+2024-04-15,4:15 AM,10 °C,10 °C,100 %,VAR,6 km/h,0 km/h,"1,018.27 hPa",0.0 mm,Mist
+2024-04-15,4:45 AM,9 °C,9 °C,100 %,VAR,4 km/h,0 km/h,"1,018.27 hPa",0.0 mm,Mist
+2024-04-15,5:15 AM,9 °C,9 °C,100 %,VAR,4 km/h,0 km/h,"1,018.27 hPa",0.0 mm,Mist
+2024-04-15,5:45 AM,10 °C,10 °C,100 %,ESE,9 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-15,6:15 AM,10 °C,10 °C,100 %,SSE,7 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-15,6:45 AM,11 °C,11 °C,100 %,SE,7 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Patches of Fog
+2024-04-15,7:15 AM,11 °C,11 °C,100 %,ESE,9 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fog
+2024-04-15,7:45 AM,11 °C,11 °C,100 %,ESE,7 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Mist
+2024-04-15,8:15 AM,13 °C,13 °C,100 %,ESE,7 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-15,8:45 AM,14 °C,14 °C,100 %,ESE,7 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-15,9:15 AM,15 °C,14 °C,94 %,ESE,6 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-15,9:45 AM,17 °C,15 °C,88 %,S,6 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-15,10:15 AM,17 °C,14 °C,82 %,S,2 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-15,10:45 AM,19 °C,13 °C,68 %,VAR,4 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-15,11:15 AM,20 °C,14 °C,68 %,VAR,6 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-15,11:45 AM,20 °C,14 °C,68 %,NW,6 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-15,12:15 PM,20 °C,16 °C,78 %,WNW,13 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-15,12:45 PM,21 °C,15 °C,68 %,W,17 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-15,1:15 PM,20 °C,15 °C,73 %,W,15 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Fair
+2024-04-15,1:45 PM,20 °C,14 °C,68 %,W,17 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Fair
+2024-04-15,2:15 PM,20 °C,12 °C,60 %,W,17 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Fair
+2024-04-15,2:45 PM,21 °C,11 °C,53 %,W,13 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Fair
+2024-04-15,3:15 PM,21 °C,10 °C,49 %,W,13 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Fair
+2024-04-15,3:45 PM,21 °C,10 °C,49 %,W,15 km/h,0 km/h,"1,013.28 hPa",0.0 mm,Fair
+2024-04-15,4:15 PM,20 °C,9 °C,49 %,W,13 km/h,0 km/h,"1,013.28 hPa",0.0 mm,Fair
+2024-04-15,4:45 PM,20 °C,9 °C,49 %,WNW,13 km/h,0 km/h,"1,013.28 hPa",0.0 mm,Fair
+2024-04-15,5:15 PM,20 °C,9 °C,49 %,W,9 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Fair
+2024-04-15,5:45 PM,20 °C,9 °C,49 %,W,7 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Fair
+2024-04-15,6:15 PM,19 °C,12 °C,64 %,SSW,7 km/h,0 km/h,"1,011.28 hPa",0.0 mm,Fair
+2024-04-15,6:45 PM,19 °C,12 °C,64 %,VAR,4 km/h,0 km/h,"1,011.28 hPa",0.0 mm,Fair
+2024-04-15,7:15 PM,17 °C,12 °C,72 %,E,4 km/h,0 km/h,"1,011.28 hPa",0.0 mm,Fair
+2024-04-15,7:45 PM,17 °C,11 °C,68 %,ENE,2 km/h,0 km/h,"1,011.28 hPa",0.0 mm,Fair
+2024-04-15,8:15 PM,15 °C,12 °C,82 %,WSW,7 km/h,0 km/h,"1,011.28 hPa",0.0 mm,Fair
+2024-04-15,8:45 PM,14 °C,12 °C,88 %,SE,9 km/h,0 km/h,"1,011.28 hPa",0.0 mm,Fair
+2024-04-15,9:15 PM,15 °C,13 °C,88 %,WSW,4 km/h,0 km/h,"1,011.28 hPa",0.0 mm,Fair
+2024-04-15,9:45 PM,15 °C,14 °C,94 %,ESE,6 km/h,0 km/h,"1,011.28 hPa",0.0 mm,Fair
+2024-04-15,10:15 PM,14 °C,14 °C,100 %,ESE,6 km/h,0 km/h,"1,010.28 hPa",0.0 mm,Fair
+2024-04-15,10:45 PM,15 °C,14 °C,94 %,NE,7 km/h,0 km/h,"1,010.28 hPa",0.0 mm,Fair
+2024-04-15,11:15 PM,13 °C,13 °C,100 %,SW,7 km/h,0 km/h,"1,021.27 hPa",0.0 mm,Mist
+2024-04-15,11:45 PM,13 °C,13 °C,100 %,VAR,2 km/h,0 km/h,"1,021.27 hPa",0.0 mm,Fog
+2024-04-16,12:15 AM,15 °C,14 °C,94 %,NE,7 km/h,0 km/h,"1,009.28 hPa",0.0 mm,Fair
+2024-04-16,12:45 AM,14 °C,13 °C,94 %,E,4 km/h,0 km/h,"1,009.28 hPa",0.0 mm,Fair
+2024-04-16,1:15 AM,13 °C,13 °C,100 %,ESE,4 km/h,0 km/h,"1,009.28 hPa",0.0 mm,Fair
+2024-04-16,1:45 AM,13 °C,13 °C,100 %,E,4 km/h,0 km/h,"1,009.28 hPa",0.0 mm,Fair
+2024-04-16,2:15 AM,13 °C,12 °C,94 %,ENE,6 km/h,0 km/h,"1,008.28 hPa",0.0 mm,Fair
+2024-04-16,2:45 AM,13 °C,12 °C,94 %,ENE,6 km/h,0 km/h,"1,008.28 hPa",0.0 mm,Fair
+2024-04-16,3:15 AM,13 °C,12 °C,94 %,E,4 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Fair
+2024-04-16,3:45 AM,11 °C,11 °C,100 %,SE,6 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Fair
+2024-04-16,4:15 AM,11 °C,10 °C,94 %,SSE,6 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Fair
+2024-04-16,4:45 AM,11 °C,10 °C,94 %,ESE,6 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Fair
+2024-04-16,5:15 AM,14 °C,12 °C,88 %,WSW,20 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Fair
+2024-04-16,5:45 AM,15 °C,13 °C,88 %,WSW,20 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Fair
+2024-04-16,6:15 AM,15 °C,12 °C,82 %,W,26 km/h,0 km/h,"1,004.28 hPa",0.0 mm,Fair
+2024-04-16,6:45 AM,15 °C,12 °C,82 %,WSW,28 km/h,0 km/h,"1,004.28 hPa",0.0 mm,Fair
+2024-04-16,7:15 AM,16 °C,12 °C,77 %,SSW,28 km/h,0 km/h,"1,004.28 hPa",0.0 mm,Fair
+2024-04-16,7:45 AM,16 °C,12 °C,77 %,SSW,26 km/h,0 km/h,"1,003.29 hPa",0.0 mm,Partly Cloudy
+2024-04-16,8:15 AM,17 °C,12 °C,72 %,SSW,26 km/h,0 km/h,"1,003.29 hPa",0.0 mm,Partly Cloudy
+2024-04-16,8:45 AM,17 °C,12 °C,72 %,WSW,28 km/h,0 km/h,"1,003.29 hPa",0.0 mm,Partly Cloudy
+2024-04-16,9:15 AM,17 °C,11 °C,68 %,WSW,33 km/h,54 km/h,"1,002.29 hPa",0.0 mm,Mostly Cloudy / Windy
+2024-04-16,9:45 AM,17 °C,11 °C,68 %,SSW,37 km/h,0 km/h,"1,002.29 hPa",0.0 mm,Partly Cloudy / Windy
+2024-04-16,10:15 AM,16 °C,10 °C,68 %,SSW,30 km/h,0 km/h,"1,002.29 hPa",0.0 mm,Partly Cloudy
+2024-04-16,10:45 AM,17 °C,11 °C,68 %,WSW,33 km/h,0 km/h,"1,002.29 hPa",0.0 mm,Mostly Cloudy / Windy
+2024-04-16,11:15 AM,17 °C,10 °C,63 %,WSW,35 km/h,0 km/h,"1,002.29 hPa",0.0 mm,Mostly Cloudy / Windy
+2024-04-16,11:45 AM,17 °C,10 °C,63 %,SSW,33 km/h,0 km/h,"1,002.29 hPa",0.0 mm,Mostly Cloudy / Windy
+2024-04-16,12:15 PM,17 °C,10 °C,63 %,WSW,37 km/h,0 km/h,"1,002.29 hPa",0.0 mm,Mostly Cloudy / Windy
+2024-04-16,12:45 PM,16 °C,10 °C,68 %,WSW,33 km/h,0 km/h,"1,001.29 hPa",0.0 mm,Mostly Cloudy / Windy
+2024-04-16,1:15 PM,17 °C,11 °C,68 %,WSW,37 km/h,0 km/h,"1,001.29 hPa",0.0 mm,Mostly Cloudy / Windy
+2024-04-16,1:45 PM,17 °C,11 °C,68 %,SW,31 km/h,0 km/h,"1,001.29 hPa",0.0 mm,Partly Cloudy
+2024-04-16,2:15 PM,16 °C,11 °C,72 %,WSW,35 km/h,0 km/h,"1,001.29 hPa",0.0 mm,Partly Cloudy / Windy
+2024-04-16,2:45 PM,17 °C,12 °C,72 %,WSW,31 km/h,0 km/h,"1,000.29 hPa",0.0 mm,Partly Cloudy
+2024-04-16,3:15 PM,17 °C,12 °C,72 %,W,31 km/h,0 km/h,"1,000.29 hPa",0.0 mm,Partly Cloudy
+2024-04-16,3:45 PM,17 °C,12 °C,72 %,W,28 km/h,0 km/h,"1,000.29 hPa",0.0 mm,Mostly Cloudy
+2024-04-16,4:15 PM,17 °C,12 °C,72 %,SW,26 km/h,0 km/h,"1,000.29 hPa",0.0 mm,Mostly Cloudy
+2024-04-16,4:45 PM,17 °C,12 °C,72 %,W,22 km/h,0 km/h,"1,000.29 hPa",0.0 mm,Mostly Cloudy
+2024-04-16,5:15 PM,17 °C,12 °C,72 %,W,20 km/h,0 km/h,"1,000.29 hPa",0.0 mm,Mostly Cloudy
+2024-04-16,5:45 PM,16 °C,12 °C,77 %,W,20 km/h,0 km/h,"1,000.29 hPa",0.0 mm,Partly Cloudy
+2024-04-16,6:15 PM,15 °C,12 °C,82 %,W,17 km/h,0 km/h,"1,000.29 hPa",0.0 mm,Partly Cloudy
+2024-04-16,6:45 PM,15 °C,12 °C,82 %,W,17 km/h,0 km/h,"1,000.29 hPa",0.0 mm,Light Rain
+2024-04-16,7:15 PM,15 °C,12 °C,82 %,W,11 km/h,0 km/h,"1,000.29 hPa",0.0 mm,Light Rain
+2024-04-16,7:45 PM,15 °C,12 °C,82 %,WSW,7 km/h,0 km/h,"1,000.29 hPa",0.0 mm,Mostly Cloudy
+2024-04-16,8:15 PM,15 °C,13 °C,88 %,VAR,2 km/h,0 km/h,"1,001.29 hPa",0.0 mm,Partly Cloudy
+2024-04-16,8:45 PM,14 °C,13 °C,94 %,VAR,4 km/h,0 km/h,"1,001.29 hPa",0.0 mm,Fair
+2024-04-16,9:15 PM,13 °C,13 °C,100 %,W,6 km/h,0 km/h,"1,001.29 hPa",0.0 mm,Fair
+2024-04-16,9:45 PM,13 °C,12 °C,94 %,CALM,0 km/h,0 km/h,"1,001.29 hPa",0.0 mm,Fair
+2024-04-16,10:15 PM,11 °C,11 °C,100 %,SE,9 km/h,0 km/h,"1,001.29 hPa",0.0 mm,Fair
+2024-04-16,10:45 PM,11 °C,11 °C,100 %,SSE,7 km/h,0 km/h,"1,001.29 hPa",0.0 mm,Fair
+2024-04-16,11:15 PM,15 °C,14 °C,94 %,NE,9 km/h,0 km/h,"1,010.28 hPa",0.0 mm,Fair
+2024-04-16,11:45 PM,16 °C,14 °C,88 %,NE,7 km/h,0 km/h,"1,009.28 hPa",0.0 mm,Fair
+2024-04-17,12:15 AM,11 °C,11 °C,100 %,ESE,11 km/h,0 km/h,"1,001.29 hPa",0.0 mm,Fair
+2024-04-17,12:45 AM,11 °C,11 °C,100 %,ESE,11 km/h,0 km/h,"1,001.29 hPa",0.0 mm,Fair
+2024-04-17,1:15 AM,11 °C,11 °C,100 %,SE,17 km/h,0 km/h,"1,001.29 hPa",0.0 mm,Fair
+2024-04-17,1:45 AM,11 °C,10 °C,94 %,SE,17 km/h,0 km/h,"1,001.29 hPa",0.0 mm,Fair
+2024-04-17,2:15 AM,11 °C,9 °C,88 %,SE,17 km/h,0 km/h,"1,001.29 hPa",0.0 mm,Partly Cloudy
+2024-04-17,2:45 AM,11 °C,9 °C,88 %,ESE,20 km/h,0 km/h,"1,001.29 hPa",0.0 mm,Fair
+2024-04-17,3:15 AM,11 °C,9 °C,88 %,SE,19 km/h,0 km/h,"1,001.29 hPa",0.0 mm,Fair
+2024-04-17,3:45 AM,11 °C,7 °C,76 %,E,9 km/h,0 km/h,"1,001.29 hPa",0.0 mm,Fair
+2024-04-17,4:15 AM,11 °C,7 °C,76 %,E,15 km/h,0 km/h,"1,001.29 hPa",0.0 mm,Fair
+2024-04-17,4:45 AM,11 °C,7 °C,76 %,ENE,6 km/h,0 km/h,"1,002.29 hPa",0.0 mm,Fair
+2024-04-17,5:15 AM,10 °C,7 °C,82 %,VAR,7 km/h,0 km/h,"1,002.29 hPa",0.0 mm,Fair
+2024-04-17,5:45 AM,9 °C,7 °C,87 %,VAR,4 km/h,0 km/h,"1,002.29 hPa",0.0 mm,Fair
+2024-04-17,6:15 AM,9 °C,7 °C,87 %,SE,7 km/h,0 km/h,"1,002.29 hPa",0.0 mm,Fair
+2024-04-17,6:45 AM,10 °C,8 °C,87 %,ESE,11 km/h,0 km/h,"1,002.29 hPa",0.0 mm,Fair
+2024-04-17,7:15 AM,11 °C,7 °C,76 %,ENE,7 km/h,0 km/h,"1,002.29 hPa",0.0 mm,Fair
+2024-04-17,7:45 AM,12 °C,7 °C,72 %,VAR,2 km/h,0 km/h,"1,002.29 hPa",0.0 mm,Fair
+2024-04-17,8:15 AM,13 °C,8 °C,72 %,SE,9 km/h,0 km/h,"1,002.29 hPa",0.0 mm,Fair
+2024-04-17,8:45 AM,14 °C,8 °C,67 %,SE,11 km/h,0 km/h,"1,002.29 hPa",0.0 mm,Fair
+2024-04-17,9:15 AM,15 °C,7 °C,59 %,SE,7 km/h,0 km/h,"1,003.29 hPa",0.0 mm,Fair
+2024-04-17,9:45 AM,15 °C,7 °C,59 %,SE,7 km/h,0 km/h,"1,003.29 hPa",0.0 mm,Fair
+2024-04-17,10:15 AM,16 °C,7 °C,55 %,VAR,6 km/h,0 km/h,"1,003.29 hPa",0.0 mm,Fair
+2024-04-17,10:45 AM,16 °C,6 °C,52 %,NW,15 km/h,0 km/h,"1,003.29 hPa",0.0 mm,Fair
+2024-04-17,11:15 AM,15 °C,5 °C,51 %,WNW,15 km/h,0 km/h,"1,002.29 hPa",0.0 mm,Fair
+2024-04-17,11:45 AM,17 °C,8 °C,55 %,W,22 km/h,0 km/h,"1,002.29 hPa",0.0 mm,Fair
+2024-04-17,12:15 PM,16 °C,8 °C,59 %,WNW,20 km/h,0 km/h,"1,002.29 hPa",0.0 mm,Fair
+2024-04-17,12:45 PM,16 °C,9 °C,63 %,W,20 km/h,0 km/h,"1,002.29 hPa",0.0 mm,Fair
+2024-04-17,1:15 PM,17 °C,8 °C,55 %,W,19 km/h,0 km/h,"1,002.29 hPa",0.0 mm,Fair
+2024-04-17,1:45 PM,17 °C,5 °C,45 %,N,19 km/h,0 km/h,"1,002.29 hPa",0.0 mm,Fair
+2024-04-17,2:15 PM,18 °C,6 °C,45 %,NNW,13 km/h,0 km/h,"1,002.29 hPa",0.0 mm,Fair
+2024-04-17,2:45 PM,18 °C,4 °C,40 %,WNW,17 km/h,0 km/h,"1,002.29 hPa",0.0 mm,Fair
+2024-04-17,3:15 PM,18 °C,4 °C,40 %,W,17 km/h,0 km/h,"1,002.29 hPa",0.0 mm,Fair
+2024-04-17,3:45 PM,18 °C,2 °C,34 %,W,11 km/h,0 km/h,"1,002.29 hPa",0.0 mm,Fair
+2024-04-17,4:15 PM,18 °C,-2 °C,26 %,WNW,17 km/h,0 km/h,"1,002.29 hPa",0.0 mm,Fair
+2024-04-17,4:45 PM,17 °C,-2 °C,27 %,N,22 km/h,0 km/h,"1,002.29 hPa",0.0 mm,Fair
+2024-04-17,5:15 PM,16 °C,2 °C,39 %,ENE,17 km/h,0 km/h,"1,002.29 hPa",0.0 mm,Fair
+2024-04-17,5:45 PM,14 °C,2 °C,44 %,ESE,9 km/h,0 km/h,"1,002.29 hPa",0.0 mm,Partly Cloudy
+2024-04-17,6:15 PM,14 °C,4 °C,51 %,SE,9 km/h,0 km/h,"1,003.29 hPa",0.0 mm,Partly Cloudy
+2024-04-17,6:45 PM,14 °C,8 °C,67 %,SSE,9 km/h,0 km/h,"1,003.29 hPa",0.0 mm,Partly Cloudy
+2024-04-17,7:15 PM,13 °C,9 °C,77 %,S,9 km/h,0 km/h,"1,003.29 hPa",0.0 mm,Partly Cloudy
+2024-04-17,7:45 PM,12 °C,8 °C,77 %,E,11 km/h,0 km/h,"1,004.28 hPa",0.0 mm,Partly Cloudy
+2024-04-17,8:15 PM,12 °C,7 °C,72 %,NNE,19 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Partly Cloudy
+2024-04-17,8:45 PM,12 °C,9 °C,82 %,E,11 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Partly Cloudy
+2024-04-17,9:15 PM,11 °C,9 °C,88 %,ENE,11 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Partly Cloudy
+2024-04-17,9:45 PM,11 °C,6 °C,71 %,E,11 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Partly Cloudy
+2024-04-17,10:15 PM,11 °C,6 °C,71 %,E,6 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Partly Cloudy
+2024-04-17,10:45 PM,11 °C,8 °C,82 %,S,7 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Partly Cloudy
+2024-04-17,11:15 PM,11 °C,11 °C,100 %,ESE,6 km/h,0 km/h,"1,001.29 hPa",0.0 mm,Fair
+2024-04-17,11:45 PM,11 °C,11 °C,100 %,E,6 km/h,0 km/h,"1,001.29 hPa",0.0 mm,Fair
+2024-04-18,12:15 AM,10 °C,7 °C,82 %,E,9 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Fair
+2024-04-18,12:45 AM,9 °C,8 °C,93 %,E,9 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Fair
+2024-04-18,1:15 AM,9 °C,9 °C,100 %,E,9 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Fair
+2024-04-18,1:45 AM,9 °C,9 °C,100 %,ESE,7 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Fair
+2024-04-18,2:15 AM,9 °C,9 °C,100 %,SE,7 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Fair
+2024-04-18,2:45 AM,9 °C,8 °C,93 %,ESE,7 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-18,3:15 AM,9 °C,8 °C,93 %,NNE,19 km/h,0 km/h,"1,004.28 hPa",0.0 mm,Thunder
+2024-04-18,3:45 AM,9 °C,9 °C,100 %,SSW,13 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Thunder
+2024-04-18,4:15 AM,9 °C,8 °C,93 %,ESE,6 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-18,4:45 AM,9 °C,8 °C,93 %,ESE,7 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Thunder
+2024-04-18,5:15 AM,9 °C,8 °C,93 %,E,6 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-18,5:45 AM,9 °C,8 °C,93 %,NNE,6 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Fair
+2024-04-18,6:15 AM,9 °C,8 °C,93 %,E,7 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Fair
+2024-04-18,6:45 AM,9 °C,8 °C,93 %,ESE,2 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Fair
+2024-04-18,7:15 AM,10 °C,9 °C,94 %,VAR,4 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Fair
+2024-04-18,7:45 AM,11 °C,6 °C,71 %,E,15 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Fair
+2024-04-18,8:15 AM,12 °C,6 °C,67 %,E,17 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Fair
+2024-04-18,8:45 AM,13 °C,6 °C,63 %,SE,15 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Partly Cloudy
+2024-04-18,9:15 AM,13 °C,7 °C,67 %,SE,15 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Partly Cloudy
+2024-04-18,9:45 AM,14 °C,6 °C,59 %,SE,11 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Partly Cloudy
+2024-04-18,10:15 AM,15 °C,6 °C,55 %,ESE,11 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Partly Cloudy
+2024-04-18,10:45 AM,15 °C,3 °C,45 %,ESE,15 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Partly Cloudy
+2024-04-18,11:15 AM,15 °C,3 °C,45 %,ESE,9 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-18,11:45 AM,15 °C,3 °C,45 %,ESE,13 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-18,12:15 PM,13 °C,5 °C,58 %,NW,31 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Partly Cloudy
+2024-04-18,12:45 PM,12 °C,5 °C,62 %,WNW,30 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-18,1:15 PM,11 °C,6 °C,71 %,NW,22 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Light Rain with Thunder
+2024-04-18,1:45 PM,10 °C,8 °C,87 %,NNW,15 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Light Rain
+2024-04-18,2:15 PM,9 °C,9 °C,100 %,NNW,31 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Light Rain
+2024-04-18,2:45 PM,9 °C,9 °C,100 %,N,20 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-18,3:15 PM,9 °C,8 °C,93 %,NE,17 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-18,3:45 PM,10 °C,8 °C,87 %,NE,6 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-18,4:15 PM,10 °C,8 °C,87 %,SE,7 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-18,4:45 PM,10 °C,8 °C,87 %,ESE,13 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Light Rain
+2024-04-18,5:15 PM,10 °C,7 °C,82 %,E,19 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-18,5:45 PM,10 °C,6 °C,76 %,ENE,20 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Partly Cloudy
+2024-04-18,6:15 PM,10 °C,5 °C,71 %,NE,17 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Partly Cloudy
+2024-04-18,6:45 PM,10 °C,5 °C,71 %,NE,15 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Partly Cloudy
+2024-04-18,7:15 PM,10 °C,5 °C,71 %,ENE,15 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Partly Cloudy
+2024-04-18,7:45 PM,11 °C,3 °C,58 %,NE,19 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Partly Cloudy
+2024-04-18,8:15 PM,11 °C,3 °C,58 %,NE,11 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Partly Cloudy
+2024-04-18,8:45 PM,11 °C,4 °C,62 %,NNE,15 km/h,0 km/h,"1,008.28 hPa",0.0 mm,Partly Cloudy
+2024-04-18,9:15 PM,11 °C,4 °C,62 %,NE,20 km/h,0 km/h,"1,008.28 hPa",0.0 mm,Partly Cloudy
+2024-04-18,9:45 PM,11 °C,4 °C,62 %,ENE,11 km/h,0 km/h,"1,009.28 hPa",0.0 mm,Partly Cloudy
+2024-04-18,10:15 PM,11 °C,4 °C,62 %,NE,24 km/h,0 km/h,"1,009.28 hPa",0.0 mm,Fair
+2024-04-18,10:45 PM,11 °C,3 °C,58 %,ENE,22 km/h,0 km/h,"1,009.28 hPa",0.0 mm,Fair
+2024-04-18,11:15 PM,10 °C,8 °C,87 %,S,4 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Partly Cloudy
+2024-04-18,11:45 PM,10 °C,7 °C,82 %,E,6 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Fair
+2024-04-19,12:15 AM,11 °C,3 °C,58 %,N,9 km/h,0 km/h,"1,011.28 hPa",0.0 mm,Fair
+2024-04-19,12:45 AM,11 °C,3 °C,58 %,N,13 km/h,0 km/h,"1,011.28 hPa",0.0 mm,Fair
+2024-04-19,1:15 AM,10 °C,3 °C,62 %,NNE,19 km/h,0 km/h,"1,011.28 hPa",0.0 mm,Fair
+2024-04-19,1:45 AM,11 °C,2 °C,54 %,NNE,19 km/h,0 km/h,"1,011.28 hPa",0.0 mm,Fair
+2024-04-19,2:15 AM,11 °C,2 °C,54 %,N,13 km/h,0 km/h,"1,011.28 hPa",0.0 mm,Fair
+2024-04-19,2:45 AM,11 °C,3 °C,58 %,N,13 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Fair
+2024-04-19,3:15 AM,10 °C,3 °C,62 %,N,6 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Fair
+2024-04-19,3:45 AM,10 °C,3 °C,62 %,NNE,7 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Fair
+2024-04-19,4:15 AM,8 °C,5 °C,81 %,NNW,11 km/h,0 km/h,"1,013.28 hPa",0.0 mm,Fair
+2024-04-19,4:45 AM,8 °C,4 °C,76 %,NNE,9 km/h,0 km/h,"1,013.28 hPa",0.0 mm,Fair
+2024-04-19,5:15 AM,9 °C,2 °C,62 %,VAR,4 km/h,0 km/h,"1,013.28 hPa",0.0 mm,Fair
+2024-04-19,5:45 AM,7 °C,6 °C,93 %,SSW,6 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Fair
+2024-04-19,6:15 AM,5 °C,4 °C,93 %,VAR,4 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Fair
+2024-04-19,6:45 AM,6 °C,4 °C,87 %,VAR,4 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Fair
+2024-04-19,7:15 AM,9 °C,6 °C,82 %,VAR,4 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Fair
+2024-04-19,7:45 AM,11 °C,6 °C,71 %,VAR,4 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Fair
+2024-04-19,8:15 AM,12 °C,5 °C,62 %,SW,7 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Fair
+2024-04-19,8:45 AM,12 °C,9 °C,82 %,NW,7 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Fair
+2024-04-19,9:15 AM,13 °C,7 °C,67 %,NNW,11 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Fair
+2024-04-19,9:45 AM,14 °C,0 °C,38 %,NW,9 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Fair
+2024-04-19,10:15 AM,14 °C,0 °C,38 %,VAR,7 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Fair
+2024-04-19,10:45 AM,15 °C,0 °C,36 %,NW,7 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Fair
+2024-04-19,11:15 AM,15 °C,0 °C,36 %,W,9 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Fair
+2024-04-19,11:45 AM,16 °C,0 °C,34 %,WSW,13 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Fair
+2024-04-19,12:15 PM,16 °C,1 °C,36 %,W,19 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Fair
+2024-04-19,12:45 PM,16 °C,1 °C,36 %,W,22 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Fair
+2024-04-19,1:15 PM,16 °C,1 °C,36 %,W,24 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Fair
+2024-04-19,1:45 PM,16 °C,2 °C,39 %,W,20 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Fair
+2024-04-19,2:15 PM,16 °C,2 °C,39 %,W,22 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Fair
+2024-04-19,2:45 PM,16 °C,2 °C,39 %,W,24 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Fair
+2024-04-19,3:15 PM,15 °C,2 °C,42 %,W,26 km/h,0 km/h,"1,013.28 hPa",0.0 mm,Fair
+2024-04-19,3:45 PM,16 °C,2 °C,39 %,W,28 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Fair
+2024-04-19,4:15 PM,15 °C,3 °C,45 %,W,24 km/h,0 km/h,"1,013.28 hPa",0.0 mm,Fair
+2024-04-19,4:45 PM,15 °C,3 °C,45 %,W,26 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Fair
+2024-04-19,5:15 PM,15 °C,3 °C,45 %,W,24 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Fair
+2024-04-19,5:45 PM,15 °C,3 °C,45 %,W,22 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Fair
+2024-04-19,6:15 PM,15 °C,3 °C,45 %,W,20 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Fair
+2024-04-19,6:45 PM,14 °C,4 °C,51 %,W,15 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Fair
+2024-04-19,7:15 PM,13 °C,4 °C,54 %,W,9 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Fair
+2024-04-19,7:45 PM,12 °C,4 °C,58 %,W,11 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Fair
+2024-04-19,8:15 PM,12 °C,7 °C,72 %,W,9 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Fair
+2024-04-19,8:45 PM,11 °C,7 °C,76 %,W,9 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Fair
+2024-04-19,9:15 PM,11 °C,7 °C,76 %,W,7 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Fair
+2024-04-19,9:45 PM,11 °C,6 °C,71 %,W,13 km/h,0 km/h,"1,011.28 hPa",0.0 mm,Fair
+2024-04-19,10:15 PM,11 °C,6 °C,71 %,WSW,13 km/h,0 km/h,"1,011.28 hPa",0.0 mm,Fair
+2024-04-19,10:45 PM,12 °C,8 °C,77 %,W,19 km/h,0 km/h,"1,010.28 hPa",0.0 mm,Fair
+2024-04-19,11:15 PM,11 °C,2 °C,54 %,NE,15 km/h,0 km/h,"1,010.28 hPa",0.0 mm,Fair
+2024-04-19,11:45 PM,11 °C,3 °C,58 %,NE,15 km/h,0 km/h,"1,010.28 hPa",0.0 mm,Fair
+2024-04-20,12:15 AM,12 °C,10 °C,88 %,WNW,11 km/h,0 km/h,"1,010.28 hPa",0.0 mm,Fair
+2024-04-20,1:45 AM,10 °C,10 °C,100 %,SE,7 km/h,0 km/h,"1,008.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-20,2:15 AM,9 °C,9 °C,100 %,ESE,9 km/h,0 km/h,"1,008.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-20,2:45 AM,9 °C,9 °C,100 %,ESE,11 km/h,0 km/h,"1,008.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-20,3:15 AM,9 °C,9 °C,100 %,ESE,11 km/h,0 km/h,"1,008.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-20,3:45 AM,9 °C,9 °C,100 %,ESE,9 km/h,0 km/h,"1,008.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-20,4:15 AM,9 °C,8 °C,93 %,ESE,7 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-20,4:45 AM,9 °C,6 °C,82 %,E,9 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-20,5:15 AM,9 °C,6 °C,82 %,E,11 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-20,5:45 AM,10 °C,7 °C,82 %,E,13 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Partly Cloudy
+2024-04-20,6:15 AM,10 °C,7 °C,82 %,NE,7 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Partly Cloudy
+2024-04-20,6:45 AM,10 °C,7 °C,82 %,NNE,7 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Partly Cloudy
+2024-04-20,7:15 AM,10 °C,7 °C,82 %,SSE,4 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-20,7:45 AM,10 °C,9 °C,94 %,E,4 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-20,8:15 AM,10 °C,9 °C,94 %,S,4 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Light Rain
+2024-04-20,8:45 AM,10 °C,9 °C,94 %,NNE,7 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Thunder
+2024-04-20,9:15 AM,10 °C,10 °C,100 %,ESE,11 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Partly Cloudy
+2024-04-20,9:45 AM,12 °C,10 °C,88 %,ESE,19 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Fair
+2024-04-20,10:15 AM,13 °C,9 °C,77 %,E,17 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Partly Cloudy
+2024-04-20,10:45 AM,13 °C,9 °C,77 %,ESE,13 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Partly Cloudy
+2024-04-20,11:15 AM,15 °C,9 °C,67 %,SSE,9 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Partly Cloudy
+2024-04-20,11:45 AM,15 °C,9 °C,67 %,ESE,11 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Partly Cloudy
+2024-04-20,12:15 PM,16 °C,9 °C,63 %,SSE,11 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Partly Cloudy
+2024-04-20,12:45 PM,16 °C,9 °C,63 %,S,7 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Partly Cloudy
+2024-04-20,1:15 PM,16 °C,9 °C,63 %,WSW,9 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Thunder
+2024-04-20,1:45 PM,17 °C,8 °C,55 %,W,13 km/h,31 km/h,"1,007.28 hPa",0.0 mm,Thunder
+2024-04-20,2:15 PM,14 °C,8 °C,67 %,N,24 km/h,0 km/h,"1,008.28 hPa",0.0 mm,Thunder
+2024-04-20,2:45 PM,11 °C,8 °C,82 %,NNE,7 km/h,0 km/h,"1,008.28 hPa",0.0 mm,Thunder
+2024-04-20,3:15 PM,12 °C,8 °C,77 %,WNW,9 km/h,0 km/h,"1,008.28 hPa",0.0 mm,Light Rain
+2024-04-20,3:45 PM,14 °C,8 °C,67 %,N,17 km/h,0 km/h,"1,008.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-20,4:15 PM,13 °C,9 °C,77 %,E,13 km/h,0 km/h,"1,008.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-20,4:45 PM,14 °C,8 °C,67 %,ESE,13 km/h,0 km/h,"1,008.28 hPa",0.0 mm,Partly Cloudy
+2024-04-20,5:15 PM,14 °C,8 °C,67 %,ENE,11 km/h,0 km/h,"1,008.28 hPa",0.0 mm,Partly Cloudy
+2024-04-20,5:45 PM,15 °C,9 °C,67 %,ESE,19 km/h,0 km/h,"1,008.28 hPa",0.0 mm,Fair
+2024-04-20,6:15 PM,13 °C,10 °C,82 %,ESE,17 km/h,0 km/h,"1,009.28 hPa",0.0 mm,Partly Cloudy
+2024-04-20,6:45 PM,12 °C,10 °C,88 %,E,15 km/h,0 km/h,"1,009.28 hPa",0.0 mm,Partly Cloudy
+2024-04-20,7:15 PM,12 °C,8 °C,77 %,E,20 km/h,0 km/h,"1,010.28 hPa",0.0 mm,Thunder
+2024-04-20,7:45 PM,12 °C,8 °C,77 %,E,17 km/h,0 km/h,"1,011.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-20,8:15 PM,12 °C,8 °C,77 %,ESE,20 km/h,0 km/h,"1,011.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-20,8:45 PM,10 °C,8 °C,87 %,SE,15 km/h,0 km/h,"1,011.28 hPa",0.0 mm,Fair
+2024-04-20,9:15 PM,9 °C,7 °C,87 %,SE,15 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Fair
+2024-04-20,9:45 PM,9 °C,8 °C,93 %,SE,13 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Fair
+2024-04-20,10:15 PM,8 °C,7 °C,93 %,SE,9 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Fair
+2024-04-20,10:45 PM,8 °C,7 °C,93 %,SE,9 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Fair
+2024-04-20,11:15 PM,12 °C,8 °C,77 %,W,19 km/h,0 km/h,"1,010.28 hPa",0.0 mm,Fair
+2024-04-20,11:45 PM,12 °C,10 °C,88 %,WNW,11 km/h,0 km/h,"1,010.28 hPa",0.0 mm,Fair
+2024-04-21,12:15 AM,6 °C,6 °C,100 %,SE,7 km/h,0 km/h,"1,013.28 hPa",0.0 mm,Fair
+2024-04-21,12:45 AM,6 °C,6 °C,100 %,SE,6 km/h,0 km/h,"1,013.28 hPa",0.0 mm,Fair
+2024-04-21,1:15 AM,6 °C,6 °C,100 %,SE,4 km/h,0 km/h,"1,013.28 hPa",0.0 mm,Fair
+2024-04-21,1:45 AM,6 °C,5 °C,93 %,E,6 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Fair
+2024-04-21,2:15 AM,6 °C,6 °C,100 %,VAR,4 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Fair
+2024-04-21,2:45 AM,5 °C,5 °C,100 %,VAR,2 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Fair
+2024-04-21,3:15 AM,5 °C,5 °C,100 %,E,7 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Fair
+2024-04-21,3:45 AM,4 °C,4 °C,100 %,VAR,4 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Fair
+2024-04-21,4:15 AM,4 °C,4 °C,100 %,SSE,7 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Fair
+2024-04-21,4:45 AM,3 °C,3 °C,100 %,E,4 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Fair
+2024-04-21,5:15 AM,3 °C,3 °C,100 %,E,9 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Fair
+2024-04-21,5:45 AM,3 °C,3 °C,100 %,ESE,7 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Fair
+2024-04-21,6:15 AM,4 °C,4 °C,100 %,VAR,4 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Fair
+2024-04-21,6:45 AM,4 °C,4 °C,100 %,ESE,7 km/h,0 km/h,"1,013.28 hPa",0.0 mm,Fair
+2024-04-21,7:15 AM,6 °C,6 °C,100 %,SE,9 km/h,0 km/h,"1,013.28 hPa",0.0 mm,Fair
+2024-04-21,7:45 AM,7 °C,7 °C,100 %,SSE,6 km/h,0 km/h,"1,013.28 hPa",0.0 mm,Fair
+2024-04-21,8:15 AM,9 °C,9 °C,100 %,SE,11 km/h,0 km/h,"1,013.28 hPa",0.0 mm,Fair
+2024-04-21,8:45 AM,9 °C,8 °C,93 %,SE,11 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Fair
+2024-04-21,9:15 AM,11 °C,7 °C,76 %,SE,11 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Fair
+2024-04-21,9:45 AM,12 °C,6 °C,67 %,SE,13 km/h,0 km/h,"1,013.28 hPa",0.0 mm,Fair
+2024-04-21,10:15 AM,14 °C,4 °C,51 %,ESE,17 km/h,0 km/h,"1,013.28 hPa",0.0 mm,Fair
+2024-04-21,10:45 AM,15 °C,3 °C,45 %,ESE,13 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Fair
+2024-04-21,11:15 AM,16 °C,2 °C,39 %,S,7 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Fair
+2024-04-21,11:45 AM,16 °C,2 °C,39 %,SE,4 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Fair
+2024-04-21,12:15 PM,16 °C,1 °C,36 %,SSW,7 km/h,0 km/h,"1,011.28 hPa",0.0 mm,Fair
+2024-04-21,12:45 PM,17 °C,0 °C,32 %,W,22 km/h,0 km/h,"1,011.28 hPa",0.0 mm,Fair
+2024-04-21,1:15 PM,17 °C,1 °C,34 %,W,17 km/h,0 km/h,"1,011.28 hPa",0.0 mm,Fair
+2024-04-21,1:45 PM,16 °C,-1 °C,31 %,W,19 km/h,0 km/h,"1,011.28 hPa",0.0 mm,Fair
+2024-04-21,2:15 PM,16 °C,1 °C,36 %,W,19 km/h,0 km/h,"1,011.28 hPa",0.0 mm,Fair
+2024-04-21,2:45 PM,16 °C,0 °C,34 %,WSW,17 km/h,0 km/h,"1,010.28 hPa",0.0 mm,Fair
+2024-04-21,3:15 PM,16 °C,0 °C,34 %,W,13 km/h,0 km/h,"1,010.28 hPa",0.0 mm,Fair
+2024-04-21,3:45 PM,17 °C,0 °C,32 %,W,17 km/h,0 km/h,"1,010.28 hPa",0.0 mm,Partly Cloudy
+2024-04-21,4:15 PM,16 °C,0 °C,34 %,WSW,17 km/h,0 km/h,"1,010.28 hPa",0.0 mm,Partly Cloudy
+2024-04-21,4:45 PM,16 °C,2 °C,39 %,WSW,13 km/h,0 km/h,"1,009.28 hPa",0.0 mm,Partly Cloudy
+2024-04-21,5:15 PM,15 °C,2 °C,42 %,WSW,9 km/h,0 km/h,"1,009.28 hPa",0.0 mm,Partly Cloudy
+2024-04-21,5:45 PM,15 °C,2 °C,42 %,WSW,13 km/h,0 km/h,"1,009.28 hPa",0.0 mm,Partly Cloudy
+2024-04-21,6:15 PM,14 °C,2 °C,44 %,WSW,9 km/h,0 km/h,"1,009.28 hPa",0.0 mm,Partly Cloudy
+2024-04-21,6:45 PM,14 °C,3 °C,48 %,SW,7 km/h,0 km/h,"1,009.28 hPa",0.0 mm,Partly Cloudy
+2024-04-21,7:15 PM,13 °C,7 °C,67 %,SSE,9 km/h,0 km/h,"1,009.28 hPa",0.0 mm,Fair
+2024-04-21,7:45 PM,12 °C,8 °C,77 %,ESE,9 km/h,0 km/h,"1,010.28 hPa",0.0 mm,Fair
+2024-04-21,8:15 PM,11 °C,8 °C,82 %,S,9 km/h,0 km/h,"1,010.28 hPa",0.0 mm,Fair
+2024-04-21,8:45 PM,11 °C,8 °C,82 %,ESE,9 km/h,0 km/h,"1,009.28 hPa",0.0 mm,Partly Cloudy
+2024-04-21,9:15 PM,11 °C,8 °C,82 %,SSE,9 km/h,0 km/h,"1,009.28 hPa",0.0 mm,Fair
+2024-04-21,9:45 PM,11 °C,6 °C,71 %,E,20 km/h,0 km/h,"1,009.28 hPa",0.0 mm,Fair
+2024-04-21,10:15 PM,11 °C,6 °C,71 %,E,17 km/h,0 km/h,"1,009.28 hPa",0.0 mm,Fair
+2024-04-21,10:45 PM,11 °C,6 °C,71 %,E,22 km/h,0 km/h,"1,009.28 hPa",0.0 mm,Fair
+2024-04-21,11:15 PM,7 °C,7 °C,100 %,VAR,2 km/h,0 km/h,"1,013.28 hPa",0.0 mm,Fair
+2024-04-21,11:45 PM,6 °C,6 °C,100 %,SSE,6 km/h,0 km/h,"1,013.28 hPa",0.0 mm,Fair
+2024-04-22,12:15 AM,11 °C,5 °C,67 %,E,22 km/h,0 km/h,"1,009.28 hPa",0.0 mm,Cloudy
+2024-04-22,12:45 AM,11 °C,4 °C,62 %,E,24 km/h,0 km/h,"1,008.28 hPa",0.0 mm,Cloudy
+2024-04-22,1:15 AM,11 °C,4 °C,62 %,ENE,26 km/h,0 km/h,"1,008.28 hPa",0.0 mm,Cloudy
+2024-04-22,1:45 AM,11 °C,4 °C,62 %,E,28 km/h,0 km/h,"1,008.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-22,2:15 AM,11 °C,4 °C,62 %,E,28 km/h,0 km/h,"1,008.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-22,2:45 AM,11 °C,4 °C,62 %,E,26 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Thunder
+2024-04-22,3:15 AM,10 °C,5 °C,71 %,ENE,15 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Thunder
+2024-04-22,3:45 AM,9 °C,7 °C,87 %,N,15 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Thunder
+2024-04-22,4:15 AM,9 °C,8 °C,93 %,NNW,17 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Thunder
+2024-04-22,4:45 AM,8 °C,7 °C,93 %,N,4 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Light Rain
+2024-04-22,5:15 AM,8 °C,7 °C,93 %,NNE,13 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Light Rain
+2024-04-22,5:45 AM,8 °C,7 °C,93 %,ENE,19 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Light Rain
+2024-04-22,6:15 AM,7 °C,7 °C,100 %,NNE,15 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Light Rain
+2024-04-22,6:45 AM,9 °C,6 °C,82 %,N,13 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-22,7:15 AM,9 °C,7 °C,87 %,N,13 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Light Rain
+2024-04-22,7:45 AM,9 °C,7 °C,87 %,NNE,13 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Light Rain
+2024-04-22,8:15 AM,9 °C,7 °C,87 %,NNW,13 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Light Rain with Thunder
+2024-04-22,8:45 AM,8 °C,8 °C,100 %,NNW,13 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Rain
+2024-04-22,9:15 AM,9 °C,9 °C,100 %,NW,19 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Light Rain
+2024-04-22,9:45 AM,9 °C,8 °C,93 %,VAR,6 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-22,10:15 AM,11 °C,11 °C,100 %,NE,7 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-22,10:45 AM,12 °C,9 °C,82 %,ENE,9 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Partly Cloudy
+2024-04-22,11:15 AM,14 °C,9 °C,72 %,E,17 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Partly Cloudy
+2024-04-22,11:45 AM,15 °C,8 °C,63 %,E,9 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-22,12:15 PM,14 °C,11 °C,82 %,NW,17 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-22,12:45 PM,14 °C,11 °C,82 %,NW,24 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-22,1:15 PM,14 °C,11 °C,82 %,NW,22 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-22,1:45 PM,13 °C,9 °C,77 %,WNW,20 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-22,2:15 PM,14 °C,9 °C,72 %,W,17 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-22,2:45 PM,14 °C,9 °C,72 %,W,17 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Partly Cloudy
+2024-04-22,3:15 PM,13 °C,8 °C,72 %,W,19 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Partly Cloudy
+2024-04-22,3:45 PM,13 °C,8 °C,72 %,W,19 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Partly Cloudy
+2024-04-22,4:15 PM,13 °C,7 °C,67 %,W,13 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Partly Cloudy
+2024-04-22,4:45 PM,13 °C,7 °C,67 %,WNW,13 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-22,5:15 PM,13 °C,7 °C,67 %,W,15 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Partly Cloudy
+2024-04-22,5:45 PM,12 °C,7 °C,72 %,WSW,15 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Partly Cloudy
+2024-04-22,6:15 PM,12 °C,8 °C,77 %,WSW,9 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Partly Cloudy
+2024-04-22,6:45 PM,12 °C,7 °C,72 %,WSW,9 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Partly Cloudy
+2024-04-22,7:15 PM,11 °C,8 °C,82 %,WSW,7 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Partly Cloudy
+2024-04-22,7:45 PM,11 °C,9 °C,88 %,S,6 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Fair
+2024-04-22,8:15 PM,10 °C,9 °C,94 %,SE,6 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Fair
+2024-04-22,8:45 PM,9 °C,9 °C,100 %,SE,11 km/h,0 km/h,"1,008.28 hPa",0.0 mm,Fair
+2024-04-22,9:15 PM,9 °C,9 °C,100 %,ESE,9 km/h,0 km/h,"1,008.28 hPa",0.0 mm,Fair
+2024-04-22,9:45 PM,9 °C,9 °C,100 %,E,13 km/h,0 km/h,"1,008.28 hPa",0.0 mm,Fair
+2024-04-22,10:15 PM,9 °C,9 °C,100 %,E,13 km/h,0 km/h,"1,008.28 hPa",0.0 mm,Partly Cloudy
+2024-04-22,10:45 PM,9 °C,9 °C,100 %,ESE,13 km/h,0 km/h,"1,008.28 hPa",0.0 mm,Partly Cloudy
+2024-04-22,11:15 PM,11 °C,5 °C,67 %,E,22 km/h,0 km/h,"1,009.28 hPa",0.0 mm,Cloudy
+2024-04-22,11:45 PM,11 °C,5 °C,67 %,E,19 km/h,0 km/h,"1,009.28 hPa",0.0 mm,Cloudy
+2024-04-23,12:15 AM,7 °C,7 °C,100 %,ESE,11 km/h,0 km/h,"1,008.28 hPa",0.0 mm,Fair
+2024-04-23,12:45 AM,7 °C,6 °C,93 %,SSE,11 km/h,0 km/h,"1,008.28 hPa",0.0 mm,Fair
+2024-04-23,1:15 AM,8 °C,8 °C,100 %,SE,17 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Fair
+2024-04-23,1:45 AM,8 °C,7 °C,93 %,SE,15 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Fair
+2024-04-23,2:15 AM,8 °C,7 °C,93 %,SE,17 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Partly Cloudy
+2024-04-23,2:45 AM,8 °C,6 °C,87 %,ESE,20 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-23,3:15 AM,8 °C,6 °C,87 %,ESE,20 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Partly Cloudy
+2024-04-23,3:45 AM,8 °C,7 °C,93 %,ESE,7 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Partly Cloudy
+2024-04-23,4:15 AM,7 °C,7 °C,100 %,ESE,6 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Partly Cloudy
+2024-04-23,4:45 AM,7 °C,6 °C,93 %,ESE,13 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-23,5:15 AM,7 °C,6 °C,93 %,ESE,15 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-23,5:45 AM,7 °C,6 °C,93 %,ESE,7 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Light Rain
+2024-04-23,6:15 AM,7 °C,7 °C,100 %,WSW,6 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Light Rain
+2024-04-23,6:45 AM,7 °C,7 °C,100 %,WSW,7 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Light Rain
+2024-04-23,7:15 AM,7 °C,7 °C,100 %,SSW,2 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Light Rain
+2024-04-23,7:45 AM,7 °C,7 °C,100 %,SE,6 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Light Rain
+2024-04-23,8:15 AM,7 °C,7 °C,100 %,N,11 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-23,8:45 AM,8 °C,7 °C,93 %,NE,9 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Partly Cloudy
+2024-04-23,9:15 AM,9 °C,8 °C,93 %,NNE,11 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-23,9:45 AM,10 °C,8 °C,87 %,NE,11 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Partly Cloudy
+2024-04-23,10:15 AM,12 °C,9 °C,82 %,E,17 km/h,0 km/h,"1,004.28 hPa",0.0 mm,Partly Cloudy
+2024-04-23,10:45 AM,12 °C,8 °C,77 %,ESE,15 km/h,0 km/h,"1,004.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-23,11:15 AM,12 °C,7 °C,72 %,S,11 km/h,0 km/h,"1,004.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-23,11:45 AM,12 °C,7 °C,72 %,SE,9 km/h,0 km/h,"1,004.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-23,12:15 PM,11 °C,8 °C,82 %,SSE,17 km/h,0 km/h,"1,004.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-23,12:45 PM,11 °C,7 °C,76 %,E,11 km/h,0 km/h,"1,004.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-23,1:15 PM,10 °C,8 °C,87 %,NW,9 km/h,0 km/h,"1,004.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-23,1:45 PM,10 °C,9 °C,94 %,N,9 km/h,0 km/h,"1,004.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-23,2:15 PM,10 °C,9 °C,94 %,N,15 km/h,0 km/h,"1,004.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-23,2:45 PM,10 °C,8 °C,87 %,N,9 km/h,0 km/h,"1,004.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-23,3:15 PM,10 °C,7 °C,82 %,N,7 km/h,0 km/h,"1,004.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-23,3:45 PM,11 °C,8 °C,82 %,NNW,7 km/h,0 km/h,"1,004.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-23,4:15 PM,11 °C,8 °C,82 %,W,11 km/h,0 km/h,"1,004.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-23,4:45 PM,11 °C,7 °C,76 %,WNW,9 km/h,0 km/h,"1,004.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-23,5:15 PM,11 °C,7 °C,76 %,W,7 km/h,0 km/h,"1,004.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-23,5:45 PM,11 °C,7 °C,76 %,WNW,11 km/h,0 km/h,"1,004.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-23,6:15 PM,11 °C,7 °C,76 %,W,6 km/h,0 km/h,"1,004.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-23,6:45 PM,10 °C,7 °C,82 %,WNW,6 km/h,0 km/h,"1,004.28 hPa",0.0 mm,Partly Cloudy
+2024-04-23,7:15 PM,10 °C,8 °C,87 %,VAR,4 km/h,0 km/h,"1,004.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-23,7:45 PM,10 °C,8 °C,87 %,VAR,6 km/h,0 km/h,"1,004.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-23,8:15 PM,10 °C,9 °C,94 %,VAR,6 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-23,8:45 PM,10 °C,9 °C,94 %,VAR,4 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Partly Cloudy
+2024-04-23,9:15 PM,9 °C,8 °C,93 %,VAR,4 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-23,9:45 PM,9 °C,9 °C,100 %,SSW,13 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Light Rain Shower
+2024-04-23,10:15 PM,8 °C,7 °C,93 %,N,7 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Light Rain
+2024-04-23,10:45 PM,8 °C,7 °C,93 %,NNE,6 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-23,11:15 PM,9 °C,8 °C,93 %,ESE,15 km/h,0 km/h,"1,008.28 hPa",0.0 mm,Partly Cloudy
+2024-04-23,11:45 PM,8 °C,7 °C,93 %,SE,17 km/h,0 km/h,"1,008.28 hPa",0.0 mm,Fair
+2024-04-24,1:15 AM,8 °C,7 °C,93 %,VAR,6 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-24,1:45 AM,8 °C,7 °C,93 %,SE,6 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-24,2:15 AM,8 °C,7 °C,93 %,VAR,6 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Partly Cloudy
+2024-04-24,2:45 AM,8 °C,7 °C,93 %,VAR,4 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Partly Cloudy
+2024-04-24,3:15 AM,8 °C,7 °C,93 %,SE,11 km/h,0 km/h,"1,004.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-24,3:45 AM,8 °C,7 °C,93 %,ESE,9 km/h,0 km/h,"1,004.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-24,4:15 AM,8 °C,7 °C,93 %,ESE,9 km/h,0 km/h,"1,004.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-24,4:45 AM,8 °C,7 °C,93 %,ESE,13 km/h,0 km/h,"1,004.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-24,5:15 AM,8 °C,7 °C,93 %,E,13 km/h,0 km/h,"1,004.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-24,5:45 AM,8 °C,7 °C,93 %,ENE,6 km/h,0 km/h,"1,004.28 hPa",0.0 mm,Partly Cloudy
+2024-04-24,6:15 AM,8 °C,7 °C,93 %,VAR,6 km/h,0 km/h,"1,004.28 hPa",0.0 mm,Partly Cloudy
+2024-04-24,6:45 AM,8 °C,7 °C,93 %,VAR,4 km/h,0 km/h,"1,004.28 hPa",0.0 mm,Partly Cloudy
+2024-04-24,7:15 AM,9 °C,9 °C,100 %,SSE,7 km/h,0 km/h,"1,004.28 hPa",0.0 mm,Partly Cloudy
+2024-04-24,7:45 AM,10 °C,9 °C,94 %,ESE,11 km/h,0 km/h,"1,004.28 hPa",0.0 mm,Fair
+2024-04-24,8:15 AM,10 °C,8 °C,87 %,ESE,11 km/h,0 km/h,"1,004.28 hPa",0.0 mm,Fair
+2024-04-24,8:45 AM,11 °C,8 °C,82 %,E,7 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Partly Cloudy
+2024-04-24,9:15 AM,12 °C,8 °C,77 %,ESE,13 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Partly Cloudy
+2024-04-24,9:45 AM,12 °C,8 °C,77 %,ESE,11 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-24,10:15 AM,12 °C,7 °C,72 %,VAR,6 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-24,10:45 AM,12 °C,7 °C,72 %,NNW,7 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Partly Cloudy
+2024-04-24,11:15 AM,12 °C,7 °C,72 %,NNW,7 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Partly Cloudy
+2024-04-24,11:45 AM,12 °C,6 °C,67 %,NW,11 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-24,12:15 PM,12 °C,5 °C,62 %,VAR,4 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Partly Cloudy
+2024-04-24,12:45 PM,13 °C,5 °C,58 %,W,11 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Partly Cloudy
+2024-04-24,1:15 PM,13 °C,7 °C,67 %,WNW,13 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Partly Cloudy
+2024-04-24,1:45 PM,13 °C,6 °C,63 %,WNW,15 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Partly Cloudy
+2024-04-24,2:15 PM,14 °C,6 °C,59 %,W,19 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Fair
+2024-04-24,2:45 PM,14 °C,6 °C,59 %,W,17 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Fair
+2024-04-24,3:15 PM,14 °C,6 °C,59 %,W,20 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Fair
+2024-04-24,3:45 PM,14 °C,6 °C,59 %,W,20 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Partly Cloudy
+2024-04-24,4:15 PM,14 °C,7 °C,63 %,W,20 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Partly Cloudy
+2024-04-24,4:45 PM,14 °C,7 °C,63 %,W,19 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-24,5:15 PM,13 °C,7 °C,67 %,WNW,15 km/h,0 km/h,"1,004.28 hPa",0.0 mm,Partly Cloudy
+2024-04-24,5:45 PM,13 °C,7 °C,67 %,WNW,15 km/h,0 km/h,"1,004.28 hPa",0.0 mm,Partly Cloudy
+2024-04-24,6:15 PM,13 °C,8 °C,72 %,WNW,9 km/h,0 km/h,"1,004.28 hPa",0.0 mm,Partly Cloudy
+2024-04-24,6:45 PM,12 °C,8 °C,77 %,W,11 km/h,0 km/h,"1,004.28 hPa",0.0 mm,Light Rain with Thunder
+2024-04-24,7:15 PM,10 °C,9 °C,94 %,NNW,17 km/h,0 km/h,"1,005.28 hPa",0.0 mm,T-Storm
+2024-04-24,7:45 PM,10 °C,9 °C,94 %,NNE,13 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Light Rain
+2024-04-24,8:15 PM,10 °C,9 °C,94 %,E,9 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Light Rain
+2024-04-24,8:45 PM,10 °C,9 °C,94 %,E,9 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Partly Cloudy
+2024-04-24,9:15 PM,10 °C,9 °C,94 %,E,6 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Partly Cloudy
+2024-04-24,9:45 PM,9 °C,8 °C,93 %,SSE,7 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Partly Cloudy
+2024-04-24,10:15 PM,9 °C,9 °C,100 %,E,4 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Light Rain
+2024-04-24,10:45 PM,9 °C,8 °C,93 %,NE,2 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Partly Cloudy
+2024-04-24,11:15 PM,8 °C,7 °C,93 %,NNE,9 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-24,11:45 PM,8 °C,7 °C,93 %,NE,7 km/h,0 km/h,"1,005.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-25,12:15 AM,8 °C,7 °C,93 %,ESE,6 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Partly Cloudy
+2024-04-25,12:45 AM,8 °C,8 °C,100 %,E,7 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Fair
+2024-04-25,1:15 AM,8 °C,8 °C,100 %,ESE,7 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Fair
+2024-04-25,1:45 AM,8 °C,8 °C,100 %,ESE,6 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Partly Cloudy
+2024-04-25,2:15 AM,7 °C,7 °C,100 %,ESE,6 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Partly Cloudy
+2024-04-25,2:45 AM,8 °C,7 °C,93 %,E,6 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Partly Cloudy
+2024-04-25,3:15 AM,8 °C,7 °C,93 %,ESE,6 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Partly Cloudy
+2024-04-25,3:45 AM,7 °C,7 °C,100 %,E,7 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Partly Cloudy
+2024-04-25,4:15 AM,7 °C,7 °C,100 %,E,7 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Partly Cloudy
+2024-04-25,4:45 AM,7 °C,7 °C,100 %,SSE,6 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Partly Cloudy
+2024-04-25,5:15 AM,7 °C,7 °C,100 %,E,13 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-25,5:45 AM,8 °C,7 °C,93 %,E,7 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Light Rain with Thunder
+2024-04-25,6:15 AM,8 °C,8 °C,100 %,NW,2 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Light Rain with Thunder
+2024-04-25,6:45 AM,8 °C,8 °C,100 %,S,6 km/h,0 km/h,"1,006.28 hPa",0.0 mm,T-Storm
+2024-04-25,7:15 AM,8 °C,8 °C,100 %,E,9 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Light Rain
+2024-04-25,7:45 AM,9 °C,9 °C,100 %,SSE,11 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Light Rain
+2024-04-25,8:15 AM,9 °C,9 °C,100 %,SE,9 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Light Rain
+2024-04-25,8:45 AM,9 °C,9 °C,100 %,ESE,9 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Partly Cloudy
+2024-04-25,9:15 AM,9 °C,9 °C,100 %,VAR,4 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Partly Cloudy
+2024-04-25,9:45 AM,10 °C,10 °C,100 %,W,4 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Partly Cloudy
+2024-04-25,10:15 AM,11 °C,10 °C,94 %,VAR,6 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Partly Cloudy
+2024-04-25,10:45 AM,11 °C,10 °C,94 %,SW,7 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Partly Cloudy
+2024-04-25,11:15 AM,12 °C,9 °C,82 %,VAR,6 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Partly Cloudy
+2024-04-25,11:45 AM,12 °C,9 °C,82 %,VAR,4 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Partly Cloudy
+2024-04-25,12:15 PM,12 °C,8 °C,77 %,VAR,4 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Light Rain
+2024-04-25,12:45 PM,12 °C,10 °C,88 %,N,7 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Partly Cloudy
+2024-04-25,1:15 PM,13 °C,9 °C,77 %,VAR,4 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Partly Cloudy
+2024-04-25,1:45 PM,14 °C,9 °C,72 %,VAR,4 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Partly Cloudy
+2024-04-25,2:15 PM,14 °C,8 °C,67 %,SSW,7 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Partly Cloudy
+2024-04-25,2:45 PM,15 °C,8 °C,63 %,SSW,7 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Partly Cloudy
+2024-04-25,3:15 PM,15 °C,6 °C,55 %,S,6 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Partly Cloudy
+2024-04-25,3:45 PM,15 °C,6 °C,55 %,SW,7 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Partly Cloudy
+2024-04-25,4:15 PM,15 °C,6 °C,55 %,SSW,7 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Partly Cloudy
+2024-04-25,4:45 PM,15 °C,6 °C,55 %,W,6 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Partly Cloudy
+2024-04-25,5:15 PM,15 °C,6 °C,55 %,W,15 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Partly Cloudy
+2024-04-25,5:45 PM,15 °C,6 °C,55 %,WNW,17 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Partly Cloudy
+2024-04-25,6:15 PM,13 °C,7 °C,67 %,WNW,11 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Partly Cloudy
+2024-04-25,6:45 PM,13 °C,7 °C,67 %,WNW,11 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Partly Cloudy
+2024-04-25,7:15 PM,13 °C,9 °C,77 %,NW,7 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Partly Cloudy
+2024-04-25,7:45 PM,12 °C,8 °C,77 %,NNW,6 km/h,0 km/h,"1,007.28 hPa",0.0 mm,Partly Cloudy
+2024-04-25,8:15 PM,12 °C,8 °C,77 %,N,6 km/h,0 km/h,"1,008.28 hPa",0.0 mm,Fair
+2024-04-25,8:45 PM,11 °C,8 °C,82 %,NW,6 km/h,0 km/h,"1,008.28 hPa",0.0 mm,Fair
+2024-04-25,9:15 PM,11 °C,9 °C,88 %,VAR,2 km/h,0 km/h,"1,008.28 hPa",0.0 mm,Fair
+2024-04-25,9:45 PM,9 °C,8 °C,93 %,VAR,4 km/h,0 km/h,"1,008.28 hPa",0.0 mm,Fair
+2024-04-25,10:15 PM,8 °C,8 °C,100 %,SSE,4 km/h,0 km/h,"1,008.28 hPa",0.0 mm,Fair
+2024-04-25,10:45 PM,9 °C,8 °C,93 %,S,4 km/h,0 km/h,"1,008.28 hPa",0.0 mm,Fair
+2024-04-25,11:15 PM,9 °C,8 °C,93 %,ESE,7 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Fair
+2024-04-25,11:45 PM,8 °C,8 °C,100 %,E,6 km/h,0 km/h,"1,006.28 hPa",0.0 mm,Partly Cloudy
+2024-04-26,12:15 AM,8 °C,8 °C,100 %,ESE,2 km/h,0 km/h,"1,009.28 hPa",0.0 mm,Shallow Fog
+2024-04-26,12:45 AM,7 °C,7 °C,100 %,ESE,7 km/h,0 km/h,"1,009.28 hPa",0.0 mm,Shallow Fog
+2024-04-26,1:15 AM,7 °C,7 °C,100 %,ESE,9 km/h,0 km/h,"1,009.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-26,1:45 AM,7 °C,7 °C,100 %,ESE,6 km/h,0 km/h,"1,009.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-26,2:15 AM,8 °C,8 °C,100 %,E,6 km/h,0 km/h,"1,009.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-26,2:45 AM,8 °C,8 °C,100 %,E,9 km/h,0 km/h,"1,008.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-26,3:15 AM,7 °C,7 °C,100 %,ESE,9 km/h,0 km/h,"1,008.28 hPa",0.0 mm,Fair
+2024-04-26,3:45 AM,7 °C,7 °C,100 %,E,9 km/h,0 km/h,"1,008.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-26,4:15 AM,7 °C,7 °C,100 %,SE,6 km/h,0 km/h,"1,008.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-26,4:45 AM,7 °C,7 °C,100 %,ESE,6 km/h,0 km/h,"1,009.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-26,5:15 AM,7 °C,7 °C,100 %,SSE,6 km/h,0 km/h,"1,009.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-26,5:45 AM,7 °C,7 °C,100 %,VAR,2 km/h,0 km/h,"1,009.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-26,6:15 AM,7 °C,7 °C,100 %,SE,4 km/h,0 km/h,"1,009.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-26,6:45 AM,7 °C,7 °C,100 %,SSE,6 km/h,0 km/h,"1,009.28 hPa",0.0 mm,Fair
+2024-04-26,7:15 AM,8 °C,8 °C,100 %,SE,6 km/h,0 km/h,"1,009.28 hPa",0.0 mm,Partly Cloudy
+2024-04-26,7:45 AM,9 °C,9 °C,100 %,SSE,6 km/h,0 km/h,"1,010.28 hPa",0.0 mm,Partly Cloudy
+2024-04-26,8:15 AM,10 °C,9 °C,94 %,VAR,4 km/h,0 km/h,"1,010.28 hPa",0.0 mm,Partly Cloudy
+2024-04-26,8:45 AM,11 °C,9 °C,88 %,VAR,6 km/h,0 km/h,"1,010.28 hPa",0.0 mm,Partly Cloudy
+2024-04-26,9:15 AM,12 °C,9 °C,82 %,VAR,4 km/h,0 km/h,"1,010.28 hPa",0.0 mm,Fair
+2024-04-26,9:45 AM,14 °C,9 °C,72 %,VAR,6 km/h,0 km/h,"1,010.28 hPa",0.0 mm,Fair
+2024-04-26,10:15 AM,15 °C,9 °C,67 %,ESE,9 km/h,0 km/h,"1,010.28 hPa",0.0 mm,Fair
+2024-04-26,10:45 AM,16 °C,8 °C,59 %,VAR,6 km/h,0 km/h,"1,010.28 hPa",0.0 mm,Partly Cloudy
+2024-04-26,11:15 AM,15 °C,8 °C,63 %,VAR,4 km/h,0 km/h,"1,010.28 hPa",0.0 mm,Partly Cloudy
+2024-04-26,11:45 AM,16 °C,7 °C,55 %,VAR,6 km/h,0 km/h,"1,010.28 hPa",0.0 mm,Partly Cloudy
+2024-04-26,12:15 PM,16 °C,7 °C,55 %,VAR,4 km/h,0 km/h,"1,010.28 hPa",0.0 mm,Partly Cloudy
+2024-04-26,12:45 PM,16 °C,8 °C,59 %,VAR,6 km/h,0 km/h,"1,010.28 hPa",0.0 mm,Partly Cloudy
+2024-04-26,1:15 PM,17 °C,7 °C,52 %,VAR,6 km/h,0 km/h,"1,010.28 hPa",0.0 mm,Partly Cloudy
+2024-04-26,1:45 PM,16 °C,7 °C,55 %,WSW,11 km/h,0 km/h,"1,010.28 hPa",0.0 mm,Partly Cloudy
+2024-04-26,2:15 PM,17 °C,8 °C,55 %,WSW,15 km/h,0 km/h,"1,010.28 hPa",0.0 mm,Partly Cloudy
+2024-04-26,2:45 PM,17 °C,8 °C,55 %,W,15 km/h,0 km/h,"1,010.28 hPa",0.0 mm,Partly Cloudy
+2024-04-26,3:15 PM,17 °C,8 °C,55 %,W,13 km/h,0 km/h,"1,010.28 hPa",0.0 mm,Partly Cloudy
+2024-04-26,3:45 PM,16 °C,7 °C,55 %,W,13 km/h,0 km/h,"1,010.28 hPa",0.0 mm,Partly Cloudy
+2024-04-26,4:15 PM,15 °C,8 °C,63 %,VAR,6 km/h,0 km/h,"1,010.28 hPa",0.0 mm,Partly Cloudy
+2024-04-26,4:45 PM,14 °C,11 °C,82 %,ESE,11 km/h,0 km/h,"1,010.28 hPa",0.0 mm,Partly Cloudy
+2024-04-26,5:15 PM,15 °C,11 °C,77 %,ESE,9 km/h,0 km/h,"1,010.28 hPa",0.0 mm,Partly Cloudy
+2024-04-26,5:45 PM,15 °C,11 °C,77 %,ESE,11 km/h,0 km/h,"1,010.28 hPa",0.0 mm,Partly Cloudy
+2024-04-26,6:15 PM,14 °C,11 °C,82 %,E,9 km/h,0 km/h,"1,010.28 hPa",0.0 mm,Partly Cloudy
+2024-04-26,6:45 PM,14 °C,11 °C,82 %,ESE,6 km/h,0 km/h,"1,010.28 hPa",0.0 mm,Partly Cloudy
+2024-04-26,7:15 PM,13 °C,12 °C,94 %,ESE,13 km/h,0 km/h,"1,011.28 hPa",0.0 mm,Partly Cloudy
+2024-04-26,7:45 PM,13 °C,12 °C,94 %,ESE,13 km/h,0 km/h,"1,011.28 hPa",0.0 mm,Partly Cloudy
+2024-04-26,8:15 PM,13 °C,12 °C,94 %,ESE,11 km/h,0 km/h,"1,011.28 hPa",0.0 mm,Partly Cloudy
+2024-04-26,8:45 PM,12 °C,12 °C,100 %,E,9 km/h,0 km/h,"1,011.28 hPa",0.0 mm,Partly Cloudy
+2024-04-26,9:15 PM,12 °C,12 °C,100 %,SE,9 km/h,0 km/h,"1,011.28 hPa",0.0 mm,Partly Cloudy
+2024-04-26,9:45 PM,12 °C,12 °C,100 %,E,11 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Partly Cloudy
+2024-04-26,10:15 PM,12 °C,12 °C,100 %,E,11 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Partly Cloudy
+2024-04-26,10:45 PM,12 °C,12 °C,100 %,ENE,9 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Partly Cloudy
+2024-04-26,11:15 PM,8 °C,8 °C,100 %,VAR,4 km/h,0 km/h,"1,008.28 hPa",0.0 mm,Shallow Fog
+2024-04-26,11:45 PM,8 °C,8 °C,100 %,E,7 km/h,0 km/h,"1,008.28 hPa",0.0 mm,Fair
+2024-04-27,12:15 AM,12 °C,11 °C,94 %,E,9 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Partly Cloudy
+2024-04-27,12:45 AM,12 °C,11 °C,94 %,SE,7 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Light Rain
+2024-04-27,1:15 AM,12 °C,11 °C,94 %,ESE,7 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-27,1:45 AM,12 °C,11 °C,94 %,ESE,7 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-27,2:15 AM,12 °C,11 °C,94 %,ESE,7 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-27,2:45 AM,12 °C,11 °C,94 %,ESE,13 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Light Rain
+2024-04-27,3:15 AM,12 °C,11 °C,94 %,ESE,13 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Light Rain
+2024-04-27,3:45 AM,12 °C,11 °C,94 %,ESE,13 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Partly Cloudy
+2024-04-27,4:15 AM,11 °C,11 °C,100 %,E,13 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Partly Cloudy
+2024-04-27,4:45 AM,11 °C,11 °C,100 %,E,13 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Partly Cloudy
+2024-04-27,5:15 AM,12 °C,11 °C,94 %,E,15 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Partly Cloudy
+2024-04-27,5:45 AM,12 °C,11 °C,94 %,E,17 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Partly Cloudy
+2024-04-27,6:15 AM,12 °C,10 °C,88 %,E,19 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Partly Cloudy
+2024-04-27,6:45 AM,13 °C,11 °C,88 %,E,19 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Partly Cloudy
+2024-04-27,7:15 AM,13 °C,11 °C,88 %,E,19 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-27,7:45 AM,14 °C,10 °C,77 %,E,24 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-27,8:15 AM,14 °C,11 °C,82 %,E,26 km/h,0 km/h,"1,013.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-27,8:45 AM,13 °C,11 °C,88 %,E,24 km/h,0 km/h,"1,013.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-27,9:15 AM,13 °C,11 °C,88 %,E,24 km/h,0 km/h,"1,013.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-27,9:45 AM,13 °C,11 °C,88 %,E,24 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-27,10:15 AM,14 °C,11 °C,82 %,E,22 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-27,10:45 AM,14 °C,11 °C,82 %,E,22 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-27,11:15 AM,14 °C,11 °C,82 %,E,24 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-27,11:45 AM,14 °C,11 °C,82 %,E,22 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-27,12:15 PM,14 °C,12 °C,88 %,ESE,24 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Light Rain
+2024-04-27,12:45 PM,14 °C,13 °C,94 %,E,20 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Light Rain
+2024-04-27,1:15 PM,14 °C,13 °C,94 %,E,24 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-27,1:45 PM,14 °C,13 °C,94 %,E,19 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-27,2:15 PM,14 °C,13 °C,94 %,E,13 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Light Rain
+2024-04-27,2:45 PM,14 °C,13 °C,94 %,E,9 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Light Rain
+2024-04-27,3:15 PM,15 °C,14 °C,94 %,E,9 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-27,3:45 PM,15 °C,13 °C,88 %,ESE,9 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-27,4:15 PM,16 °C,14 °C,88 %,ESE,15 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Fair
+2024-04-27,4:45 PM,16 °C,13 °C,82 %,SE,13 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Partly Cloudy
+2024-04-27,5:15 PM,16 °C,13 °C,82 %,SE,13 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Partly Cloudy
+2024-04-27,5:45 PM,16 °C,13 °C,82 %,SE,13 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Partly Cloudy
+2024-04-27,6:15 PM,16 °C,13 °C,82 %,ESE,13 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Fair
+2024-04-27,6:45 PM,14 °C,12 °C,88 %,SE,11 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Partly Cloudy
+2024-04-27,7:15 PM,14 °C,13 °C,94 %,SSW,7 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-27,7:45 PM,14 °C,13 °C,94 %,SE,9 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Partly Cloudy
+2024-04-27,8:15 PM,14 °C,13 °C,94 %,E,9 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Partly Cloudy
+2024-04-27,8:45 PM,13 °C,12 °C,94 %,E,11 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-27,9:15 PM,12 °C,12 °C,100 %,SSE,6 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-27,9:45 PM,12 °C,11 °C,94 %,ESE,7 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-27,10:15 PM,12 °C,11 °C,94 %,SE,7 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-27,10:45 PM,12 °C,11 °C,94 %,VAR,2 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-27,11:15 PM,12 °C,11 °C,94 %,ENE,9 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Partly Cloudy
+2024-04-27,11:45 PM,12 °C,11 °C,94 %,E,9 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Partly Cloudy
+2024-04-28,12:15 AM,12 °C,11 °C,94 %,VAR,6 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-28,12:45 AM,12 °C,11 °C,94 %,E,11 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-28,1:15 AM,12 °C,11 °C,94 %,ESE,15 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-28,1:45 AM,12 °C,11 °C,94 %,ESE,17 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-28,3:15 AM,12 °C,11 °C,94 %,ESE,13 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-28,3:45 AM,12 °C,11 °C,94 %,ESE,13 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-28,4:15 AM,11 °C,11 °C,100 %,ESE,17 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-28,4:45 AM,11 °C,10 °C,94 %,ESE,17 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-28,5:15 AM,11 °C,11 °C,100 %,ESE,17 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-28,5:45 AM,11 °C,11 °C,100 %,ESE,15 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-28,6:15 AM,12 °C,11 °C,94 %,ESE,13 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-28,6:45 AM,12 °C,11 °C,94 %,ESE,17 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-28,7:15 AM,13 °C,12 °C,94 %,ESE,20 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-28,7:45 AM,14 °C,12 °C,88 %,ESE,20 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-28,8:15 AM,15 °C,12 °C,82 %,ESE,19 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-28,8:45 AM,17 °C,11 °C,68 %,ESE,20 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-28,9:15 AM,18 °C,10 °C,59 %,ESE,24 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-28,9:45 AM,19 °C,9 °C,52 %,E,20 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-28,10:15 AM,20 °C,8 °C,46 %,E,19 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-28,10:45 AM,20 °C,7 °C,43 %,E,19 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-28,11:15 AM,20 °C,9 °C,49 %,E,20 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-28,11:45 AM,21 °C,8 °C,43 %,ESE,22 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-28,12:15 PM,21 °C,8 °C,43 %,ESE,19 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-28,12:45 PM,22 °C,8 °C,41 %,ESE,17 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-28,1:15 PM,22 °C,8 °C,41 %,E,13 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-28,1:45 PM,22 °C,9 °C,43 %,S,7 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-28,2:15 PM,23 °C,10 °C,44 %,SW,17 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-28,2:45 PM,23 °C,10 °C,44 %,SW,11 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-28,3:15 PM,23 °C,9 °C,41 %,SW,13 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-28,3:45 PM,23 °C,8 °C,38 %,WSW,13 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-28,4:15 PM,23 °C,8 °C,38 %,WSW,15 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-28,4:45 PM,22 °C,8 °C,41 %,WSW,13 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-28,5:15 PM,22 °C,8 °C,41 %,WSW,11 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-28,5:45 PM,21 °C,8 °C,43 %,W,11 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-28,6:15 PM,20 °C,9 °C,49 %,W,9 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-28,6:45 PM,20 °C,9 °C,49 %,WNW,7 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-28,7:15 PM,18 °C,9 °C,56 %,NNW,7 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-28,7:45 PM,18 °C,9 °C,56 %,N,6 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-28,8:15 PM,18 °C,9 °C,56 %,N,4 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-28,8:45 PM,17 °C,9 °C,59 %,N,4 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-28,9:15 PM,17 °C,9 °C,59 %,NNE,4 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-28,9:45 PM,15 °C,10 °C,72 %,ESE,7 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-28,10:15 PM,14 °C,11 °C,82 %,SSE,7 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-28,10:45 PM,13 °C,11 °C,88 %,SW,4 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-28,11:15 PM,12 °C,11 °C,94 %,ESE,6 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-28,11:45 PM,12 °C,11 °C,94 %,E,6 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-29,12:15 AM,13 °C,12 °C,94 %,SE,6 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-29,12:45 AM,12 °C,11 °C,94 %,E,7 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-29,1:15 AM,12 °C,11 °C,94 %,E,6 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-29,1:45 AM,12 °C,11 °C,94 %,ESE,6 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-29,2:15 AM,12 °C,11 °C,94 %,ESE,11 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-29,2:45 AM,12 °C,11 °C,94 %,ESE,9 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-29,3:15 AM,12 °C,11 °C,94 %,ESE,7 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-29,3:45 AM,11 °C,11 °C,100 %,SE,7 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-29,4:15 AM,11 °C,11 °C,100 %,ESE,9 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-29,4:45 AM,11 °C,11 °C,100 %,ESE,9 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-29,5:15 AM,11 °C,11 °C,100 %,ESE,7 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-29,5:45 AM,11 °C,11 °C,100 %,E,9 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-29,6:15 AM,12 °C,11 °C,94 %,ESE,13 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-29,6:45 AM,13 °C,12 °C,94 %,ESE,9 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-29,7:15 AM,15 °C,13 °C,88 %,SE,15 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-29,7:45 AM,16 °C,14 °C,88 %,ESE,15 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-29,8:15 AM,18 °C,14 °C,77 %,ESE,15 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-29,8:45 AM,19 °C,13 °C,68 %,ESE,20 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-29,9:15 AM,19 °C,11 °C,60 %,ESE,22 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-29,9:45 AM,19 °C,11 °C,60 %,ESE,19 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-29,10:15 AM,21 °C,10 °C,49 %,E,24 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-29,10:45 AM,22 °C,11 °C,50 %,E,20 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-29,11:15 AM,22 °C,11 °C,50 %,E,22 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-29,11:45 AM,23 °C,11 °C,47 %,E,20 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-29,12:15 PM,24 °C,12 °C,47 %,ESE,26 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-29,12:45 PM,23 °C,12 °C,50 %,ESE,22 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-29,1:15 PM,23 °C,12 °C,50 %,ESE,19 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-29,1:45 PM,24 °C,9 °C,38 %,ESE,19 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-29,2:15 PM,24 °C,9 °C,38 %,ESE,20 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-29,2:45 PM,24 °C,8 °C,36 %,ESE,17 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-29,3:15 PM,23 °C,10 °C,44 %,ESE,13 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-29,3:45 PM,23 °C,12 °C,50 %,WSW,19 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-29,4:15 PM,23 °C,12 °C,50 %,SSW,17 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-29,4:45 PM,21 °C,10 °C,49 %,SW,17 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-29,5:15 PM,21 °C,12 °C,56 %,WNW,13 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-29,5:45 PM,20 °C,12 °C,60 %,WNW,13 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-29,6:15 PM,20 °C,12 °C,60 %,WNW,11 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-29,6:45 PM,20 °C,14 °C,68 %,WNW,9 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-29,7:15 PM,18 °C,13 °C,73 %,NNW,6 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-29,7:45 PM,18 °C,13 °C,73 %,VAR,4 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-29,8:15 PM,18 °C,14 °C,77 %,VAR,4 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-29,8:45 PM,15 °C,13 °C,88 %,NNW,2 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-29,9:15 PM,15 °C,14 °C,94 %,VAR,4 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-29,9:45 PM,14 °C,14 °C,100 %,VAR,4 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-29,10:15 PM,14 °C,14 °C,100 %,VAR,4 km/h,0 km/h,"1,018.27 hPa",0.0 mm,Fair
+2024-04-29,10:45 PM,14 °C,14 °C,100 %,ESE,7 km/h,0 km/h,"1,018.27 hPa",0.0 mm,Fair
+2024-04-29,11:15 PM,12 °C,11 °C,94 %,SSW,4 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-29,11:45 PM,13 °C,12 °C,94 %,ESE,4 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-30,12:15 AM,14 °C,13 °C,94 %,E,6 km/h,0 km/h,"1,018.27 hPa",0.0 mm,Fair
+2024-04-30,12:45 AM,14 °C,13 °C,94 %,ENE,6 km/h,0 km/h,"1,018.27 hPa",0.0 mm,Fair
+2024-04-30,1:15 AM,13 °C,12 °C,94 %,E,9 km/h,0 km/h,"1,018.27 hPa",0.0 mm,Fair
+2024-04-30,1:45 AM,12 °C,12 °C,100 %,SSE,6 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-30,2:15 AM,12 °C,12 °C,100 %,SE,7 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-30,2:45 AM,12 °C,12 °C,100 %,SSE,9 km/h,0 km/h,"1,017.28 hPa",0.0 mm,Fair
+2024-04-30,3:15 AM,11 °C,11 °C,100 %,SE,13 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-30,3:45 AM,11 °C,11 °C,100 %,SE,13 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-30,4:15 AM,11 °C,11 °C,100 %,SE,9 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-30,4:45 AM,11 °C,11 °C,100 %,SE,11 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-30,5:15 AM,11 °C,11 °C,100 %,SSE,11 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-30,5:45 AM,11 °C,11 °C,100 %,SSE,7 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-30,6:15 AM,12 °C,12 °C,100 %,SE,9 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-30,6:45 AM,12 °C,12 °C,100 %,ESE,9 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-30,7:15 AM,14 °C,12 °C,88 %,SE,7 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-30,7:45 AM,17 °C,12 °C,72 %,ESE,15 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-30,8:15 AM,18 °C,12 °C,68 %,ESE,15 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-30,8:45 AM,19 °C,13 °C,68 %,ESE,19 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-30,9:15 AM,20 °C,12 °C,60 %,ESE,17 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-30,9:45 AM,21 °C,12 °C,56 %,ESE,13 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-30,10:15 AM,23 °C,13 °C,53 %,ESE,17 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-30,10:45 AM,23 °C,12 °C,50 %,ESE,17 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-30,11:15 AM,24 °C,12 °C,47 %,ESE,17 km/h,0 km/h,"1,016.28 hPa",0.0 mm,Fair
+2024-04-30,11:45 AM,24 °C,13 °C,50 %,ESE,13 km/h,0 km/h,"1,015.28 hPa",0.0 mm,Fair
+2024-04-30,12:15 PM,25 °C,14 °C,50 %,ESE,13 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Fair
+2024-04-30,12:45 PM,25 °C,13 °C,47 %,ESE,13 km/h,0 km/h,"1,014.28 hPa",0.0 mm,Fair
+2024-04-30,1:15 PM,26 °C,12 °C,42 %,ESE,9 km/h,0 km/h,"1,013.28 hPa",0.0 mm,Fair
+2024-04-30,1:45 PM,26 °C,12 °C,42 %,ESE,11 km/h,0 km/h,"1,013.28 hPa",0.0 mm,Fair
+2024-04-30,2:15 PM,25 °C,13 °C,47 %,WSW,19 km/h,0 km/h,"1,013.28 hPa",0.0 mm,Fair
+2024-04-30,2:45 PM,25 °C,12 °C,44 %,WSW,19 km/h,0 km/h,"1,013.28 hPa",0.0 mm,Fair
+2024-04-30,3:15 PM,24 °C,11 °C,44 %,WSW,19 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Fair
+2024-04-30,3:45 PM,23 °C,12 °C,50 %,W,17 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Fair
+2024-04-30,4:15 PM,22 °C,12 °C,53 %,WNW,13 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Fair
+2024-04-30,4:45 PM,22 °C,12 °C,53 %,WNW,11 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Fair
+2024-04-30,5:15 PM,22 °C,11 °C,50 %,WNW,11 km/h,0 km/h,"1,011.28 hPa",0.0 mm,Fair
+2024-04-30,5:45 PM,22 °C,10 °C,46 %,WNW,9 km/h,0 km/h,"1,011.28 hPa",0.0 mm,Partly Cloudy
+2024-04-30,6:15 PM,22 °C,11 °C,50 %,WNW,9 km/h,0 km/h,"1,011.28 hPa",0.0 mm,Partly Cloudy
+2024-04-30,6:45 PM,21 °C,10 °C,49 %,WNW,9 km/h,0 km/h,"1,011.28 hPa",0.0 mm,Partly Cloudy
+2024-04-30,7:15 PM,20 °C,12 °C,60 %,WNW,2 km/h,0 km/h,"1,011.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-30,7:45 PM,19 °C,13 °C,68 %,SW,6 km/h,0 km/h,"1,011.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-30,8:15 PM,19 °C,13 °C,68 %,SSW,4 km/h,0 km/h,"1,011.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-30,8:45 PM,18 °C,15 °C,83 %,SE,7 km/h,0 km/h,"1,011.28 hPa",0.0 mm,Mostly Cloudy
+2024-04-30,9:15 PM,17 °C,15 °C,88 %,SSE,7 km/h,0 km/h,"1,011.28 hPa",0.0 mm,Partly Cloudy
+2024-04-30,9:45 PM,16 °C,15 °C,94 %,SE,7 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Light Rain
+2024-04-30,10:15 PM,16 °C,14 °C,88 %,SSE,6 km/h,0 km/h,"1,012.28 hPa",0.0 mm,Light Rain
+2024-04-30,10:45 PM,17 °C,15 °C,88 %,NE,6 km/h,0 km/h,"1,011.28 hPa",0.0 mm,Light Rain
+2024-04-30,11:15 PM,13 °C,13 °C,100 %,VAR,4 km/h,0 km/h,"1,018.27 hPa",0.0 mm,Fair
+2024-04-30,11:45 PM,13 °C,13 °C,100 %,E,6 km/h,0 km/h,"1,018.27 hPa",0.0 mm,Fair

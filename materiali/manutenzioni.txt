@@ -1,0 +1,74 @@
+﻿Manutenzioni: storico e report (ordinarie e straordinarie)
+Registro di Manutenzione Compressore Kaeser CSD102
+Periodo: 21 maggio 2024 (08:00) – 24 giugno 2024 (23:00)
+Dati Generali:
+* Modello: Kaeser CSD102
+* Potenza: 55 kW
+* Pressione di lavoro: 8 bar
+* Portata: 10.2 m³/min
+________________
+
+
+Intervento 1 – Controllo di Routine
+Data e Ora: 21 maggio 2024, 08:00
+Ore di funzionamento: 34200 ore
+Attività eseguite:
+* Controllo generale del compressore.
+* Pulizia del filtro d'ingresso dell'aria.
+* Verifica del livello dell'olio lubrificante.
+* Ispezione visiva delle tubazioni e dei punti di giunzione.
+Anomalie riscontrate:
+* Leggero incremento nel consumo energetico, probabilmente dovuto a variazioni operative minori.
+Raccomandazioni future:
+* Continuare a monitorare attentamente il consumo energetico e programmare un controllo approfondito nel prossimo ciclo settimanale.
+________________
+
+
+Intervento 2 – Manutenzione Correttiva e Regolazione
+Data e Ora: 05 giugno 2024, 10:30
+Ore di funzionamento: 34300 ore
+Attività eseguite:
+* Cambio dell'olio lubrificante con olio sintetico Kaeser.
+* Regolazione della tensione della cinghia (iniziata una leggera disallineamento rilevato).
+* Pulizia dell'aftercooler per garantire una migliore efficienza termica.
+* Verifica e calibrazione dei sensori elettrici (corrente, cosphi, energia reattiva).
+Anomalie riscontrate:
+* Rumore anomalo proveniente dal motore durante la misurazione dei parametri elettrici.
+* Fluttuazioni nei valori di corrente e consumo energetico, segnalate come "VERO" nel foglio "Anomalies".
+Raccomandazioni future:
+* Programmare un controllo più approfondito del motore entro 2 settimane.
+* Monitorare le vibrazioni per verificare l'inizio di usura dei cuscinetti.
+________________
+
+
+Intervento 3 – Ispezione Approfondita dei Parametri Elettrici
+Data e Ora: 15 giugno 2024, 14:00
+Ore di funzionamento: 34400 ore
+Attività eseguite:
+* Ispezione dettagliata dei parametri elettrici (corrente, fattore di potenza, energia reattiva e consumo energetico).
+* Verifica dei dati di "True values" in confronto ai valori previsti per individuare scostamenti anomali.
+* Controllo dei sensori e delle connessioni elettriche per escludere errori di misurazione.
+Anomalie riscontrate:
+* Picchi anomali nel consumo energetico e calo improvviso del fattore di potenza.
+* I dati evidenziano anomalie coerenti con segnalazioni presenti nel foglio "Anomalies".
+Raccomandazioni future:
+* Effettuare ulteriori controlli sui sensori e valutare la sostituzione di componenti del sistema di alimentazione elettrica se le anomalie persistono.
+* Monitorare la temperatura del motore per rilevare eventuali surriscaldamenti.
+________________
+
+
+Intervento 4 – Verifica Finale e Pianificazione Interventi Futuri
+Data e Ora: 24 giugno 2024, 23:00
+Ore di funzionamento: 34500 ore
+Attività eseguite:
+* Pulizia generale del compressore e dei componenti critici.
+* Controllo del filtro dell'aria e verifica della protezione termica del motore.
+* Analisi integrata dei dati elettrici confrontando i valori storici con quelli attuali.
+* Revisione complessiva delle misurazioni e dei report del foglio "Anomalies".
+Anomalie riscontrate:
+* Anomalie intermittenti nei parametri elettrici, in particolare fluttuazioni nei valori di corrente e energia reattiva.
+* Conferma di una leggera usura dei cuscinetti del motore, correlata alle anomalie riscontrate nel periodo.
+Raccomandazioni future:
+* Anticipare la sostituzione dei cuscinetti del motore durante il prossimo intervento programmato.
+* Continuare a monitorare i parametri elettrici e valutare eventuali impatti delle condizioni meteorologiche (ad es. temperature elevate e alta umidità) sulle prestazioni del compressore.
+* Pianificare un controllo completo del sistema di raffreddamento e dei sensori in preparazione del ciclo di manutenzione successivo.

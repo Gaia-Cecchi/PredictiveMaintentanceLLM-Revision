@@ -1,0 +1,32 @@
+Data,Giorno,Mese,Temperatura media,Temperatura minima,Temperatura massima,Punto di rugiada,Umidità media,Umidità minima,Umidità massima,Visibilità media,Velocità del vento media,Velocità massima del vento,Raffica,Pressione media sul livello del mare,Pressione media,Pioggia,Fenomeni,Condizione Meteo
+2024-05-01,1,Maggio,16 °C,14 °C,18 °C,15 °C,98 %,83 %,100 %,17 km,6 km/h,13 km/h,-,1008 mb,-,n/d,Pioggia,pioggia debole
+2024-05-02,2,Maggio,14 °C,11 °C,16 °C,13 °C,94 %,72 %,100 %,16 km,15 km/h,35 km/h,-,1007 mb,-,n/d,Pioggia - Temporale,pioggia e schiarite
+2024-05-03,3,Maggio,13 °C,10 °C,16 °C,11 °C,87 %,72 %,100 %,21 km,15 km/h,30 km/h,-,1012 mb,-,n/d,Pioggia,pioggia e schiarite
+2024-05-04,4,Maggio,16 °C,12 °C,19 °C,13 °C,88 %,68 %,100 %,20 km,13 km/h,26 km/h,-,1016 mb,-,-,Nessuno,poco nuvoloso
+2024-05-05,5,Maggio,,11 °C,20 °C,11 °C,77 %,49 %,100 %,21 km,8 km/h,15 km/h,-,1017 mb,-,-,Nebbia,poco nuvoloso
+2024-05-06,6,Maggio,16 °C,11 °C,22 °C,11 °C,74 %,43 %,100 %,20 km,11 km/h,24 km/h,-,1015 mb,-,-,Nessuno,poco nuvoloso
+2024-05-07,7,Maggio,15 °C,13 °C,18 °C,14 °C,95 %,83 %,100 %,20 km,7 km/h,17 km/h,-,1013 mb,-,n/d,Pioggia - Temporale,pioggia e schiarite
+2024-05-08,8,Maggio,16 °C,10 °C,21 °C,13 °C,86 %,60 %,100 %,14 km,10 km/h,22 km/h,-,1015 mb,-,-,Nebbia,nebbia al mattino
+2024-05-09,9,Maggio,,12 °C,24 °C,14 °C,79 %,50 %,100 %,21 km,8 km/h,18 km/h,-,1016 mb,-,-,Nessuno,sereno
+2024-05-10,10,Maggio,19 °C,14 °C,24 °C,12 °C,64 %,44 %,88 %,20 km,8 km/h,21 km/h,-,1017 mb,-,-,Nessuno,poco nuvoloso
+2024-05-11,11,Maggio,18 °C,12 °C,24 °C,10 °C,65 %,36 %,100 %,21 km,10 km/h,21 km/h,-,1018 mb,-,-,Nessuno,sereno
+2024-05-12,12,Maggio,18 °C,11 °C,24 °C,13 °C,77 %,41 %,100 %,20 km,9 km/h,18 km/h,-,1017 mb,-,-,Nessuno,sereno
+2024-05-13,13,Maggio,18 °C,13 °C,24 °C,14 °C,80 %,50 %,100 %,19 km,7 km/h,15 km/h,-,1016 mb,-,-,Nessuno,sereno
+2024-05-14,14,Maggio,19 °C,13 °C,24 °C,14 °C,74 %,44 %,100 %,20 km,9 km/h,21 km/h,-,1010 mb,-,-,Nessuno,poco nuvoloso
+2024-05-15,15,Maggio,19 °C,16 °C,22 °C,16 °C,83 %,60 %,100 %,21 km,-,-,-,1007 mb,-,-,Nessuno,poco nuvoloso
+2024-05-16,16,Maggio,18 °C,14 °C,23 °C,16 °C,90 %,69 %,100 %,18 km,-,-,-,1006 mb,-,n/d,Pioggia,poco nuvoloso
+2024-05-17,17,Maggio,19 °C,17 °C,22 °C,15 °C,79 %,60 %,100 %,20 km,-,-,-,1011 mb,-,-,Nessuno,poco nuvoloso
+2024-05-18,18,Maggio,19 °C,12 °C,26 °C,14 °C,76 %,38 %,100 %,19 km,-,-,-,1012 mb,-,-,Nessuno,poco nuvoloso
+2024-05-19,19,Maggio,19 °C,13 °C,25 °C,15 °C,78 %,44 %,100 %,21 km,-,-,-,1011 mb,-,-,Nessuno,poco nuvoloso
+2024-05-20,20,Maggio,20 °C,18 °C,24 °C,19 °C,93 %,69 %,100 %,17 km,-,-,-,1009 mb,-,n/d,Pioggia - Temporale,pioggia e schiarite
+2024-05-21,21,Maggio,18 °C,18 °C,18 °C,18 °C,100 %,100 %,100 %,20 km,-,-,-,1007 mb,-,n/d,Pioggia,pioggia e schiarite
+2024-05-22,22,Maggio,19 °C,15 °C,22 °C,15 °C,77 %,60 %,100 %,19 km,-,-,-,1013 mb,-,-,Nessuno,poco nuvoloso
+2024-05-23,23,Maggio,18 °C,13 °C,22 °C,15 °C,84 %,56 %,100 %,19 km,-,-,-,1017 mb,-,-,Nessuno,poco nuvoloso
+2024-05-24,24,Maggio,18 °C,12 °C,23 °C,15 °C,82 %,57 %,100 %,19 km,-,-,-,1018 mb,-,-,Nessuno,poco nuvoloso
+2024-05-25,25,Maggio,19 °C,15 °C,23 °C,16 °C,83 %,53 %,100 %,20 km,-,-,-,1017 mb,-,n/d,Pioggia,poco nuvoloso
+2024-05-26,26,Maggio,18 °C,13 °C,23 °C,16 °C,86 %,61 %,100 %,20 km,-,-,-,1018 mb,-,-,Nessuno,poco nuvoloso
+2024-05-27,27,Maggio,20 °C,15 °C,25 °C,17 °C,85 %,41 %,100 %,20 km,-,-,-,1018 mb,-,-,Nessuno,poco nuvoloso
+2024-05-28,28,Maggio,21 °C,17 °C,24 °C,17 °C,83 %,61 %,100 %,20 km,-,-,-,1015 mb,-,-,Nessuno,poco nuvoloso
+2024-05-29,29,Maggio,20 °C,15 °C,25 °C,18 °C,86 %,57 %,100 %,21 km,-,-,-,1013 mb,-,-,Nessuno,poco nuvoloso
+2024-05-30,30,Maggio,20 °C,17 °C,23 °C,18 °C,89 %,65 %,100 %,21 km,-,-,-,1008 mb,-,-,Nebbia,poco nuvoloso
+2024-05-31,31,Maggio,20 °C,15 °C,23 °C,16 °C,77 %,49 %,100 %,20 km,1 km/h,33 km/h,-,1004 mb,-,-,Nessuno,poco nuvoloso

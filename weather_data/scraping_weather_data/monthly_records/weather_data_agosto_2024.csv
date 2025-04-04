@@ -1,0 +1,32 @@
+Data,Giorno,Mese,Temperatura media,Temperatura minima,Temperatura massima,Punto di rugiada,Umidità media,Umidità minima,Umidità massima,Visibilità media,Velocità del vento media,Velocità massima del vento,Raffica,Pressione media sul livello del mare,Pressione media,Pioggia,Fenomeni,Condizione Meteo
+2024-08-01,1,Agosto,30 °C,25 °C,34 °C,25 °C,77 %,49 %,100 %,19 km,-,-,-,1011 mb,-,-,Nessuno,poco nuvoloso
+2024-08-02,2,Agosto,28 °C,23 °C,34 °C,24 °C,80 %,55 %,94 %,18 km,-,-,-,1008 mb,-,-,Nessuno,poco nuvoloso
+2024-08-03,3,Agosto,29 °C,25 °C,34 °C,25 °C,79 %,56 %,100 %,19 km,-,-,-,1007 mb,-,n/d,Pioggia - Temporale,sole e caldo
+2024-08-04,4,Agosto,29 °C,24 °C,35 °C,23 °C,75 %,39 %,100 %,19 km,-,-,-,1009 mb,-,-,Nessuno,sole e caldo
+2024-08-05,5,Agosto,29 °C,24 °C,34 °C,24 °C,79 %,41 %,100 %,20 km,-,-,-,1010 mb,-,-,Nessuno,poco nuvoloso
+2024-08-06,6,Agosto,28 °C,23 °C,32 °C,25 °C,83 %,66 %,100 %,21 km,-,-,-,1010 mb,-,-,Nessuno,poco nuvoloso
+2024-08-07,7,Agosto,27 °C,23 °C,32 °C,24 °C,82 %,52 %,100 %,20 km,-,-,-,1012 mb,-,-,Nessuno,poco nuvoloso
+2024-08-08,8,Agosto,27 °C,23 °C,32 °C,24 °C,82 %,59 %,100 %,20 km,-,-,-,1013 mb,-,-,Nessuno,poco nuvoloso
+2024-08-09,9,Agosto,28 °C,23 °C,33 °C,24 °C,82 %,56 %,100 %,19 km,-,-,-,1014 mb,-,-,Nessuno,poco nuvoloso
+2024-08-10,10,Agosto,30 °C,22 °C,37 °C,22 °C,69 %,33 %,100 %,21 km,-,-,-,1017 mb,-,-,Nessuno,sole e caldo
+2024-08-11,11,Agosto,30 °C,24 °C,36 °C,22 °C,69 %,33 %,94 %,20 km,-,-,-,1017 mb,-,-,Nessuno,sole e caldo
+2024-08-12,12,Agosto,30 °C,23 °C,37 °C,24 °C,73 %,35 %,100 %,20 km,-,-,-,1012 mb,-,-,Nessuno,poco nuvoloso
+2024-08-13,13,Agosto,29 °C,22 °C,35 °C,22 °C,70 %,35 %,100 %,19 km,-,-,-,1010 mb,-,-,Nessuno,poco nuvoloso
+2024-08-14,14,Agosto,29 °C,22 °C,35 °C,23 °C,72 %,41 %,100 %,19 km,-,-,-,1011 mb,-,-,Nessuno,sole e caldo
+2024-08-15,15,Agosto,27 °C,22 °C,31 °C,24 °C,84 %,52 %,100 %,20 km,-,21 km/h,-,1015 mb,-,n/d,Pioggia - Temporale,poco nuvoloso
+2024-08-16,16,Agosto,28 °C,22 °C,34 °C,23 °C,79 %,44 %,100 %,19 km,-,-,-,1015 mb,-,-,Nessuno,poco nuvoloso
+2024-08-17,17,Agosto,27 °C,24 °C,32 °C,24 °C,83 %,59 %,100 %,20 km,1 km/h,24 km/h,-,1013 mb,-,n/d,Pioggia - Temporale,poco nuvoloso
+2024-08-18,18,Agosto,24 °C,21 °C,27 °C,23 °C,92 %,79 %,100 %,17 km,-,-,-,1008 mb,-,n/d,Pioggia - Temporale,temporale e schiarite
+2024-08-19,19,Agosto,24 °C,21 °C,28 °C,22 °C,89 %,66 %,100 %,21 km,-,-,-,1007 mb,-,n/d,Pioggia,poco nuvoloso
+2024-08-20,20,Agosto,26 °C,20 °C,30 °C,22 °C,82 %,59 %,94 %,20 km,-,-,-,1009 mb,-,-,Nessuno,poco nuvoloso
+2024-08-21,21,Agosto,27 °C,22 °C,30 °C,24 °C,85 %,66 %,100 %,19 km,-,-,-,1011 mb,-,-,Nessuno,poco nuvoloso
+2024-08-22,22,Agosto,27 °C,22 °C,32 °C,24 °C,85 %,49 %,100 %,20 km,-,-,-,1012 mb,-,-,Nessuno,sole e caldo
+2024-08-23,23,Agosto,27 °C,23 °C,31 °C,24 °C,86 %,59 %,100 %,21 km,-,-,-,1014 mb,-,-,Nessuno,poco nuvoloso
+2024-08-24,24,Agosto,26 °C,20 °C,32 °C,22 °C,80 %,41 %,100 %,20 km,-,-,-,1016 mb,-,-,Nessuno,poco nuvoloso
+2024-08-25,25,Agosto,26 °C,20 °C,31 °C,22 °C,82 %,55 %,100 %,20 km,-,-,-,1015 mb,-,-,Nessuno,poco nuvoloso
+2024-08-26,26,Agosto,27 °C,22 °C,31 °C,23 °C,85 %,55 %,100 %,20 km,-,-,-,1013 mb,-,-,Nessuno,sole e caldo
+2024-08-27,27,Agosto,27 °C,21 °C,35 °C,21 °C,77 %,37 %,100 %,19 km,-,21 km/h,-,1013 mb,-,n/d,Pioggia - Temporale,poco nuvoloso
+2024-08-28,28,Agosto,25 °C,19 °C,32 °C,20 °C,76 %,43 %,100 %,19 km,-,-,-,1016 mb,-,n/d,Pioggia - Temporale,poco nuvoloso
+2024-08-29,29,Agosto,25 °C,19 °C,32 °C,20 °C,78 %,49 %,100 %,20 km,-,-,-,1016 mb,-,-,Nessuno,sole e caldo
+2024-08-30,30,Agosto,26 °C,19 °C,31 °C,20 °C,75 %,43 %,100 %,19 km,-,-,-,1016 mb,-,-,Nessuno,sole e caldo
+2024-08-31,31,Agosto,26 °C,19 °C,33 °C,19 °C,71 %,36 %,100 %,20 km,-,-,-,1015 mb,-,-,Nessuno,poco nuvoloso

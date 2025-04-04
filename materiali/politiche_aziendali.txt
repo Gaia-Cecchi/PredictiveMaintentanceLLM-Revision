@@ -1,0 +1,219 @@
+﻿Contesto e politiche aziendali
+
+
+Documento: Contesto e Politiche Aziendali per la Manutenzione dei Compressori delle Concerie
+Obiettivi Specifici
+1. Efficienza Operativa: Garantire che i compressori funzionino al massimo della loro capacità, riducendo i consumi energetici e migliorando la qualità dell'aria compressa.
+2. Riduzione dei Tempi di Inattività: Implementare una manutenzione preventiva e predittiva per minimizzare i tempi di fermo macchina e garantire continuità operativa.
+3. Prolungamento della Vita Utile: Eseguire regolarmente la manutenzione per evitare usura prematura e prolungare la vita utile dei compressori.
+4. Ottimizzazione dei Costi: Ridurre i costi di manutenzione attraverso interventi tempestivi e strategie di manutenzione predittiva.
+Budget per la Manutenzione
+* Manutenzione Ordinaria: Allocazione annuale di € 50.000 per coprire i costi di sostituzione dei filtri, lubrificanti, e controlli periodici.
+* Manutenzione Straordinaria: Riserva di € 20.000 per interventi imprevisti o riparazioni urgenti.
+Politiche Aziendali
+Normative di Sicurezza
+1. Sicurezza sul Lavoro: Tutti gli operatori devono seguire le norme di sicurezza aziendali durante le operazioni di manutenzione, indossando dispositivi di protezione individuale (DPI) e seguendo procedure approvate.
+2. Normative Ambientali: La manutenzione deve essere eseguita in conformità con le normative ambientali vigenti, minimizzando l'impatto ecologico delle attività.
+3. Certificazioni e Standard: Tutte le attrezzature e i componenti sostituiti devono essere conformi agli standard CE e alle normative nazionali.
+Manutenzione Preventiva
+1. Ispezioni Regolari: Eseguire ispezioni settimanali dei filtri dell'aria e del livello dell'olio lubrificante.
+2. Sostituzione Programmata: Sostituire i filtri ogni 3 mesi e le cinghie-V ogni 2 anni.
+3. Monitoraggio delle Vibrazioni e Temperature: Utilizzare sensori per monitorare le vibrazioni e le temperature dei compressori, intervenendo tempestivamente in caso di anomalie.
+Manutenzione Predittiva
+1. Implementazione dell'IA: Utilizzare tecnologie di intelligenza artificiale per analizzare i dati raccolti dai sensori e prevedere potenziali guasti.
+2. Monitoraggio in Tempo Reale: Utilizzare sistemi di monitoraggio remoto per controllare lo stato dei compressori e ricevere avvisi in caso di anomalie.
+3. Formazione del Personale: Assicurarsi che il personale tecnico sia formato sull'uso delle tecnologie avanzate e sulle procedure di manutenzione predittiva.
+
+
+________________
+
+
+Checklist Operativa Dettagliata per la Manutenzione dei Compressori
+Attività Giornaliere
+1. Monitoraggio dei Parametri Operativi:
+   * Verifica della pressione.
+   * Controllo della temperatura.
+   * Monitoraggio del consumo energetico.
+   * Risorse: Personale tecnico dedicato.
+   * Finanze: Nessun costo aggiuntivo se il personale è già impiegato.
+2. Pulizia del Sistema:
+   * Pulizia dei filtri dell'aria.
+   * Rimozione di eventuali residui o detriti.
+   * Risorse: Personale tecnico, strumenti di pulizia.
+   * Finanze: Costi minimi per strumenti di pulizia.
+3. Verifica delle Cinghie e delle Giunzioni:
+   * Controllo delle condizioni delle cinghie.
+   * Verifica della tensione delle cinghie.
+   * Ispezione delle giunzioni per eventuali segni di usura.
+   * Risorse: Personale tecnico, strumenti di misura.
+   * Finanze: Nessun costo aggiuntivo se il personale è già impiegato.
+Attività Settimanali
+1. Ispezione delle Cinghie e delle Giunzioni:
+   * Controllo approfondito delle cinghie per segni di usura.
+   * Verifica delle giunzioni per garantire la sicurezza.
+   * Risorse: Personale tecnico, strumenti di misura.
+   * Finanze: Nessun costo aggiuntivo se il personale è già impiegato.
+2. Controllo dei Livelli di Lubrificante:
+   * Verifica dei livelli di olio o lubrificante nei compressori.
+   * Aggiunta di lubrificante se necessario.
+   * Risorse: Personale tecnico, olio lubrificante.
+   * Finanze: Costi per l'olio lubrificante (circa 50-100 € al mese).
+3. Verifica delle Valvole di Sicurezza:
+   * Controllo delle valvole di sicurezza per assicurarsi che funzionino correttamente.
+   * Risorse: Personale tecnico.
+   * Finanze: Nessun costo aggiuntivo se il personale è già impiegato.
+Attività Mensili
+1. Sostituzione dei Filtri dell'Aria:
+   * Sostituzione dei filtri dell'aria per garantire un flusso d'aria pulito.
+   * Risorse: Personale tecnico, filtri dell'aria.
+   * Finanze: Costi per i filtri dell'aria (circa 100-200 € al mese).
+2. Ispezione dei Tubi e delle Connessioni:
+   * Controllo dei tubi e delle connessioni per eventuali perdite o danni.
+   * Risorse: Personale tecnico, strumenti di rilevamento perdite.
+   * Finanze: Costi per strumenti di rilevamento perdite (circa 50-100 € al mese).
+3. Verifica del Sistema di Raffreddamento:
+   * Controllo del sistema di raffreddamento per assicurarsi che funzioni correttamente.
+   * Risorse: Personale tecnico.
+   * Finanze: Nessun costo aggiuntivo se il personale è già impiegato.
+Attività Trimestrali
+1. Analisi dell'Olio o Lubrificante:
+   * Analisi del lubrificante per verificarne la qualità e la purezza.
+   * Risorse: Personale tecnico, kit di analisi.
+   * Finanze: Costi per kit di analisi (circa 100-200 € al trimestre).
+2. Verifica delle Vibrazioni:
+   * Controllo delle vibrazioni per identificare eventuali problemi di bilanciamento.
+   * Risorse: Personale tecnico, strumenti di misura delle vibrazioni.
+   * Finanze: Costi per strumenti di misura delle vibrazioni (circa 200-500 € al trimestre).
+Attività Semestrali
+1. Controllo del Livello del Lubrificante:
+   * Controllo del livello del lubrificante.
+   * Risorse: Personale tecnico.
+   * Finanze: Nessun costo aggiuntivo se il personale è già impiegato.
+2. Cambio dei Filtri dell'Olio:
+   * Sostituzione dei filtri dell'olio.
+   * Risorse: Personale tecnico, filtri dell'olio.
+   * Finanze: Costi per i filtri dell'olio (circa 200-300 € al semestre).
+3. Controllo della Pressione delle Valvole di Scarico:
+   * Verifica della pressione delle valvole di scarico.
+   * Risorse: Personale tecnico.
+   * Finanze: Nessun costo aggiuntivo se il personale è già impiegato.
+Attività Annuali
+1. Sostituzione delle Cinghie:
+   * Sostituzione delle cinghie se necessario.
+   * Risorse: Personale tecnico, cinghie.
+   * Finanze: Costi per le cinghie (circa 500-1000 € all'anno).
+2. Test delle Valvole di Sicurezza:
+   * Esecuzione di test approfonditi delle valvole di sicurezza.
+   * Risorse: Personale tecnico.
+   * Finanze: Nessun costo aggiuntivo se il personale è già impiegato.
+3. Ispezione Generale dei Compressori:
+   * Ispezione completa dei compressori per identificare eventuali problemi nascosti.
+   * Risorse: Personale tecnico specializzato.
+   * Finanze: Costi per personale specializzato (circa 1000-2000 € all'anno).
+Procedure di Emergenza
+1. Procedura per Guasti Imminenti:
+   * Identificazione dei segni di guasto imminente.
+   * Intervento immediato per prevenire danni maggiori.
+   * Risorse: Personale tecnico, strumenti di diagnostica.
+   * Finanze: Costi variabili in base alla natura del guasto.
+2. Procedura per Incidenti:
+   * Attivazione del piano di emergenza in caso di incidenti.
+   * Notifica immediata al personale di gestione e ai servizi di emergenza.
+   * Risorse: Personale di gestione, servizi di emergenza.
+   * Finanze: Costi variabili in base alla natura dell'incidente.
+Formazione e Sicurezza
+1. Formazione del Personale:
+   * Corsi regolari di formazione per il personale tecnico sulla sicurezza e sull'uso corretto delle attrezzature.
+   * Risorse: Personale tecnico, corsi di formazione.
+   * Finanze: Costi per corsi di formazione (circa 500-1000 € all'anno).
+2. Verifica delle Attrezzature di Sicurezza:
+   * Controllo delle attrezzature di sicurezza per assicurarsi che siano in buone condizioni.
+   * Risorse: Personale tecnico.
+   * Finanze: Nessun costo aggiuntivo se il personale è già impiegato.
+Budget Totale per la Manutenzione
+* Manutenzione Ordinaria: Circa 8% del budget totale annuale per la manutenzione, destinato a interventi preventivi come la sostituzione dei filtri e il controllo delle cinghie.
+* Manutenzione Straordinaria: Circa 4% del budget totale annuale, riservato a riparazioni urgenti e sostituzioni di componenti critici.
+Allocamento delle Finanze
+* Personale Tecnico: Costi variabili in base alle esigenze specifiche.
+* Strumenti e Ricambi: Circa 2.000-5.000 € all'anno per strumenti di misura, filtri, olio lubrificante e altri ricambi.
+* Formazione e Sicurezza: Circa 500-1.000 € all'anno per corsi di formazione e attrezzature di sicurezza.
+
+
+
+
+________________
+Normative di Sicurezza per la Manutenzione dei Compressori
+Norme Generali di Sicurezza
+1. Individuazione dei Rischi:
+   * Identificazione dei potenziali rischi associati alla manutenzione dei compressori, come cadute, ustioni, lesioni da oggetti taglienti o schegge.
+   * Valutazione dei rischi per determinare le misure di sicurezza necessarie.
+   * Risorse Umane: Personale tecnico specializzato in sicurezza.
+   * Risorse Economiche: Costi variabili per consulenze di sicurezza (circa 500-1.000 € all'anno).
+2. Attrezzature di Protezione Individuale (API):
+   * Utilizzo obbligatorio di API come guanti, occhiali protettivi, caschi e scarpe antinfortunistiche durante le operazioni di manutenzione.
+   * Controllo regolare delle condizioni delle API per assicurarsi che siano in buone condizioni.
+   * Risorse Umane: Personale tecnico responsabile della gestione delle API.
+   * Risorse Economiche: Costi per API (circa 200-500 € all'anno).
+3. Segnaletica di Sicurezza:
+   * Utilizzo di segnaletica chiara per indicare aree di lavoro pericolose o inaccessibili.
+   * Installazione di cartelli di avvertimento per segnalare potenziali rischi.
+   * Risorse Umane: Personale tecnico per l'installazione della segnaletica.
+   * Risorse Economiche: Costi per segnaletica (circa 100-300 € all'anno).
+4. Formazione del Personale:
+   * Corsi regolari di formazione per il personale tecnico sulla sicurezza e sull'uso corretto delle attrezzature.
+   * Aggiornamento continuo sulle procedure di sicurezza e sulle normative vigenti.
+   * Risorse Umane: Personale tecnico specializzato in formazione.
+   * Risorse Economiche: Costi per corsi di formazione (circa 500-1.000 € all'anno).
+Procedure di Sicurezza Specifiche per la Manutenzione
+1. Blocco e Contrassegno:
+   * Procedura di blocco e contrassegno per garantire che i compressori siano completamente fermi e sicuri prima dell'inizio dei lavori di manutenzione.
+   * Utilizzo di dispositivi di blocco per prevenire l'avvio accidentale dei compressori.
+   * Risorse Umane: Personale tecnico responsabile del blocco e contrassegno.
+   * Risorse Economiche: Costi per dispositivi di blocco (circa 100-300 € all'anno).
+2. Rilascio della Pressione:
+   * Procedura per il rilascio della pressione nei compressori prima di aprire o lavorare su componenti sotto pressione.
+   * Utilizzo di valvole di sicurezza per garantire il rilascio controllato della pressione.
+   * Risorse Umane: Personale tecnico specializzato.
+   * Risorse Economiche: Nessun costo aggiuntivo se il personale è già impiegato.
+3. Lavori Elettrici:
+   * Procedura per i lavori elettrici che richiedono l'interruzione dell'alimentazione elettrica.
+   * Verifica che l'alimentazione elettrica sia stata interrotta prima di iniziare i lavori.
+   * Risorse Umane: Personale tecnico specializzato in elettricità.
+   * Risorse Economiche: Nessun costo aggiuntivo se il personale è già impiegato.
+4. Uso di Strumenti e Attrezzature:
+   * Utilizzo corretto degli strumenti e delle attrezzature per evitare lesioni personali o danni ai compressori.
+   * Controllo regolare delle condizioni degli strumenti e delle attrezzature.
+   * Risorse Umane: Personale tecnico responsabile della gestione degli strumenti.
+   * Risorse Economiche: Costi per strumenti e attrezzature (circa 500-1.000 € all'anno).
+Procedure di Emergenza
+1. Piano di Emergenza:
+   * Definizione di un piano di emergenza per gestire situazioni di emergenza come guasti, incidenti o incendi.
+   * Identificazione delle vie di evacuazione e dei punti di raccolta.
+   * Risorse Umane: Personale di gestione e servizi di emergenza.
+   * Risorse Economiche: Costi variabili in base alla natura dell'emergenza.
+2. Pronto Soccorso:
+   * Disponibilità di un kit di pronto soccorso in loco.
+   * Formazione del personale sulle procedure di primo soccorso.
+   * Risorse Umane: Personale tecnico formato in primo soccorso.
+   * Risorse Economiche: Costi per kit di pronto soccorso (circa 100-300 € all'anno).
+3. Notifica degli Incidenti:
+   * Procedura per la notifica immediata degli incidenti al personale di gestione e ai servizi di emergenza.
+   * Documentazione degli incidenti per analizzare le cause e migliorare le procedure di sicurezza.
+   * Risorse Umane: Personale di gestione.
+   * Risorse Economiche: Nessun costo aggiuntivo se il personale è già impiegato.
+Adempimenti Legislativi
+1. Rispetto delle Normative Nazionali e Internazionali:
+   * Adempimento delle normative vigenti relative alla sicurezza sul lavoro e alla protezione dell'ambiente.
+   * Aggiornamento continuo sulle normative e le linee guida più recenti.
+   * Risorse Umane: Personale tecnico specializzato in normative.
+   * Risorse Economiche: Costi per consulenze legislative (circa 500-1.000 € all'anno).
+2. Documentazione e Registrazione:
+   * Documentazione di tutte le attività di manutenzione e delle procedure di sicurezza seguite.
+   * Registrazione degli incidenti e delle azioni correttive intraprese.
+   * Risorse Umane: Personale tecnico responsabile della documentazione.
+   * Risorse Economiche: Nessun costo aggiuntivo se il personale è già impiegato.
+Budget Totale per la Sicurezza
+* Attrezzature e Strumenti di Sicurezza: Circa 1.000-2.000 € all'anno.
+* Formazione e Consulenze: Circa 1.000-2.000 € all'anno.
+* Procedure di Emergenza e Pronto Soccorso: Costi variabili in base alle esigenze specifiche.
+1.

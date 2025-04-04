@@ -1,0 +1,32 @@
+Data,Giorno,Mese,Temperatura media,Temperatura minima,Temperatura massima,Punto di rugiada,Umidità media,Umidità minima,Umidità massima,Visibilità media,Velocità del vento media,Velocità massima del vento,Raffica,Pressione media sul livello del mare,Pressione media,Pioggia,Fenomeni,Condizione Meteo
+2024-10-01,1,Ottobre,18 °C,17 °C,20 °C,18 °C,96 %,88 %,100 %,17 km,-,-,-,1016 mb,-,n/d,Pioggia,pioggia e schiarite
+2024-10-02,2,Ottobre,20 °C,17 °C,24 °C,18 °C,90 %,64 %,100 %,21 km,-,-,-,1008 mb,-,n/d,Pioggia,nubi sparse
+2024-10-03,3,Ottobre,16 °C,16 °C,17 °C,16 °C,98 %,94 %,100 %,16 km,-,-,-,1002 mb,-,n/d,Pioggia,pioggia e schiarite
+2024-10-04,4,Ottobre,,13 °C,19 °C,14 °C,90 %,73 %,100 %,21 km,-,-,-,1005 mb,-,n/d,Pioggia,pioggia e schiarite
+2024-10-05,5,Ottobre,16 °C,12 °C,20 °C,13 °C,85 %,52 %,100 %,20 km,-,-,-,1011 mb,-,n/d,Pioggia,poco nuvoloso
+2024-10-06,6,Ottobre,15 °C,10 °C,20 °C,14 °C,91 %,73 %,100 %,19 km,-,-,-,1014 mb,-,-,Nessuno,poco nuvoloso
+2024-10-07,7,Ottobre,18 °C,16 °C,19 °C,17 °C,96 %,83 %,100 %,16 km,-,-,-,1015 mb,-,n/d,Pioggia,pioggia e schiarite
+2024-10-08,8,Ottobre,20 °C,19 °C,23 °C,19 °C,95 %,88 %,100 %,20 km,-,-,-,1009 mb,-,n/d,Pioggia - Temporale,pioggia e schiarite
+2024-10-09,9,Ottobre,21 °C,18 °C,25 °C,18 °C,81 %,51 %,94 %,20 km,-,-,-,1008 mb,-,n/d,Pioggia,poco nuvoloso
+2024-10-10,10,Ottobre,21 °C,19 °C,23 °C,19 °C,89 %,73 %,100 %,19 km,1 km/h,31 km/h,-,1002 mb,-,n/d,Pioggia,poco nuvoloso
+2024-10-11,11,Ottobre,19 °C,17 °C,22 °C,17 °C,84 %,65 %,100 %,20 km,-,-,-,1010 mb,-,n/d,Pioggia,nubi sparse
+2024-10-12,12,Ottobre,17 °C,13 °C,22 °C,15 °C,89 %,65 %,100 %,20 km,-,-,-,1018 mb,-,-,Nessuno,poco nuvoloso
+2024-10-13,13,Ottobre,18 °C,15 °C,21 °C,16 °C,92 %,83 %,100 %,20 km,-,-,-,1019 mb,-,n/d,Pioggia,nubi sparse
+2024-10-14,14,Ottobre,19 °C,14 °C,23 °C,18 °C,93 %,78 %,100 %,21 km,-,-,-,1020 mb,-,n/d,Pioggia,nubi sparse
+2024-10-15,15,Ottobre,20 °C,16 °C,25 °C,18 °C,90 %,69 %,100 %,20 km,-,-,-,1019 mb,-,-,Nebbia,poco nuvoloso
+2024-10-16,16,Ottobre,19 °C,18 °C,21 °C,18 °C,94 %,88 %,100 %,19 km,-,-,-,1019 mb,-,n/d,Pioggia - Nebbia,pioggia e schiarite
+2024-10-17,17,Ottobre,20 °C,18 °C,23 °C,19 °C,90 %,78 %,100 %,17 km,-,-,-,1017 mb,-,n/d,Pioggia - Temporale,temporale e schiarite
+2024-10-18,18,Ottobre,20 °C,17 °C,23 °C,19 °C,95 %,78 %,100 %,19 km,-,-,-,1015 mb,-,n/d,Pioggia - Nebbia,pioggia e schiarite
+2024-10-19,19,Ottobre,18 °C,16 °C,19 °C,17 °C,96 %,94 %,100 %,20 km,-,-,-,1014 mb,-,n/d,Pioggia,pioggia debole
+2024-10-20,20,Ottobre,20 °C,17 °C,25 °C,17 °C,85 %,61 %,100 %,19 km,-,-,-,1019 mb,-,n/d,Pioggia,poco nuvoloso
+2024-10-21,21,Ottobre,20 °C,16 °C,26 °C,17 °C,85 %,61 %,100 %,21 km,-,-,-,1026 mb,-,-,Nessuno,poco nuvoloso
+2024-10-22,22,Ottobre,19 °C,16 °C,24 °C,18 °C,90 %,78 %,100 %,21 km,-,-,-,1026 mb,-,n/d,Pioggia,poco nuvoloso
+2024-10-23,23,Ottobre,20 °C,19 °C,21 °C,20 °C,97 %,88 %,100 %,18 km,-,-,-,1027 mb,-,n/d,Pioggia,pioggia e schiarite
+2024-10-24,24,Ottobre,21 °C,19 °C,24 °C,20 °C,94 %,78 %,100 %,17 km,-,-,-,1026 mb,-,n/d,Pioggia,pioggia e schiarite
+2024-10-25,25,Ottobre,19 °C,19 °C,21 °C,19 °C,96 %,83 %,100 %,19 km,-,-,-,1022 mb,-,n/d,Pioggia - Temporale,pioggia e schiarite
+2024-10-26,26,Ottobre,21 °C,18 °C,24 °C,19 °C,93 %,78 %,100 %,19 km,-,-,-,1020 mb,-,n/d,Pioggia - Temporale,poco nuvoloso
+2024-10-27,27,Ottobre,20 °C,18 °C,24 °C,18 °C,89 %,57 %,100 %,19 km,-,-,-,1022 mb,-,-,Nessuno,poco nuvoloso
+2024-10-28,28,Ottobre,19 °C,15 °C,23 °C,17 °C,89 %,61 %,100 %,17 km,-,-,-,1025 mb,-,-,Nebbia,nebbia al mattino
+2024-10-29,29,Ottobre,17 °C,13 °C,23 °C,15 °C,92 %,61 %,100 %,13 km,-,-,-,1025 mb,-,-,Nebbia,nebbia al mattino
+2024-10-30,30,Ottobre,16 °C,12 °C,23 °C,14 °C,92 %,61 %,100 %,11 km,-,-,-,1024 mb,-,-,Nebbia,nebbia al mattino
+2024-10-31,31,Ottobre,16 °C,10 °C,23 °C,13 °C,85 %,50 %,100 %,20 km,-,-,-,1024 mb,-,-,Nebbia,sereno

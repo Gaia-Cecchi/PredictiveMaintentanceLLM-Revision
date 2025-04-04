@@ -1,0 +1,49 @@
+2025-03-13 11:04:08,545 - INFO - Using local ChromeDriver at: c:\Users\gaia1\Desktop\UDOO Lab\Predictive Maintenance & LLMs\code 10\weather_data\scraping_weather_data\chromedriver.exe
+2025-03-13 11:04:09,802 - INFO - WebDriver initialized successfully
+2025-03-13 11:04:09,809 - INFO - Resuming scraping from month 12, day 31
+2025-03-13 11:04:09,809 - INFO - Skipping month 1 (January), already processed
+2025-03-13 11:04:09,809 - INFO - Skipping month 2 (February), already processed
+2025-03-13 11:04:09,809 - INFO - Skipping month 3 (March), already processed
+2025-03-13 11:04:09,809 - INFO - Skipping month 4 (April), already processed
+2025-03-13 11:04:09,812 - INFO - Skipping month 5 (May), already processed
+2025-03-13 11:04:09,812 - INFO - Skipping month 6 (June), already processed
+2025-03-13 11:04:09,812 - INFO - Skipping month 7 (July), already processed
+2025-03-13 11:04:09,812 - INFO - Skipping month 8 (August), already processed
+2025-03-13 11:04:09,813 - INFO - Skipping month 9 (September), already processed
+2025-03-13 11:04:09,813 - INFO - Skipping month 10 (October), already processed
+2025-03-13 11:04:09,813 - INFO - Skipping month 11 (November), already processed
+2025-03-13 11:04:09,813 - INFO - Inizio scraping per il mese di December 2024
+2025-03-13 11:04:09,814 - INFO - Skipping day 1, already processed
+2025-03-13 11:04:09,814 - INFO - Skipping day 2, already processed
+2025-03-13 11:04:09,814 - INFO - Skipping day 3, already processed
+2025-03-13 11:04:09,814 - INFO - Skipping day 4, already processed
+2025-03-13 11:04:09,815 - INFO - Skipping day 5, already processed
+2025-03-13 11:04:09,815 - INFO - Skipping day 6, already processed
+2025-03-13 11:04:09,815 - INFO - Skipping day 7, already processed
+2025-03-13 11:04:09,815 - INFO - Skipping day 8, already processed
+2025-03-13 11:04:09,815 - INFO - Skipping day 9, already processed
+2025-03-13 11:04:09,816 - INFO - Skipping day 10, already processed
+2025-03-13 11:04:09,816 - INFO - Skipping day 11, already processed
+2025-03-13 11:04:09,816 - INFO - Skipping day 12, already processed
+2025-03-13 11:04:09,816 - INFO - Skipping day 13, already processed
+2025-03-13 11:04:09,816 - INFO - Skipping day 14, already processed
+2025-03-13 11:04:09,817 - INFO - Skipping day 15, already processed
+2025-03-13 11:04:09,817 - INFO - Skipping day 16, already processed
+2025-03-13 11:04:09,817 - INFO - Skipping day 17, already processed
+2025-03-13 11:04:09,817 - INFO - Skipping day 18, already processed
+2025-03-13 11:04:09,818 - INFO - Skipping day 19, already processed
+2025-03-13 11:04:09,818 - INFO - Skipping day 20, already processed
+2025-03-13 11:04:09,818 - INFO - Skipping day 21, already processed
+2025-03-13 11:04:09,818 - INFO - Skipping day 22, already processed
+2025-03-13 11:04:09,818 - INFO - Skipping day 23, already processed
+2025-03-13 11:04:09,819 - INFO - Skipping day 24, already processed
+2025-03-13 11:04:09,819 - INFO - Skipping day 25, already processed
+2025-03-13 11:04:09,819 - INFO - Skipping day 26, already processed
+2025-03-13 11:04:09,820 - INFO - Skipping day 27, already processed
+2025-03-13 11:04:09,820 - INFO - Skipping day 28, already processed
+2025-03-13 11:04:09,820 - INFO - Skipping day 29, already processed
+2025-03-13 11:04:09,821 - INFO - Skipping day 30, already processed
+2025-03-13 11:04:09,821 - INFO - Scaricando dati per 2024-12-31 da https://www.wunderground.com/history/daily/it/pisa/LIRP/date/2024-12-31
+2025-03-13 11:04:18,586 - INFO - Aggiornato file c:\Users\gaia1\Desktop\UDOO Lab\Predictive Maintenance & LLMs\code 10\weather_data\scraping_weather_data\output\weather_data_december_2024.csv con i dati del 2024-12-31
+2025-03-13 11:04:23,587 - INFO - Dati per December 2024 salvati in c:\Users\gaia1\Desktop\UDOO Lab\Predictive Maintenance & LLMs\code 10\weather_data\scraping_weather_data\output\weather_data_december_2024.csv - 48 record totali
+2025-03-13 11:04:25,743 - INFO - Processo di scraping completato!

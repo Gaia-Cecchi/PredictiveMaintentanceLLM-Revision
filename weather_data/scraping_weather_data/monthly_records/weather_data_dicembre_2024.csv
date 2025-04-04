@@ -1,0 +1,32 @@
+Data,Giorno,Mese,Temperatura media,Temperatura minima,Temperatura massima,Punto di rugiada,Umidità media,Umidità minima,Umidità massima,Visibilità media,Velocità del vento media,Velocità massima del vento,Raffica,Pressione media sul livello del mare,Pressione media,Pioggia,Fenomeni,Condizione Meteo
+2024-12-01,1,Dicembre,7 °C,2 °C,14 °C,4 °C,83 %,47 %,100 %,19 km,-,-,-,1024 mb,-,-,Nessuno,sereno
+2024-12-02,2,Dicembre,8 °C,1 °C,16 °C,5 °C,87 %,55 %,100 %,22 km,-,-,-,1020 mb,-,-,Nessuno,sereno
+2024-12-03,3,Dicembre,9 °C,5 °C,12 °C,9 °C,97 %,93 %,100 %,21 km,-,-,-,1014 mb,-,n/d,Pioggia,pioggia e schiarite
+2024-12-04,4,Dicembre,10 °C,8 °C,14 °C,7 °C,81 %,55 %,100 %,21 km,-,-,-,1016 mb,-,-,Nessuno,poco nuvoloso
+2024-12-05,5,Dicembre,8 °C,3 °C,14 °C,3 °C,74 %,38 %,100 %,20 km,-,-,-,1021 mb,-,-,Nessuno,sereno
+2024-12-06,6,Dicembre,6 °C,2 °C,9 °C,5 °C,96 %,81 %,100 %,16 km,-,-,-,1016 mb,-,n/d,Pioggia,pioggia e schiarite
+2024-12-07,7,Dicembre,6 °C,3 °C,10 °C,6 °C,98 %,87 %,100 %,11 km,-,-,-,1010 mb,-,n/d,Pioggia - Nebbia,pioggia debole
+2024-12-08,8,Dicembre,9 °C,8 °C,10 °C,8 °C,94 %,71 %,100 %,20 km,-,-,-,995 mb,-,n/d,Pioggia,pioggia e schiarite
+2024-12-09,9,Dicembre,8 °C,6 °C,11 °C,7 °C,93 %,76 %,100 %,21 km,-,-,-,1005 mb,-,n/d,Pioggia,pioggia e schiarite
+2024-12-10,10,Dicembre,8 °C,7 °C,12 °C,6 °C,84 %,67 %,93 %,19 km,-,-,-,1014 mb,-,n/d,Pioggia,nubi sparse
+2024-12-11,11,Dicembre,,5 °C,14 °C,6 °C,84 %,59 %,100 %,20 km,-,-,-,1021 mb,-,-,Nessuno,poco nuvoloso
+2024-12-12,12,Dicembre,,7 °C,13 °C,6 °C,76 %,58 %,87 %,20 km,-,-,-,1025 mb,-,-,Nessuno,sereno
+2024-12-13,13,Dicembre,8 °C,5 °C,10 °C,6 °C,89 %,76 %,100 %,20 km,-,-,-,1025 mb,-,n/d,Pioggia,pioggia e schiarite
+2024-12-14,14,Dicembre,9 °C,6 °C,11 °C,8 °C,96 %,82 %,100 %,20 km,-,-,-,1021 mb,-,n/d,Pioggia - Temporale,nubi sparse
+2024-12-15,15,Dicembre,,2 °C,11 °C,6 °C,98 %,88 %,100 %,13 km,-,-,-,1024 mb,-,-,Nebbia,nebbia al mattino
+2024-12-16,16,Dicembre,,2 °C,12 °C,5 °C,93 %,71 %,100 %,13 km,-,-,-,1035 mb,-,-,Nebbia,nebbia al mattino
+2024-12-17,17,Dicembre,8 °C,3 °C,13 °C,7 °C,97 %,88 %,100 %,16 km,-,-,-,1033 mb,-,-,Nebbia,nebbia al mattino
+2024-12-18,18,Dicembre,12 °C,11 °C,14 °C,12 °C,96 %,88 %,100 %,17 km,-,-,-,1028 mb,-,n/d,Pioggia - Nebbia,pioggia e schiarite
+2024-12-19,19,Dicembre,13 °C,11 °C,15 °C,13 °C,97 %,88 %,100 %,15 km,-,-,-,1015 mb,-,n/d,Pioggia - Nebbia,pioggia debole
+2024-12-20,20,Dicembre,,,13 °C,5 °C,75 %,50 %,100 %,19 km,-,-,-,1007 mb,-,-,Nessuno,poco nuvoloso
+2024-12-21,21,Dicembre,5 °C,1 °C,12 °C,2 °C,84 %,47 %,100 %,19 km,-,-,-,1021 mb,-,-,Nessuno,sereno
+2024-12-22,22,Dicembre,5 °C,2 °C,8 °C,5 °C,97 %,87 %,100 %,16 km,-,-,-,1010 mb,-,n/d,Pioggia,pioggia e schiarite
+2024-12-23,23,Dicembre,5 °C,0 °C,10 °C,4 °C,81 %,34 %,100 %,18 km,-,-,-,1003 mb,-,-,Nessuno,poco nuvoloso
+2024-12-24,24,Dicembre,3 °C,-3 °C,12 °C,2 °C,73 %,32 %,100 %,20 km,-,-,-,1014 mb,-,-,Nessuno,sereno
+2024-12-25,25,Dicembre,5 °C,-3 °C,13 °C,0 °C,60 %,26 %,100 %,20 km,-,-,-,1025 mb,-,-,Nessuno,sereno
+2024-12-26,26,Dicembre,8 °C,3 °C,13 °C,0 °C,46 %,26 %,75 %,21 km,1 km/h,26 km/h,-,1028 mb,-,-,Nessuno,sereno
+2024-12-27,27,Dicembre,6 °C,0 °C,14 °C,2 °C,71 %,33 %,93 %,19 km,-,-,-,1030 mb,-,-,Nessuno,sereno
+2024-12-28,28,Dicembre,,-1 °C,14 °C,3 °C,87 %,47 %,100 %,18 km,-,-,-,1027 mb,-,-,Nebbia,nebbia al mattino
+2024-12-29,29,Dicembre,6 °C,0 °C,14 °C,4 °C,91 %,62 %,100 %,17 km,-,-,-,1027 mb,-,-,Nebbia,nebbia al mattino
+2024-12-30,30,Dicembre,5 °C,2 °C,10 °C,5 °C,98 %,82 %,100 %,7 km,-,-,-,1030 mb,-,-,Nebbia,nebbia al mattino
+2024-12-31,31,Dicembre,5 °C,0 °C,11 °C,5 °C,95 %,82 %,100 %,9 km,-,-,-,1032 mb,-,-,Nebbia,nebbia al mattino

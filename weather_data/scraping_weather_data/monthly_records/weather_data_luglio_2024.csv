@@ -1,0 +1,32 @@
+Data,Giorno,Mese,Temperatura media,Temperatura minima,Temperatura massima,Punto di rugiada,Umidità media,Umidità minima,Umidità massima,Visibilità media,Velocità del vento media,Velocità massima del vento,Raffica,Pressione media sul livello del mare,Pressione media,Pioggia,Fenomeni,Condizione Meteo
+2024-07-01,1,Luglio,24 °C,19 °C,29 °C,21 °C,83 %,58 %,100 %,20 km,-,-,-,1012 mb,-,-,Nessuno,poco nuvoloso
+2024-07-02,2,Luglio,25 °C,20 °C,29 °C,22 °C,85 %,58 %,100 %,19 km,-,-,-,1008 mb,-,-,Nessuno,poco nuvoloso
+2024-07-03,3,Luglio,24 °C,21 °C,29 °C,21 °C,84 %,48 %,100 %,21 km,-,-,-,1006 mb,-,n/d,Pioggia,poco nuvoloso
+2024-07-04,4,Luglio,25 °C,21 °C,28 °C,20 °C,77 %,54 %,100 %,18 km,-,-,-,1009 mb,-,-,Nessuno,poco nuvoloso
+2024-07-05,5,Luglio,24 °C,18 °C,30 °C,18 °C,74 %,45 %,100 %,19 km,-,-,-,1014 mb,-,-,Nessuno,poco nuvoloso
+2024-07-06,6,Luglio,24 °C,19 °C,30 °C,20 °C,78 %,49 %,100 %,20 km,-,-,-,1013 mb,-,-,Nessuno,poco nuvoloso
+2024-07-07,7,Luglio,25 °C,21 °C,31 °C,22 °C,83 %,52 %,100 %,21 km,-,-,-,1011 mb,-,n/d,Pioggia,poco nuvoloso
+2024-07-08,8,Luglio,27 °C,22 °C,30 °C,22 °C,77 %,43 %,100 %,19 km,-,-,-,1015 mb,-,-,Nessuno,poco nuvoloso
+2024-07-09,9,Luglio,26 °C,18 °C,33 °C,21 °C,76 %,49 %,100 %,19 km,-,-,-,1016 mb,-,-,Nessuno,sole e caldo
+2024-07-10,10,Luglio,27 °C,22 °C,32 °C,22 °C,78 %,46 %,100 %,19 km,-,-,-,1015 mb,-,-,Nebbia,nebbia al mattino
+2024-07-11,11,Luglio,26 °C,19 °C,31 °C,22 °C,79 %,49 %,100 %,19 km,-,-,-,1016 mb,-,-,Nessuno,poco nuvoloso
+2024-07-12,12,Luglio,26 °C,20 °C,32 °C,21 °C,77 %,49 %,100 %,21 km,-,-,-,1012 mb,-,-,Nessuno,poco nuvoloso
+2024-07-13,13,Luglio,27 °C,22 °C,31 °C,23 °C,82 %,66 %,100 %,21 km,-,-,-,1011 mb,-,-,Nessuno,poco nuvoloso
+2024-07-14,14,Luglio,26 °C,20 °C,32 °C,20 °C,74 %,41 %,100 %,20 km,-,-,-,1012 mb,-,-,Nessuno,sole e caldo
+2024-07-15,15,Luglio,,20 °C,33 °C,19 °C,68 %,36 %,100 %,20 km,-,-,-,1013 mb,-,-,Nessuno,sole e caldo
+2024-07-16,16,Luglio,26 °C,21 °C,31 °C,22 °C,79 %,52 %,100 %,19 km,-,-,-,1013 mb,-,-,Nessuno,poco nuvoloso
+2024-07-17,17,Luglio,27 °C,21 °C,32 °C,22 °C,78 %,52 %,100 %,21 km,-,-,-,1015 mb,-,-,Nessuno,sole e caldo
+2024-07-18,18,Luglio,27 °C,20 °C,31 °C,23 °C,82 %,55 %,100 %,21 km,-,-,-,1016 mb,-,-,Nessuno,poco nuvoloso
+2024-07-19,19,Luglio,28 °C,24 °C,33 °C,25 °C,83 %,56 %,100 %,16 km,-,-,-,1015 mb,-,-,Nebbia,nebbia al mattino
+2024-07-20,20,Luglio,,25 °C,31 °C,25 °C,84 %,66 %,100 %,21 km,-,-,-,1010 mb,-,-,Nessuno,poco nuvoloso
+2024-07-21,21,Luglio,28 °C,23 °C,33 °C,23 °C,79 %,44 %,100 %,20 km,-,-,-,1009 mb,-,n/d,Pioggia,poco nuvoloso
+2024-07-22,22,Luglio,,25 °C,34 °C,23 °C,77 %,47 %,100 %,19 km,-,-,-,1010 mb,-,n/d,Pioggia,poco nuvoloso
+2024-07-23,23,Luglio,28 °C,22 °C,32 °C,24 °C,82 %,63 %,100 %,21 km,-,-,-,1014 mb,-,-,Nessuno,sole e caldo
+2024-07-24,24,Luglio,29 °C,24 °C,33 °C,25 °C,83 %,59 %,100 %,22 km,-,-,-,1012 mb,-,-,Nessuno,poco nuvoloso
+2024-07-25,25,Luglio,30 °C,24 °C,35 °C,22 °C,69 %,35 %,100 %,20 km,-,-,-,1010 mb,-,-,Nessuno,poco nuvoloso
+2024-07-26,26,Luglio,29 °C,22 °C,34 °C,23 °C,76 %,44 %,100 %,20 km,-,-,-,1011 mb,-,-,Nessuno,sole e caldo
+2024-07-27,27,Luglio,29 °C,23 °C,34 °C,23 °C,73 %,34 %,100 %,21 km,-,-,-,1015 mb,-,-,Nessuno,sole e caldo
+2024-07-28,28,Luglio,28 °C,21 °C,34 °C,23 °C,78 %,47 %,100 %,20 km,-,-,-,1017 mb,-,-,Nessuno,sole e caldo
+2024-07-29,29,Luglio,30 °C,22 °C,35 °C,24 °C,74 %,50 %,100 %,20 km,-,-,-,1016 mb,-,-,Nessuno,sole e caldo
+2024-07-30,30,Luglio,30 °C,24 °C,36 °C,23 °C,69 %,37 %,100 %,20 km,-,-,-,1015 mb,-,-,Nessuno,sole e caldo
+2024-07-31,31,Luglio,30 °C,24 °C,36 °C,25 °C,79 %,42 %,100 %,21 km,-,-,-,1014 mb,-,-,Nessuno,sole e caldo
