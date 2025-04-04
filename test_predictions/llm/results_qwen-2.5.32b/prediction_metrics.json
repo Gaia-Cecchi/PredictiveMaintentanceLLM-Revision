@@ -1,0 +1,23 @@
+{
+  "overall_accuracy": 0.984375,
+  "anomaly_precision": 0.8461538461538461,
+  "anomaly_recall": 1.0,
+  "anomaly_f1": 0.9166666666666666,
+  "specificity": 0.9829059829059829,
+  "confusion_matrix": [
+    [
+      115,
+      2
+    ],
+    [
+      0,
+      11
+    ]
+  ],
+  "true_positives": 11,
+  "false_positives": 2,
+  "true_negatives": 115,
+  "false_negatives": 0,
+  "total_cases": 128,
+  "execution_time": "2025-03-15T21:03:40.607814"
+}

@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Model Evaluation Report - Qwen QWQ 32B</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            color: #333;
+        }
+        h1, h2, h3 {
+            color: #2c3e50;
+        }
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            margin: 20px 0;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+        .metrics-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+        }
+        .metric-card {
+            background-color: #f8f9fa;
+            border-radius: 5px;
+            padding: 15px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            width: 200px;
+            text-align: center;
+        }
+        .metric-value {
+            font-size: 24px;
+            font-weight: bold;
+            color: #2980b9;
+        }
+        .metric-label {
+            font-size: 14px;
+            color: #7f8c8d;
+        }
+        .plot-container {
+            margin: 30px 0;
+        }
+        .plot-row {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            justify-content: center;
+        }
+        .plot-item {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .plot-item img {
+            max-width: 100%;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        .plot-caption {
+            margin-top: 10px;
+            font-style: italic;
+            color: #555;
+        }
+        .timestamp {
+            margin-top: 40px;
+            font-size: 12px;
+            color: #999;
+            text-align: right;
+        }
+        .success {
+            color: green;
+        }
+        .error {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <h1>Model Evaluation Report: Qwen QWQ 32B</h1>
+    <p>Analysis of prediction results for compressor anomaly detection.</p>
+    
+    <h2>Summary</h2>
+    <div class="metrics-container">
+        <div class="metric-card">
+            <div class="metric-value">92.3%</div>
+            <div class="metric-label">Overall Accuracy</div>
+        </div>
+        <div class="metric-card">
+            <div class="metric-value">0.034</div>
+            <div class="metric-label">Precision</div>
+        </div>
+        <div class="metric-card">
+            <div class="metric-value">0.091</div>
+            <div class="metric-label">Recall</div>
+        </div>
+        <div class="metric-card">
+            <div class="metric-value">0.050</div>
+            <div class="metric-label">F1 Score</div>
+        </div>
+        <div class="metric-card">
+            <div class="metric-value">0.500</div>
+            <div class="metric-label">AUC-ROC</div>
+        </div>
+        <div class="metric-card">
+            <div class="metric-value">0.077</div>
+            <div class="metric-label">MAE</div>
+        </div>
+        <div class="metric-card">
+            <div class="metric-value">0.077</div>
+            <div class="metric-label">MSE</div>
+        </div>
+        <div class="metric-card">
+            <div class="metric-value">1/11</div>
+            <div class="metric-label">Anomalies Detected</div>
+        </div>
+        <div class="metric-card">
+            <div class="metric-value">28</div>
+            <div class="metric-label">False Positives</div>
+        </div>
+    </div>
+    
+    <h2>Accuracy by Data Type</h2>
+    <table>
+        <tr>
+            <th>Type</th>
+            <th>Accuracy</th>
+            <th>Correctly Classified</th>
+            <th>Total</th>
+        </tr>
+
+        <tr>
+            <td>normal</td>
+            <td>94.0%</td>
+            <td>439</td>
+            <td>467</td>
+        </tr>
+        <tr>
+            <td>false_positive</td>
+            <td>100.0%</td>
+            <td>17</td>
+            <td>17</td>
+        </tr>
+        <tr>
+            <td>anomaly</td>
+            <td>9.1%</td>
+            <td>1</td>
+            <td>11</td>
+        </tr>
+    </table>
+    
+    <h2>Classification Performance</h2>
+    <div class="plot-row">
+        <div class="plot-item">
+            <img src="confusion_matrix_Qwen QWQ 32B.png" alt="Confusion Matrix">
+            <p class="plot-caption">Confusion Matrix showing True Positives, False Positives, True Negatives, and False Negatives</p>
+        </div>
+        <div class="plot-item">
+            <img src="roc_curve_Qwen QWQ 32B.png" alt="ROC Curve">
+            <p class="plot-caption">Receiver Operating Characteristic (ROC) Curve - AUC: 0.500</p>
+        </div>
+    </div>
+    
+    <div class="plot-row">
+        <div class="plot-item">
+            <img src="pr_curve_Qwen QWQ 32B.png" alt="Precision-Recall Curve">
+            <p class="plot-caption">Precision-Recall Curve - Average Precision: 0.022</p>
+        </div>
+        <div class="plot-item">
+            <img src="prediction_distribution_Qwen QWQ 32B.png" alt="Prediction Distribution">
+            <p class="plot-caption">Distribution of Correct and Incorrect Predictions by Data Type</p>
+        </div>
+    </div>
+    
+    <h2>Confidence Analysis</h2>
+    <div class="plot-row">
+        <div class="plot-item">
+            <img src="confidence_accuracy_Qwen QWQ 32B.png" alt="Confidence vs Accuracy">
+            <p class="plot-caption">Relationship between Confidence Level and Prediction Accuracy</p>
+        </div>
+    </div>
+    
+    <h2>Parameter Distributions</h2>
+    <div class="plot-row">
+
+        <div class="plot-item">
+            <img src="param_temperature_Qwen QWQ 32B.png" alt="Temperature Distribution">
+            <p class="plot-caption">Temperature Distribution for Correct vs Incorrect Predictions</p>
+        </div>
+        <div class="plot-item">
+            <img src="param_vibration_Qwen QWQ 32B.png" alt="Vibration Distribution">
+            <p class="plot-caption">Vibration Distribution for Correct vs Incorrect Predictions</p>
+        </div>
+        <div class="plot-item">
+            <img src="param_pressure_Qwen QWQ 32B.png" alt="Pressure Distribution">
+            <p class="plot-caption">Pressure Distribution for Correct vs Incorrect Predictions</p>
+        </div>
+        <div class="plot-item">
+            <img src="param_current_Qwen QWQ 32B.png" alt="Current Distribution">
+            <p class="plot-caption">Current Distribution for Correct vs Incorrect Predictions</p>
+        </div>
+    </div>
+    
+    <h2>Timeline Analysis</h2>
+    <div class="plot-row">
+        <div class="plot-item">
+            <img src="timeline_Qwen QWQ 32B.png" alt="Prediction Timeline">
+            <p class="plot-caption">Timeline of Predictions with Highlighted Anomalies</p>
+        </div>
+    </div>
+    
+    <h2>Sample Predictions</h2>
+    <h3>Correct Predictions</h3>
+    <table>
+        <tr>
+            <th>Datetime</th>
+            <th>Actual</th>
+            <th>Predicted</th>
+            <th>Type</th>
+            <th>Confidence</th>
+            <th>Key Parameters</th>
+        </tr>
+
+        <tr>
+            <td>2024-05-26 23:00:00</td>
+            <td>NORMAL VALUE</td>
+            <td>NORMAL VALUE</td>
+            <td>-</td>
+            <td>medium</td>
+            <td>Temp: 71.0°C, Vib: 1.86 mm/s, Press: 6.54 bar</td>
+        </tr>
+        <tr>
+            <td>2024-05-08 15:00:00</td>
+            <td>NORMAL VALUE</td>
+            <td>NORMAL VALUE</td>
+            <td>-</td>
+            <td>medium</td>
+            <td>Temp: 97.7°C, Vib: 1.91 mm/s, Press: 7.63 bar</td>
+        </tr>
+        <tr>
+            <td>2024-05-12 14:00:00</td>
+            <td>NORMAL VALUE</td>
+            <td>NORMAL VALUE</td>
+            <td>-</td>
+            <td>medium</td>
+            <td>Temp: 92.8°C, Vib: 2.03 mm/s, Press: 6.84 bar</td>
+        </tr>
+        <tr>
+            <td>2024-03-25 03:00:00</td>
+            <td>NORMAL VALUE</td>
+            <td>NORMAL VALUE</td>
+            <td>-</td>
+            <td>medium</td>
+            <td>Temp: 76.1°C, Vib: 2.03 mm/s, Press: 7.27 bar</td>
+        </tr>
+        <tr>
+            <td>2024-05-23 07:00:00</td>
+            <td>NORMAL VALUE</td>
+            <td>NORMAL VALUE</td>
+            <td>-</td>
+            <td>medium</td>
+            <td>Temp: 83.6°C, Vib: 2.26 mm/s, Press: 7.23 bar</td>
+        </tr>
+    </table>
+    
+    <h3>Incorrect Predictions</h3>
+    <table>
+        <tr>
+            <th>Datetime</th>
+            <th>Actual</th>
+            <th>Predicted</th>
+            <th>Type</th>
+            <th>Confidence</th>
+            <th>Key Parameters</th>
+        </tr>
+
+        <tr>
+            <td>2024-05-22 17:00:00</td>
+            <td class="error">ANOMALY</td>
+            <td class="success">NORMAL VALUE</td>
+            <td>-</td>
+            <td>medium</td>
+            <td>Temp: 89.4°C, Vib: 6.21 mm/s, Press: 6.95 bar</td>
+        </tr>
+        <tr>
+            <td>2024-04-21 01:00:00</td>
+            <td class="success">NORMAL VALUE</td>
+            <td class="error">ANOMALY</td>
+            <td>guasto cuscinetti</td>
+            <td>medium</td>
+            <td>Temp: 72.5°C, Vib: 1.93 mm/s, Press: 6.54 bar</td>
+        </tr>
+        <tr>
+            <td>2024-04-14 16:00:00</td>
+            <td class="error">ANOMALY</td>
+            <td class="success">NORMAL VALUE</td>
+            <td>-</td>
+            <td>medium</td>
+            <td>Temp: 76.9°C, Vib: 5.4 mm/s, Press: 6.77 bar</td>
+        </tr>
+        <tr>
+            <td>2024-04-20 10:00:00</td>
+            <td class="error">ANOMALY</td>
+            <td class="success">NORMAL VALUE</td>
+            <td>-</td>
+            <td>medium</td>
+            <td>Temp: 87.1°C, Vib: 2.1 mm/s, Press: 6.69 bar</td>
+        </tr>
+        <tr>
+            <td>2024-04-19 01:00:00</td>
+            <td class="success">NORMAL VALUE</td>
+            <td class="error">ANOMALY</td>
+            <td>guasto cuscinetti</td>
+            <td>medium</td>
+            <td>Temp: 90.8°C, Vib: 1.88 mm/s, Press: 7.08 bar</td>
+        </tr>
+    </table>
+    
+    <div class="timestamp">
+        <p>Report generated: 2025-03-19 21:15:46</p>
+    </div>
+</body>
+</html>
