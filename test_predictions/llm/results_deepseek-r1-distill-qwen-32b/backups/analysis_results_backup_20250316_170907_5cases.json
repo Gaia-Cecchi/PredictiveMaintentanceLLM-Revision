@@ -1,0 +1,835 @@
+[
+  {
+    "datetime": "2024-03-05 10:00:00",
+    "actual_type": "false_positive",
+    "actual_note": "False Positive: High Ambient Temperature Effect",
+    "llm_response": "{\"classification\": \"NORMAL VALUE\", \"type\": \"\", \"confidence\": \"medium\", \"key_indicators\": \"\", \"recommendation\": \"Monitor system based on classification.\"}",
+    "parsed_response": {
+      "classification": "NORMAL VALUE",
+      "type": "",
+      "confidence": "medium",
+      "key_indicators": "",
+      "recommendation": "Monitor system based on classification."
+    },
+    "data_window": {
+      "compressor": [
+        {
+          "DateTime": "2024-03-05 05:00:00",
+          "Current": 79.35,
+          "CosPhi": 0.905,
+          "Energy_Consumption": 45.38,
+          "Reactive_Energy": 3.9,
+          "Voltage": 397.0,
+          "Vibration": 2.1,
+          "Temperature": 76.5,
+          "Pressure": 7.28,
+          "Speed": 2936.0
+        },
+        {
+          "DateTime": "2024-03-05 08:00:00",
+          "Current": 106.95,
+          "CosPhi": 0.877,
+          "Energy_Consumption": 60.45,
+          "Reactive_Energy": 6.68,
+          "Voltage": 397.0,
+          "Vibration": 2.05,
+          "Temperature": 94.2,
+          "Pressure": 6.48,
+          "Speed": 2923.0
+        },
+        {
+          "DateTime": "2024-03-05 10:00:00",
+          "Current": 132.59,
+          "CosPhi": 0.884,
+          "Energy_Consumption": 70.13,
+          "Reactive_Energy": 7.29,
+          "Voltage": 401.4,
+          "Vibration": 1.67,
+          "Temperature": 105.0,
+          "Pressure": 7.07,
+          "Speed": 2987.0
+        },
+        {
+          "DateTime": "2024-03-05 11:00:00",
+          "Current": 109.71,
+          "CosPhi": 0.884,
+          "Energy_Consumption": 78.45,
+          "Reactive_Energy": 8.18,
+          "Voltage": 399.5,
+          "Vibration": 1.88,
+          "Temperature": 90.4,
+          "Pressure": 6.7,
+          "Speed": 2951.0
+        },
+        {
+          "DateTime": "2024-03-05 14:00:00",
+          "Current": 92.81,
+          "CosPhi": 0.87,
+          "Energy_Consumption": 58.63,
+          "Reactive_Energy": 6.87,
+          "Voltage": 399.6,
+          "Vibration": 1.79,
+          "Temperature": 83.8,
+          "Pressure": 7.02,
+          "Speed": 2926.0
+        }
+      ],
+      "weather": [
+        {
+          "DateTime": "2024-03-05 05:00:00",
+          "weather_temperature": 7.0,
+          "weather_humidity": 100.0,
+          "weather_wind_speed": 2.0,
+          "weather_precipitation": 0.0,
+          "weather_condition": "Fair"
+        },
+        {
+          "DateTime": "2024-03-05 08:00:00",
+          "weather_temperature": 9.5,
+          "weather_humidity": 100.0,
+          "weather_wind_speed": 8.0,
+          "weather_precipitation": 0.0,
+          "weather_condition": "Partly Cloudy"
+        },
+        {
+          "DateTime": "2024-03-05 10:00:00",
+          "weather_temperature": 13.5,
+          "weather_humidity": 91.0,
+          "weather_wind_speed": 6.5,
+          "weather_precipitation": 0.0,
+          "weather_condition": "Partly Cloudy"
+        },
+        {
+          "DateTime": "2024-03-05 11:00:00",
+          "weather_temperature": 14.0,
+          "weather_humidity": 80.0,
+          "weather_wind_speed": 12.0,
+          "weather_precipitation": 0.0,
+          "weather_condition": "Partly Cloudy"
+        },
+        {
+          "DateTime": "2024-03-05 14:00:00",
+          "weather_temperature": 14.0,
+          "weather_humidity": 74.0,
+          "weather_wind_speed": 21.0,
+          "weather_precipitation": 0.0,
+          "weather_condition": "Partly Cloudy"
+        }
+      ]
+    }
+  },
+  {
+    "datetime": "2024-03-08 14:00:00",
+    "actual_type": "anomaly",
+    "actual_note": "Anomaly: Bearing Failure",
+    "llm_response": "{\"classification\": \"NORMAL VALUE\", \"type\": \"\", \"confidence\": \"medium\", \"key_indicators\": \"\", \"recommendation\": \"Monitor system based on classification.\"}",
+    "parsed_response": {
+      "classification": "NORMAL VALUE",
+      "type": "",
+      "confidence": "medium",
+      "key_indicators": "",
+      "recommendation": "Monitor system based on classification."
+    },
+    "data_window": {
+      "compressor": [
+        {
+          "DateTime": "2024-03-08 08:00:00",
+          "Current": 108.56,
+          "CosPhi": 0.873,
+          "Energy_Consumption": 66.39,
+          "Reactive_Energy": 7.61,
+          "Voltage": 400.9,
+          "Vibration": 2.04,
+          "Temperature": 95.0,
+          "Pressure": 6.57,
+          "Speed": 2954.0
+        },
+        {
+          "DateTime": "2024-03-08 11:00:00",
+          "Current": 133.13,
+          "CosPhi": 0.861,
+          "Energy_Consumption": 66.95,
+          "Reactive_Energy": 8.37,
+          "Voltage": 396.1,
+          "Vibration": 1.74,
+          "Temperature": 85.6,
+          "Pressure": 7.36,
+          "Speed": 2977.0
+        },
+        {
+          "DateTime": "2024-03-08 14:00:00",
+          "Current": 115.45,
+          "CosPhi": 0.84,
+          "Energy_Consumption": 69.67,
+          "Reactive_Energy": 10.02,
+          "Voltage": 399.4,
+          "Vibration": 6.58,
+          "Temperature": 110.5,
+          "Pressure": 7.02,
+          "Speed": 2849.0
+        },
+        {
+          "DateTime": "2024-03-08 17:00:00",
+          "Current": 104.7,
+          "CosPhi": 0.863,
+          "Energy_Consumption": 65.66,
+          "Reactive_Energy": 8.09,
+          "Voltage": 397.8,
+          "Vibration": 1.26,
+          "Temperature": 90.0,
+          "Pressure": 7.28,
+          "Speed": 2920.0
+        },
+        {
+          "DateTime": "2024-03-08 20:00:00",
+          "Current": 82.66,
+          "CosPhi": 0.874,
+          "Energy_Consumption": 44.59,
+          "Reactive_Energy": 5.04,
+          "Voltage": 400.6,
+          "Vibration": 1.76,
+          "Temperature": 69.0,
+          "Pressure": 7.15,
+          "Speed": 2946.0
+        }
+      ],
+      "weather": [
+        {
+          "DateTime": "2024-03-08 08:00:00",
+          "weather_temperature": 8.0,
+          "weather_humidity": 100.0,
+          "weather_wind_speed": 8.0,
+          "weather_precipitation": 0.0,
+          "weather_condition": "Fair"
+        },
+        {
+          "DateTime": "2024-03-08 11:00:00",
+          "weather_temperature": 14.0,
+          "weather_humidity": 63.0,
+          "weather_wind_speed": 14.0,
+          "weather_precipitation": 0.0,
+          "weather_condition": "Fair"
+        },
+        {
+          "DateTime": "2024-03-08 14:00:00",
+          "weather_temperature": 14.0,
+          "weather_humidity": 59.0,
+          "weather_wind_speed": 8.5,
+          "weather_precipitation": 0.0,
+          "weather_condition": "Partly Cloudy"
+        },
+        {
+          "DateTime": "2024-03-08 17:00:00",
+          "weather_temperature": 12.0,
+          "weather_humidity": 88.0,
+          "weather_wind_speed": 10.0,
+          "weather_precipitation": 0.0,
+          "weather_condition": "Mostly Cloudy"
+        },
+        {
+          "DateTime": "2024-03-08 20:00:00",
+          "weather_temperature": 9.0,
+          "weather_humidity": 96.0,
+          "weather_wind_speed": 11.0,
+          "weather_precipitation": 0.0,
+          "weather_condition": "Light Rain"
+        }
+      ]
+    }
+  },
+  {
+    "datetime": "2024-03-12 13:00:00",
+    "actual_type": "false_positive",
+    "actual_note": "False Positive: Temperature Warning",
+    "llm_response": "{\"classification\": \"NORMAL VALUE\", \"type\": \"\", \"confidence\": \"medium\", \"key_indicators\": \"\", \"recommendation\": \"Monitor system based on classification.\"}",
+    "parsed_response": {
+      "classification": "NORMAL VALUE",
+      "type": "",
+      "confidence": "medium",
+      "key_indicators": "",
+      "recommendation": "Monitor system based on classification."
+    },
+    "data_window": {
+      "compressor": [
+        {
+          "DateTime": "2024-03-12 08:00:00",
+          "Current": 119.17,
+          "CosPhi": 0.866,
+          "Energy_Consumption": 54.95,
+          "Reactive_Energy": 6.63,
+          "Voltage": 397.0,
+          "Vibration": 1.65,
+          "Temperature": 87.5,
+          "Pressure": 6.92,
+          "Speed": 2980.0
+        },
+        {
+          "DateTime": "2024-03-12 11:00:00",
+          "Current": 112.35,
+          "CosPhi": 0.861,
+          "Energy_Consumption": 67.46,
+          "Reactive_Energy": 8.43,
+          "Voltage": 401.3,
+          "Vibration": 1.65,
+          "Temperature": 89.5,
+          "Pressure": 6.92,
+          "Speed": 2957.0
+        },
+        {
+          "DateTime": "2024-03-12 13:00:00",
+          "Current": 102.58,
+          "CosPhi": 0.889,
+          "Energy_Consumption": 69.16,
+          "Reactive_Energy": 6.91,
+          "Voltage": 401.3,
+          "Vibration": 1.9,
+          "Temperature": 109.0,
+          "Pressure": 7.2,
+          "Speed": 2933.0
+        },
+        {
+          "DateTime": "2024-03-12 14:00:00",
+          "Current": 111.58,
+          "CosPhi": 0.872,
+          "Energy_Consumption": 65.94,
+          "Reactive_Energy": 7.57,
+          "Voltage": 405.5,
+          "Vibration": 1.81,
+          "Temperature": 84.9,
+          "Pressure": 7.51,
+          "Speed": 2940.0
+        },
+        {
+          "DateTime": "2024-03-12 17:00:00",
+          "Current": 104.26,
+          "CosPhi": 0.837,
+          "Energy_Consumption": 67.5,
+          "Reactive_Energy": 9.91,
+          "Voltage": 399.0,
+          "Vibration": 1.96,
+          "Temperature": 91.0,
+          "Pressure": 7.25,
+          "Speed": 2927.0
+        }
+      ],
+      "weather": [
+        {
+          "DateTime": "2024-03-12 08:00:00",
+          "weather_temperature": 9.5,
+          "weather_humidity": 100.0,
+          "weather_wind_speed": 5.0,
+          "weather_precipitation": 0.0,
+          "weather_condition": "Fair"
+        },
+        {
+          "DateTime": "2024-03-12 11:00:00",
+          "weather_temperature": 14.5,
+          "weather_humidity": 72.0,
+          "weather_wind_speed": 12.0,
+          "weather_precipitation": 0.0,
+          "weather_condition": "Partly Cloudy"
+        },
+        {
+          "DateTime": "2024-03-12 13:00:00",
+          "weather_temperature": 15.5,
+          "weather_humidity": 70.0,
+          "weather_wind_speed": 16.0,
+          "weather_precipitation": 0.0,
+          "weather_condition": "Partly Cloudy"
+        },
+        {
+          "DateTime": "2024-03-12 14:00:00",
+          "weather_temperature": 15.5,
+          "weather_humidity": 70.0,
+          "weather_wind_speed": 17.0,
+          "weather_precipitation": 0.0,
+          "weather_condition": "Partly Cloudy"
+        },
+        {
+          "DateTime": "2024-03-12 17:00:00",
+          "weather_temperature": 14.0,
+          "weather_humidity": 82.0,
+          "weather_wind_speed": 14.0,
+          "weather_precipitation": 0.0,
+          "weather_condition": "Partly Cloudy"
+        }
+      ]
+    }
+  },
+  {
+    "datetime": "2024-03-18 16:00:00",
+    "actual_type": "false_positive",
+    "actual_note": "False Positive: Minor Pressure Fluctuation",
+    "llm_response": "{\"classification\": \"NORMAL VALUE\", \"type\": \"\", \"confidence\": \"medium\", \"key_indicators\": \"\", \"recommendation\": \"Monitor system based on classification.\"}",
+    "parsed_response": {
+      "classification": "NORMAL VALUE",
+      "type": "",
+      "confidence": "medium",
+      "key_indicators": "",
+      "recommendation": "Monitor system based on classification."
+    },
+    "data_window": {
+      "compressor": [
+        {
+          "DateTime": "2024-03-18 11:00:00",
+          "Current": 111.98,
+          "CosPhi": 0.882,
+          "Energy_Consumption": 66.56,
+          "Reactive_Energy": 7.08,
+          "Voltage": 405.0,
+          "Vibration": 1.76,
+          "Temperature": 100.2,
+          "Pressure": 6.82,
+          "Speed": 2955.0
+        },
+        {
+          "DateTime": "2024-03-18 14:00:00",
+          "Current": 111.83,
+          "CosPhi": 0.872,
+          "Energy_Consumption": 75.34,
+          "Reactive_Energy": 8.68,
+          "Voltage": 400.7,
+          "Vibration": 1.72,
+          "Temperature": 102.4,
+          "Pressure": 6.96,
+          "Speed": 2964.0
+        },
+        {
+          "DateTime": "2024-03-18 16:00:00",
+          "Current": 112.35,
+          "CosPhi": 0.869,
+          "Energy_Consumption": 58.61,
+          "Reactive_Energy": 6.89,
+          "Voltage": 397.5,
+          "Vibration": 2.5,
+          "Temperature": 103.2,
+          "Pressure": 7.47,
+          "Speed": 2950.0
+        },
+        {
+          "DateTime": "2024-03-18 17:00:00",
+          "Current": 113.5,
+          "CosPhi": 0.884,
+          "Energy_Consumption": 60.92,
+          "Reactive_Energy": 6.38,
+          "Voltage": 396.7,
+          "Vibration": 1.81,
+          "Temperature": 88.2,
+          "Pressure": 6.95,
+          "Speed": 2955.0
+        },
+        {
+          "DateTime": "2024-03-18 20:00:00",
+          "Current": 97.1,
+          "CosPhi": 0.887,
+          "Energy_Consumption": 54.75,
+          "Reactive_Energy": 5.59,
+          "Voltage": 394.2,
+          "Vibration": 1.78,
+          "Temperature": 81.5,
+          "Pressure": 6.95,
+          "Speed": 2940.0
+        }
+      ],
+      "weather": [
+        {
+          "DateTime": "2024-03-18 11:00:00",
+          "weather_temperature": 13.0,
+          "weather_humidity": 100.0,
+          "weather_wind_speed": 9.0,
+          "weather_precipitation": 0.0,
+          "weather_condition": "Mist"
+        },
+        {
+          "DateTime": "2024-03-18 14:00:00",
+          "weather_temperature": 13.0,
+          "weather_humidity": 100.0,
+          "weather_wind_speed": 7.0,
+          "weather_precipitation": 0.0,
+          "weather_condition": "Light Rain"
+        },
+        {
+          "DateTime": "2024-03-18 16:00:00",
+          "weather_temperature": 14.0,
+          "weather_humidity": 100.0,
+          "weather_wind_speed": 5.5,
+          "weather_precipitation": 0.0,
+          "weather_condition": "Mostly Cloudy"
+        },
+        {
+          "DateTime": "2024-03-18 17:00:00",
+          "weather_temperature": 14.0,
+          "weather_humidity": 100.0,
+          "weather_wind_speed": 3.0,
+          "weather_precipitation": 0.0,
+          "weather_condition": "Mostly Cloudy"
+        },
+        {
+          "DateTime": "2024-03-18 20:00:00",
+          "weather_temperature": 12.5,
+          "weather_humidity": 100.0,
+          "weather_wind_speed": 3.0,
+          "weather_precipitation": 0.0,
+          "weather_condition": "Patches of Fog"
+        }
+      ]
+    }
+  },
+  {
+    "datetime": "2024-03-23 09:00:00",
+    "actual_type": "anomaly",
+    "actual_note": "Anomaly: Overheating",
+    "llm_response": "{\"classification\": \"NORMAL VALUE\", \"type\": \"\", \"confidence\": \"medium\", \"key_indicators\": \"\", \"recommendation\": \"Monitor system based on classification.\"}",
+    "parsed_response": {
+      "classification": "NORMAL VALUE",
+      "type": "",
+      "confidence": "medium",
+      "key_indicators": "",
+      "recommendation": "Monitor system based on classification."
+    },
+    "data_window": {
+      "compressor": [
+        {
+          "DateTime": "2024-03-23 05:00:00",
+          "Current": 55.36,
+          "CosPhi": 0.902,
+          "Energy_Consumption": 32.02,
+          "Reactive_Energy": 2.82,
+          "Voltage": 395.5,
+          "Vibration": 1.85,
+          "Temperature": 68.9,
+          "Pressure": 6.52,
+          "Speed": 2800.0
+        },
+        {
+          "DateTime": "2024-03-23 08:00:00",
+          "Current": 75.37,
+          "CosPhi": 0.835,
+          "Energy_Consumption": 47.45,
+          "Reactive_Energy": 7.05,
+          "Voltage": 402.9,
+          "Vibration": 1.73,
+          "Temperature": 78.0,
+          "Pressure": 6.65,
+          "Speed": 2800.0
+        },
+        {
+          "DateTime": "2024-03-23 09:00:00",
+          "Current": 122.02,
+          "CosPhi": 0.779,
+          "Energy_Consumption": 50.27,
+          "Reactive_Energy": 5.81,
+          "Voltage": 401.1,
+          "Vibration": 1.94,
+          "Temperature": 120.0,
+          "Pressure": 6.49,
+          "Speed": 2800.0
+        },
+        {
+          "DateTime": "2024-03-23 11:00:00",
+          "Current": 77.09,
+          "CosPhi": 0.861,
+          "Energy_Consumption": 40.36,
+          "Reactive_Energy": 5.06,
+          "Voltage": 399.9,
+          "Vibration": 1.7,
+          "Temperature": 80.3,
+          "Pressure": 6.79,
+          "Speed": 2800.0
+        },
+        {
+          "DateTime": "2024-03-23 14:00:00",
+          "Current": 86.94,
+          "CosPhi": 0.919,
+          "Energy_Consumption": 46.75,
+          "Reactive_Energy": 3.39,
+          "Voltage": 397.6,
+          "Vibration": 1.75,
+          "Temperature": 79.6,
+          "Pressure": 6.82,
+          "Speed": 2800.0
+        }
+      ],
+      "weather": [
+        {
+          "DateTime": "2024-03-23 05:00:00",
+          "weather_temperature": 10.0,
+          "weather_humidity": 100.0,
+          "weather_wind_speed": 6.0,
+          "weather_precipitation": 0.0,
+          "weather_condition": "Mostly Cloudy"
+        },
+        {
+          "DateTime": "2024-03-23 08:00:00",
+          "weather_temperature": 12.5,
+          "weather_humidity": 100.0,
+          "weather_wind_speed": 6.0,
+          "weather_precipitation": 0.0,
+          "weather_condition": "Partly Cloudy"
+        },
+        {
+          "DateTime": "2024-03-23 09:00:00",
+          "weather_temperature": 14.5,
+          "weather_humidity": 100.0,
+          "weather_wind_speed": 4.0,
+          "weather_precipitation": 0.0,
+          "weather_condition": "Partly Cloudy"
+        },
+        {
+          "DateTime": "2024-03-23 11:00:00",
+          "weather_temperature": 15.5,
+          "weather_humidity": 88.0,
+          "weather_wind_speed": 20.0,
+          "weather_precipitation": 0.0,
+          "weather_condition": "Partly Cloudy"
+        },
+        {
+          "DateTime": "2024-03-23 14:00:00",
+          "weather_temperature": 18.0,
+          "weather_humidity": 83.0,
+          "weather_wind_speed": 16.0,
+          "weather_precipitation": 0.0,
+          "weather_condition": "Mostly Cloudy"
+        }
+      ]
+    }
+  },
+  {
+    "datetime": "2024-03-25 09:00:00",
+    "actual_type": "false_positive",
+    "actual_note": "False Positive: Minor Pressure Fluctuation",
+    "llm_response": "{\"classification\": \"NORMAL VALUE\", \"type\": \"\", \"confidence\": \"medium\", \"key_indicators\": \"\", \"recommendation\": \"Monitor system based on classification.\"}",
+    "parsed_response": {
+      "classification": "NORMAL VALUE",
+      "type": "",
+      "confidence": "medium",
+      "key_indicators": "",
+      "recommendation": "Monitor system based on classification."
+    },
+    "data_window": {
+      "compressor": [
+        {
+          "DateTime": "2024-03-25 05:00:00",
+          "Current": 79.39,
+          "CosPhi": 0.893,
+          "Energy_Consumption": 56.45,
+          "Reactive_Energy": 5.46,
+          "Voltage": 398.8,
+          "Vibration": 2.12,
+          "Temperature": 73.9,
+          "Pressure": 7.07,
+          "Speed": 2960.0
+        },
+        {
+          "DateTime": "2024-03-25 08:00:00",
+          "Current": 106.91,
+          "CosPhi": 0.867,
+          "Energy_Consumption": 60.81,
+          "Reactive_Energy": 7.26,
+          "Voltage": 405.2,
+          "Vibration": 2.3,
+          "Temperature": 90.6,
+          "Pressure": 7.22,
+          "Speed": 2923.0
+        },
+        {
+          "DateTime": "2024-03-25 09:00:00",
+          "Current": 110.38,
+          "CosPhi": 0.851,
+          "Energy_Consumption": 63.28,
+          "Reactive_Energy": 8.47,
+          "Voltage": 401.2,
+          "Vibration": 1.47,
+          "Temperature": 97.7,
+          "Pressure": 6.81,
+          "Speed": 2940.0
+        },
+        {
+          "DateTime": "2024-03-25 11:00:00",
+          "Current": 100.28,
+          "CosPhi": 0.85,
+          "Energy_Consumption": 64.02,
+          "Reactive_Energy": 8.63,
+          "Voltage": 399.3,
+          "Vibration": 1.72,
+          "Temperature": 101.0,
+          "Pressure": 7.14,
+          "Speed": 2933.0
+        },
+        {
+          "DateTime": "2024-03-25 14:00:00",
+          "Current": 111.6,
+          "CosPhi": 0.867,
+          "Energy_Consumption": 73.5,
+          "Reactive_Energy": 8.79,
+          "Voltage": 400.9,
+          "Vibration": 2.15,
+          "Temperature": 92.2,
+          "Pressure": 7.01,
+          "Speed": 2943.0
+        }
+      ],
+      "weather": [
+        {
+          "DateTime": "2024-03-25 05:00:00",
+          "weather_temperature": 6.5,
+          "weather_humidity": 100.0,
+          "weather_wind_speed": 11.0,
+          "weather_precipitation": 0.0,
+          "weather_condition": "Fair"
+        },
+        {
+          "DateTime": "2024-03-25 08:00:00",
+          "weather_temperature": 9.5,
+          "weather_humidity": 90.0,
+          "weather_wind_speed": 15.0,
+          "weather_precipitation": 0.0,
+          "weather_condition": "Fair"
+        },
+        {
+          "DateTime": "2024-03-25 09:00:00",
+          "weather_temperature": 12.5,
+          "weather_humidity": 80.0,
+          "weather_wind_speed": 16.0,
+          "weather_precipitation": 0.0,
+          "weather_condition": "Fair"
+        },
+        {
+          "DateTime": "2024-03-25 11:00:00",
+          "weather_temperature": 15.5,
+          "weather_humidity": 63.0,
+          "weather_wind_speed": 18.0,
+          "weather_precipitation": 0.0,
+          "weather_condition": "Fair"
+        },
+        {
+          "DateTime": "2024-03-25 14:00:00",
+          "weather_temperature": 16.0,
+          "weather_humidity": 50.0,
+          "weather_wind_speed": 11.0,
+          "weather_precipitation": 0.0,
+          "weather_condition": "Fair"
+        }
+      ]
+    }
+  },
+  {
+    "datetime": "2024-03-30 14:00:00",
+    "actual_type": "false_positive",
+    "actual_note": "False Positive: Weather-Related High Current",
+    "llm_response": "{\"classification\": \"NORMAL VALUE\", \"type\": \"\", \"confidence\": \"medium\", \"key_indicators\": \"\", \"recommendation\": \"Monitor system based on classification.\"}",
+    "parsed_response": {
+      "classification": "NORMAL VALUE",
+      "type": "",
+      "confidence": "medium",
+      "key_indicators": "",
+      "recommendation": "Monitor system based on classification."
+    },
+    "data_window": {
+      "compressor": [
+        {
+          "DateTime": "2024-03-30 08:00:00",
+          "Current": 68.5,
+          "CosPhi": 0.861,
+          "Energy_Consumption": 38.72,
+          "Reactive_Energy": 4.84,
+          "Voltage": 397.6,
+          "Vibration": 2.04,
+          "Temperature": 90.2,
+          "Pressure": 6.62,
+          "Speed": 2800.0
+        },
+        {
+          "DateTime": "2024-03-30 11:00:00",
+          "Current": 93.18,
+          "CosPhi": 0.917,
+          "Energy_Consumption": 45.91,
+          "Reactive_Energy": 3.41,
+          "Voltage": 399.1,
+          "Vibration": 1.23,
+          "Temperature": 84.4,
+          "Pressure": 6.83,
+          "Speed": 2800.0
+        },
+        {
+          "DateTime": "2024-03-30 14:00:00",
+          "Current": 110.09,
+          "CosPhi": 0.833,
+          "Energy_Consumption": 45.8,
+          "Reactive_Energy": 5.08,
+          "Voltage": 402.3,
+          "Vibration": 1.99,
+          "Temperature": 91.6,
+          "Pressure": 6.7,
+          "Speed": 2800.0
+        },
+        {
+          "DateTime": "2024-03-30 17:00:00",
+          "Current": 76.54,
+          "CosPhi": 0.897,
+          "Energy_Consumption": 42.73,
+          "Reactive_Energy": 3.94,
+          "Voltage": 399.6,
+          "Vibration": 1.8,
+          "Temperature": 81.8,
+          "Pressure": 6.58,
+          "Speed": 2800.0
+        },
+        {
+          "DateTime": "2024-03-30 20:00:00",
+          "Current": 67.46,
+          "CosPhi": 0.889,
+          "Energy_Consumption": 35.89,
+          "Reactive_Energy": 3.59,
+          "Voltage": 398.1,
+          "Vibration": 1.88,
+          "Temperature": 76.2,
+          "Pressure": 6.43,
+          "Speed": 2800.0
+        }
+      ],
+      "weather": [
+        {
+          "DateTime": "2024-03-30 08:00:00",
+          "weather_temperature": 18.0,
+          "weather_humidity": 45.0,
+          "weather_wind_speed": 17.0,
+          "weather_precipitation": 0.0,
+          "weather_condition": "Fair"
+        },
+        {
+          "DateTime": "2024-03-30 11:00:00",
+          "weather_temperature": 20.0,
+          "weather_humidity": 42.0,
+          "weather_wind_speed": 29.5,
+          "weather_precipitation": 0.0,
+          "weather_condition": "Fair"
+        },
+        {
+          "DateTime": "2024-03-30 14:00:00",
+          "weather_temperature": 20.5,
+          "weather_humidity": 51.0,
+          "weather_wind_speed": 22.5,
+          "weather_precipitation": 0.0,
+          "weather_condition": "Fair"
+        },
+        {
+          "DateTime": "2024-03-30 17:00:00",
+          "weather_temperature": 17.5,
+          "weather_humidity": 80.0,
+          "weather_wind_speed": 10.0,
+          "weather_precipitation": 0.0,
+          "weather_condition": "Mostly Cloudy"
+        },
+        {
+          "DateTime": "2024-03-30 20:00:00",
+          "weather_temperature": 16.0,
+          "weather_humidity": 97.0,
+          "weather_wind_speed": 10.0,
+          "weather_precipitation": 0.0,
+          "weather_condition": "Light Rain"
+        }
+      ]
+    }
+  }
+]
