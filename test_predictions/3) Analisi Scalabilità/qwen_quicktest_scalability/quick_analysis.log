@@ -1,0 +1,89 @@
+2025-03-21 22:40:32,423 - INFO - Starting quick Qwen scalability test
+2025-03-21 22:40:32,425 - INFO - Selecting minimal test set (~25 samples)
+2025-03-21 22:40:32,449 - INFO - Retrieved 11 anomalies and 17 false positives
+2025-03-21 22:40:32,450 - INFO - Found 11 labeled anomalies - including all
+2025-03-21 22:40:32,450 - INFO - Adding 14 normal cases to balance test set
+2025-03-21 22:40:32,471 - INFO - Found 2197 total normal records after excluding labeled events
+2025-03-21 22:40:32,476 - INFO - Selected 14 normal cases with varied characteristics
+2025-03-21 22:40:32,478 - INFO - Final test set: 25 samples (11 anomalies)
+2025-03-21 22:40:32,484 - INFO - 
+===== Testing batch_size=5, reset_frequency=None =====
+2025-03-21 22:40:32,484 - INFO - Running batch test: batch_size=5, reset_frequency=None
+2025-03-21 22:40:32,485 - INFO - Initializing ChatGroq with model: qwen-2.5-32b
+2025-03-21 22:40:34,085 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-21 22:40:34,102 - INFO - ChatGroq client initialized and tested successfully
+2025-03-21 22:40:34,103 - INFO - Processing batch 1/5 (5 samples)
+2025-03-21 22:40:34,104 - INFO - Processing sample at 2024-03-01 08:00:00 (actual: NORMAL VALUE)
+2025-03-21 22:40:34,105 - INFO - Extracting data window from 2024-03-01 02:00:00 to 2024-03-01 14:00:00
+2025-03-21 22:40:35,126 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-21 22:40:35,129 - ERROR - Error in _extract_prediction_from_response: Response missing required CLASSIFICAZIONE field
+2025-03-21 22:40:35,130 - ERROR - Error in prediction: cannot access local variable 'fallback' where it is not associated with a value
+2025-03-21 22:40:35,165 - INFO - Processing sample at 2024-03-08 14:00:00 (actual: ANOMALY)
+2025-03-21 22:40:35,166 - INFO - Extracting data window from 2024-03-08 08:00:00 to 2024-03-08 20:00:00
+2025-03-21 22:40:36,093 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-21 22:40:36,095 - ERROR - Error in _extract_prediction_from_response: Response missing required CLASSIFICAZIONE field
+2025-03-21 22:40:36,096 - ERROR - Error in prediction: cannot access local variable 'fallback' where it is not associated with a value
+2025-03-21 22:40:36,101 - INFO - Processing sample at 2024-03-09 00:00:00 (actual: NORMAL VALUE)
+2025-03-21 22:40:36,102 - INFO - Extracting data window from 2024-03-08 18:00:00 to 2024-03-09 06:00:00
+2025-03-21 22:40:36,208 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-03-21 22:40:36,209 - INFO - Retrying request to /openai/v1/chat/completions in 7.000000 seconds
+2025-03-21 22:40:44,325 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-21 22:40:44,328 - ERROR - Error in _extract_prediction_from_response: Response missing required CLASSIFICAZIONE field
+2025-03-21 22:40:44,330 - ERROR - Error in prediction: cannot access local variable 'fallback' where it is not associated with a value
+2025-03-21 22:40:44,336 - INFO - Processing sample at 2024-03-14 00:00:00 (actual: NORMAL VALUE)
+2025-03-21 22:40:44,337 - INFO - Extracting data window from 2024-03-13 18:00:00 to 2024-03-14 06:00:00
+2025-03-21 22:40:44,455 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-03-21 22:40:44,457 - INFO - Retrying request to /openai/v1/chat/completions in 24.000000 seconds
+2025-03-21 22:41:09,516 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-21 22:41:09,519 - ERROR - Error in _extract_prediction_from_response: Response missing required CLASSIFICAZIONE field
+2025-03-21 22:41:09,520 - ERROR - Error in prediction: cannot access local variable 'fallback' where it is not associated with a value
+2025-03-21 22:41:09,526 - INFO - Processing sample at 2024-03-15 09:00:00 (actual: NORMAL VALUE)
+2025-03-21 22:41:09,527 - INFO - Extracting data window from 2024-03-15 03:00:00 to 2024-03-15 15:00:00
+2025-03-21 22:41:09,629 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-03-21 22:41:09,631 - INFO - Retrying request to /openai/v1/chat/completions in 24.000000 seconds
+2025-03-21 22:41:34,880 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-21 22:41:34,882 - ERROR - Error in _extract_prediction_from_response: Response missing required CLASSIFICAZIONE field
+2025-03-21 22:41:34,883 - ERROR - Error in prediction: cannot access local variable 'fallback' where it is not associated with a value
+2025-03-21 22:41:34,891 - INFO - Saved backup to c:\Users\gaia1\Desktop\UDOO Lab\Predictive Maintenance & LLMs\code 10\test_predictions\3) Analisi Scalabilità\qwen_quicktest_scalability/backups/quick_b5_rNone_20250321_224134_5cases.json
+2025-03-21 22:41:34,892 - INFO - Processing batch 2/5 (5 samples)
+2025-03-21 22:41:34,893 - INFO - Processing sample at 2024-03-20 16:00:00 (actual: NORMAL VALUE)
+2025-03-21 22:41:34,894 - INFO - Extracting data window from 2024-03-20 10:00:00 to 2024-03-20 22:00:00
+2025-03-21 22:41:35,009 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-03-21 22:41:35,010 - INFO - Retrying request to /openai/v1/chat/completions in 24.000000 seconds
+2025-03-21 22:42:00,145 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-21 22:42:00,147 - ERROR - Error in _extract_prediction_from_response: Response missing required CLASSIFICAZIONE field
+2025-03-21 22:42:00,148 - ERROR - Error in prediction: cannot access local variable 'fallback' where it is not associated with a value
+2025-03-21 22:42:00,155 - INFO - Processing sample at 2024-03-23 09:00:00 (actual: ANOMALY)
+2025-03-21 22:42:00,156 - INFO - Extracting data window from 2024-03-23 03:00:00 to 2024-03-23 15:00:00
+2025-03-21 22:42:00,281 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-03-21 22:42:00,282 - INFO - Retrying request to /openai/v1/chat/completions in 24.000000 seconds
+2025-03-21 22:42:25,320 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-21 22:42:25,321 - ERROR - Error in _extract_prediction_from_response: Response missing required CLASSIFICAZIONE field
+2025-03-21 22:42:25,322 - ERROR - Error in prediction: cannot access local variable 'fallback' where it is not associated with a value
+2025-03-21 22:42:25,326 - INFO - Processing sample at 2024-04-03 04:00:00 (actual: NORMAL VALUE)
+2025-03-21 22:42:25,326 - INFO - Extracting data window from 2024-04-02 22:00:00 to 2024-04-03 10:00:00
+2025-03-21 22:42:25,422 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-03-21 22:42:25,422 - INFO - Retrying request to /openai/v1/chat/completions in 25.000000 seconds
+2025-03-21 22:42:51,442 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-21 22:42:51,443 - ERROR - Error in _extract_prediction_from_response: Response missing required CLASSIFICAZIONE field
+2025-03-21 22:42:51,444 - ERROR - Error in prediction: cannot access local variable 'fallback' where it is not associated with a value
+2025-03-21 22:42:51,448 - INFO - Processing sample at 2024-04-05 09:00:00 (actual: NORMAL VALUE)
+2025-03-21 22:42:51,449 - INFO - Extracting data window from 2024-04-05 03:00:00 to 2024-04-05 15:00:00
+2025-03-21 22:42:51,590 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-03-21 22:42:51,593 - INFO - Retrying request to /openai/v1/chat/completions in 24.000000 seconds
+2025-03-21 22:43:16,597 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-21 22:43:16,599 - ERROR - Error in _extract_prediction_from_response: Response missing required CLASSIFICAZIONE field
+2025-03-21 22:43:16,599 - ERROR - Error in prediction: cannot access local variable 'fallback' where it is not associated with a value
+2025-03-21 22:43:16,603 - INFO - Processing sample at 2024-04-05 11:00:00 (actual: ANOMALY)
+2025-03-21 22:43:16,603 - INFO - Extracting data window from 2024-04-05 05:00:00 to 2024-04-05 17:00:00
+2025-03-21 22:43:16,696 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-03-21 22:43:16,697 - INFO - Retrying request to /openai/v1/chat/completions in 24.000000 seconds
+2025-03-21 22:43:41,811 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-21 22:43:41,815 - ERROR - Error in _extract_prediction_from_response: Response missing required CLASSIFICAZIONE field
+2025-03-21 22:43:41,815 - ERROR - Error in prediction: cannot access local variable 'fallback' where it is not associated with a value
+2025-03-21 22:43:41,823 - INFO - Saved backup to c:\Users\gaia1\Desktop\UDOO Lab\Predictive Maintenance & LLMs\code 10\test_predictions\3) Analisi Scalabilità\qwen_quicktest_scalability/backups/quick_b5_rNone_20250321_224341_10cases.json
+2025-03-21 22:43:41,823 - INFO - Processing batch 3/5 (5 samples)
+2025-03-21 22:43:41,824 - INFO - Processing sample at 2024-04-06 17:00:00 (actual: NORMAL VALUE)
+2025-03-21 22:43:41,825 - INFO - Extracting data window from 2024-04-06 11:00:00 to 2024-04-06 23:00:00
+2025-03-21 22:43:41,985 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-03-21 22:43:41,987 - INFO - Retrying request to /openai/v1/chat/completions in 24.000000 seconds

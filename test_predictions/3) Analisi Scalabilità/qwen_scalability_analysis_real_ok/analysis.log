@@ -1,0 +1,28 @@
+2025-03-21 20:36:05,078 - INFO - Caricamento risultati reali da c:\Users\gaia1\Desktop\UDOO Lab\Predictive Maintenance & LLMs\code 10\test_predictions\llm\results_qwen-2.5.32b\prediction_results.csv
+2025-03-21 20:36:05,090 - INFO - Caricati 1133 risultati. Anomalie: 11
+2025-03-21 20:36:05,090 - INFO - Inizio analisi di scalabilità per Qwen 2.5 basata su dati reali
+2025-03-21 20:36:05,090 - INFO - Analisi su 1133 risultati con 11 anomalie
+2025-03-21 20:36:05,092 - INFO - Tempo medio di inferenza calcolato dai timestamp: 3600.00 secondi
+2025-03-21 20:36:05,092 - INFO - Utilizziamo comunque il valore misurato: 39.05 secondi
+2025-03-21 20:36:05,094 - INFO - Metriche reali: accuracy=0.9982, speed=0.03 samples/sec
+2025-03-21 20:36:05,096 - INFO - Analisi delle metriche temporali dai risultati
+2025-03-21 20:36:05,097 - INFO - Tempo medio di inferenza basato su dati reali: 39.05 secondi per campione
+2025-03-21 20:36:05,097 - INFO - (Calcolato come 770 minuti / 1183 records = 39.05 secondi/record)
+2025-03-21 20:36:05,098 - INFO - Generate 20 configurazioni di metriche di scalabilità
+2025-03-21 20:36:05,105 - INFO - Analisi completata. Risultati salvati in c:\Users\gaia1\Desktop\UDOO Lab\Predictive Maintenance & LLMs\code 10\test_predictions\3) Analisi Scalabilità\qwen_scalability_analysis_real/qwen_scalability_results_20250321_203605.csv
+2025-03-21 20:36:05,106 - INFO - Generazione report e visualizzazioni
+2025-03-21 20:36:07,201 - INFO - Report generato in c:\Users\gaia1\Desktop\UDOO Lab\Predictive Maintenance & LLMs\code 10\test_predictions\3) Analisi Scalabilità\qwen_scalability_analysis_real/qwen_scalability_report.html
+2025-03-21 20:40:45,265 - INFO - Caricamento risultati reali da c:\Users\gaia1\Desktop\UDOO Lab\Predictive Maintenance & LLMs\code 10\test_predictions\llm\results_qwen-2.5.32b\prediction_results.csv
+2025-03-21 20:40:45,277 - INFO - Caricati 1133 risultati. Anomalie: 11
+2025-03-21 20:40:45,277 - INFO - Inizio analisi di scalabilità per Qwen 2.5 basata su dati reali
+2025-03-21 20:40:45,277 - INFO - Analisi su 1133 risultati con 11 anomalie
+2025-03-21 20:40:45,280 - INFO - Tempo medio di inferenza calcolato dai timestamp: 3600.00 secondi
+2025-03-21 20:40:45,280 - INFO - Utilizziamo comunque il valore misurato: 39.19 secondi
+2025-03-21 20:40:45,282 - INFO - Metriche reali: accuracy=0.9982, speed=0.03 samples/sec
+2025-03-21 20:40:45,282 - INFO - Analisi delle metriche temporali dai risultati
+2025-03-21 20:40:45,282 - INFO - Tempo medio di inferenza basato su dati reali: 39.19 secondi per campione
+2025-03-21 20:40:45,283 - INFO - (Calcolato come 740 minuti / 1133 records = 39.19 secondi/record)
+2025-03-21 20:40:45,285 - INFO - Generate 20 configurazioni di metriche di scalabilità
+2025-03-21 20:40:45,289 - INFO - Analisi completata. Risultati salvati in c:\Users\gaia1\Desktop\UDOO Lab\Predictive Maintenance & LLMs\code 10\test_predictions\3) Analisi Scalabilità\qwen_scalability_analysis_real/qwen_scalability_results_20250321_204045.csv
+2025-03-21 20:40:45,290 - INFO - Generazione report e visualizzazioni
+2025-03-21 20:40:47,349 - INFO - Report generato in c:\Users\gaia1\Desktop\UDOO Lab\Predictive Maintenance & LLMs\code 10\test_predictions\3) Analisi Scalabilità\qwen_scalability_analysis_real/qwen_scalability_report.html

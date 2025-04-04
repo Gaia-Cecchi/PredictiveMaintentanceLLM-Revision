@@ -1,0 +1,82 @@
+[
+  {
+    "datetime": "2024-03-01 08:00:00",
+    "actual_classification": "NORMAL VALUE",
+    "predicted_classification": "NORMAL VALUE",
+    "is_correct": true,
+    "processing_time": 1.0177280902862549,
+    "memory_used": 0.59375
+  },
+  {
+    "datetime": "2024-03-08 14:00:00",
+    "actual_classification": "ANOMALY",
+    "predicted_classification": "NORMAL VALUE",
+    "is_correct": false,
+    "processing_time": 0.9237878322601318,
+    "memory_used": 0.0859375
+  },
+  {
+    "datetime": "2024-03-09 00:00:00",
+    "actual_classification": "NORMAL VALUE",
+    "predicted_classification": "NORMAL VALUE",
+    "is_correct": true,
+    "processing_time": 8.217559337615967,
+    "memory_used": 0.04296875
+  },
+  {
+    "datetime": "2024-03-14 00:00:00",
+    "actual_classification": "NORMAL VALUE",
+    "predicted_classification": "NORMAL VALUE",
+    "is_correct": true,
+    "processing_time": 25.168579578399658,
+    "memory_used": 0.046875
+  },
+  {
+    "datetime": "2024-03-15 09:00:00",
+    "actual_classification": "NORMAL VALUE",
+    "predicted_classification": "NORMAL VALUE",
+    "is_correct": true,
+    "processing_time": 25.34442663192749,
+    "memory_used": -0.0390625
+  },
+  {
+    "datetime": "2024-03-20 16:00:00",
+    "actual_classification": "NORMAL VALUE",
+    "predicted_classification": "NORMAL VALUE",
+    "is_correct": true,
+    "processing_time": 25.241126537322998,
+    "memory_used": 0.04296875
+  },
+  {
+    "datetime": "2024-03-23 09:00:00",
+    "actual_classification": "ANOMALY",
+    "predicted_classification": "NORMAL VALUE",
+    "is_correct": false,
+    "processing_time": 25.154342889785767,
+    "memory_used": 0.0
+  },
+  {
+    "datetime": "2024-04-03 04:00:00",
+    "actual_classification": "NORMAL VALUE",
+    "predicted_classification": "NORMAL VALUE",
+    "is_correct": true,
+    "processing_time": 26.111992597579956,
+    "memory_used": 0.015625
+  },
+  {
+    "datetime": "2024-04-05 09:00:00",
+    "actual_classification": "NORMAL VALUE",
+    "predicted_classification": "NORMAL VALUE",
+    "is_correct": true,
+    "processing_time": 25.142839670181274,
+    "memory_used": 0.0
+  },
+  {
+    "datetime": "2024-04-05 11:00:00",
+    "actual_classification": "ANOMALY",
+    "predicted_classification": "NORMAL VALUE",
+    "is_correct": false,
+    "processing_time": 25.203964233398438,
+    "memory_used": 0.03515625
+  }
+]

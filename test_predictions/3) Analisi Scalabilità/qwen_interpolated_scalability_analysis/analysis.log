@@ -1,0 +1,36 @@
+2025-03-21 22:37:22,492 - INFO - Inizio analisi di scalabilità per Qwen 2.5 basata su interpolazione
+2025-03-21 22:37:22,492 - INFO - Caricamento risultati da c:\Users\gaia1\Desktop\UDOO Lab\Predictive Maintenance & LLMs\code 10\test_predictions\3) Analisi Scalabilità\qwen_realtime_scalability_analysis\backups\backup_b5_r5_20250321_221928_200cases.json
+2025-03-21 22:37:22,509 - INFO - Risultati con batch_size=5, reset_frequency=5
+2025-03-21 22:37:22,509 - INFO - Caricamento risultati da c:\Users\gaia1\Desktop\UDOO Lab\Predictive Maintenance & LLMs\code 10\test_predictions\3) Analisi Scalabilità\qwen_realtime_scalability_analysis\backups\backup_b5_r10_20250321_222550_15cases.json
+2025-03-21 22:37:22,527 - INFO - Risultati con batch_size=5, reset_frequency=10
+2025-03-21 22:37:22,528 - INFO - Caricamento risultati da c:\Users\gaia1\Desktop\UDOO Lab\Predictive Maintenance & LLMs\code 10\test_predictions\3) Analisi Scalabilità\qwen_realtime_scalability_analysis\qwen_all_results_20250321_221930.json
+2025-03-21 22:37:22,529 - INFO - Caricati 3 set di risultati da 3 file
+2025-03-21 22:37:22,529 - INFO - Caricamento dati di accuracy da c:\Users\gaia1\Desktop\UDOO Lab\Predictive Maintenance & LLMs\code 10\test_predictions\llm\results_qwen-2.5.32b\prediction_results.csv
+2025-03-21 22:37:22,542 - INFO - Accuracy dai dati reali: 0.9982
+2025-03-21 22:37:22,544 - INFO - Accuracy per anomalie: 1.0000
+2025-03-21 22:37:22,545 - INFO - Accuracy per valori normali: 0.9982
+2025-03-21 22:37:22,545 - INFO - Inizio interpolazione dei risultati
+2025-03-21 22:37:22,546 - WARNING - Pochi campioni disponibili, verranno aggiunti dati stimati per migliorare l'interpolazione
+2025-03-21 22:37:22,553 - INFO - Generati 4 punti stimati per migliorare l'interpolazione
+2025-03-21 22:37:22,580 - INFO - Interpolazione completata: generati 20 set di risultati
+2025-03-21 22:37:22,587 - INFO - Analisi completata. Risultati salvati in c:\Users\gaia1\Desktop\UDOO Lab\Predictive Maintenance & LLMs\code 10\test_predictions\3) Analisi Scalabilità\qwen_interpolated_scalability_analysis/qwen_interpolated_results_20250321_223722.csv
+2025-03-21 22:37:22,587 - INFO - Generazione report e visualizzazioni
+2025-03-21 22:37:25,326 - INFO - Report generato in c:\Users\gaia1\Desktop\UDOO Lab\Predictive Maintenance & LLMs\code 10\test_predictions\3) Analisi Scalabilità\qwen_interpolated_scalability_analysis/qwen_interpolated_scalability_report.html
+2025-03-21 22:43:55,205 - INFO - Inizio analisi di scalabilità per Qwen 2.5 basata su interpolazione
+2025-03-21 22:43:55,206 - INFO - Caricamento risultati da c:\Users\gaia1\Desktop\UDOO Lab\Predictive Maintenance & LLMs\code 10\test_predictions\3) Analisi Scalabilità\qwen_realtime_scalability_analysis\backups\backup_b5_r5_20250321_221928_200cases.json
+2025-03-21 22:43:55,207 - INFO - Risultati con batch_size=5, reset_frequency=5
+2025-03-21 22:43:55,207 - INFO - Caricamento risultati da c:\Users\gaia1\Desktop\UDOO Lab\Predictive Maintenance & LLMs\code 10\test_predictions\3) Analisi Scalabilità\qwen_realtime_scalability_analysis\backups\backup_b5_r10_20250321_222550_15cases.json
+2025-03-21 22:43:55,208 - INFO - Risultati con batch_size=5, reset_frequency=10
+2025-03-21 22:43:55,208 - INFO - Caricamento risultati da c:\Users\gaia1\Desktop\UDOO Lab\Predictive Maintenance & LLMs\code 10\test_predictions\3) Analisi Scalabilità\qwen_realtime_scalability_analysis\qwen_all_results_20250321_221930.json
+2025-03-21 22:43:55,208 - INFO - Caricati 3 set di risultati da 3 file
+2025-03-21 22:43:55,209 - INFO - Caricamento dati di accuracy da c:\Users\gaia1\Desktop\UDOO Lab\Predictive Maintenance & LLMs\code 10\test_predictions\llm\results_qwen-2.5.32b\prediction_results.csv
+2025-03-21 22:43:55,218 - INFO - Accuracy dai dati reali: 0.9982
+2025-03-21 22:43:55,220 - INFO - Accuracy per anomalie: 1.0000
+2025-03-21 22:43:55,220 - INFO - Accuracy per valori normali: 0.9982
+2025-03-21 22:43:55,220 - INFO - Inizio interpolazione dei risultati
+2025-03-21 22:43:55,222 - WARNING - Pochi campioni disponibili, verranno aggiunti dati stimati per migliorare l'interpolazione
+2025-03-21 22:43:55,226 - INFO - Generati 9 punti stimati per migliorare l'interpolazione
+2025-03-21 22:43:55,240 - INFO - Interpolazione completata: generati 20 set di risultati
+2025-03-21 22:43:55,245 - INFO - Analisi completata. Risultati salvati in c:\Users\gaia1\Desktop\UDOO Lab\Predictive Maintenance & LLMs\code 10\test_predictions\3) Analisi Scalabilità\qwen_interpolated_scalability_analysis/qwen_interpolated_results_20250321_224355.csv
+2025-03-21 22:43:55,246 - INFO - Generazione report e visualizzazioni
+2025-03-21 22:43:57,935 - INFO - Report generato in c:\Users\gaia1\Desktop\UDOO Lab\Predictive Maintenance & LLMs\code 10\test_predictions\3) Analisi Scalabilità\qwen_interpolated_scalability_analysis/qwen_interpolated_scalability_report.html

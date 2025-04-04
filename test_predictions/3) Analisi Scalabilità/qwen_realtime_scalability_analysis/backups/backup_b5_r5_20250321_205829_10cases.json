@@ -1,0 +1,102 @@
+[
+  {
+    "datetime": "2024-03-01 17:00:00",
+    "actual_classification": "NORMAL VALUE",
+    "predicted_classification": "NORMAL VALUE",
+    "is_correct": true,
+    "processing_time": 1.411888837814331,
+    "memory_used": 0.46875,
+    "batch_idx": 0,
+    "in_batch_idx": 2
+  },
+  {
+    "datetime": "2024-03-01 20:00:00",
+    "actual_classification": "NORMAL VALUE",
+    "predicted_classification": "NORMAL VALUE",
+    "is_correct": true,
+    "processing_time": 1.8025717735290527,
+    "memory_used": 0.046875,
+    "batch_idx": 0,
+    "in_batch_idx": 0
+  },
+  {
+    "datetime": "2024-03-02 00:00:00",
+    "actual_classification": "NORMAL VALUE",
+    "predicted_classification": "NORMAL VALUE",
+    "is_correct": true,
+    "processing_time": 7.583980560302734,
+    "memory_used": 0.12890625,
+    "batch_idx": 0,
+    "in_batch_idx": 4
+  },
+  {
+    "datetime": "2024-03-02 04:00:00",
+    "actual_classification": "NORMAL VALUE",
+    "predicted_classification": "NORMAL VALUE",
+    "is_correct": true,
+    "processing_time": 25.336248874664307,
+    "memory_used": 0.0234375,
+    "batch_idx": 0,
+    "in_batch_idx": 3
+  },
+  {
+    "datetime": "2024-03-02 13:00:00",
+    "actual_classification": "NORMAL VALUE",
+    "predicted_classification": "NORMAL VALUE",
+    "is_correct": true,
+    "processing_time": 25.121899604797363,
+    "memory_used": -0.0234375,
+    "batch_idx": 0,
+    "in_batch_idx": 2
+  },
+  {
+    "datetime": "2024-03-03 08:00:00",
+    "actual_classification": "NORMAL VALUE",
+    "predicted_classification": "NORMAL VALUE",
+    "is_correct": true,
+    "processing_time": 25.094522953033447,
+    "memory_used": 0.015625,
+    "batch_idx": 1,
+    "in_batch_idx": 1
+  },
+  {
+    "datetime": "2024-03-04 12:00:00",
+    "actual_classification": "NORMAL VALUE",
+    "predicted_classification": "NORMAL VALUE",
+    "is_correct": true,
+    "processing_time": 25.131659269332886,
+    "memory_used": 0.01171875,
+    "batch_idx": 1,
+    "in_batch_idx": 4
+  },
+  {
+    "datetime": "2024-03-04 21:00:00",
+    "actual_classification": "NORMAL VALUE",
+    "predicted_classification": "NORMAL VALUE",
+    "is_correct": true,
+    "processing_time": 27.185468435287476,
+    "memory_used": -0.01953125,
+    "batch_idx": 1,
+    "in_batch_idx": 3
+  },
+  {
+    "datetime": "2024-03-05 04:00:00",
+    "actual_classification": "NORMAL VALUE",
+    "predicted_classification": "NORMAL VALUE",
+    "is_correct": true,
+    "processing_time": 28.33523917198181,
+    "memory_used": 0.015625,
+    "batch_idx": 1,
+    "in_batch_idx": 0
+  },
+  {
+    "datetime": "2024-03-05 21:00:00",
+    "actual_classification": "NORMAL VALUE",
+    "predicted_classification": "NORMAL VALUE",
+    "is_correct": true,
+    "processing_time": 28.769181489944458,
+    "memory_used": -3.68359375,
+    "batch_idx": 1,
+    "in_batch_idx": 2
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "batch_size": 5,
+  "reset_frequency": 5,
+  "accuracy": 0.945,
+  "error_rate": 0.05500000000000005,
+  "processing_time": 5043.357523441315,
+  "processing_time_per_sample": 25.216787617206574,
+  "samples_per_second": 0.039656121754289356,
+  "avg_memory_usage": -0.00501953125,
+  "max_memory_usage": 321.33984375,
+  "n_samples": 200,
+  "total_runtime": 5056.277990102768
+}

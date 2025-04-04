@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Qwen 2.5 Interpolated Scalability Analysis</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1, h2, h3 {
+            color: #2c3e50;
+        }
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            margin: 20px 0;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+        .figure-container {
+            margin: 30px 0;
+        }
+        .figure-row {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            justify-content: center;
+        }
+        .figure {
+            max-width: 100%;
+            margin-bottom: 30px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            text-align: center;
+        }
+        .summary-box {
+            background-color: #f8f9fa;
+            border-radius: 5px;
+            padding: 15px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        .optimal-config {
+            background-color: #e8f4f8;
+            border-left: 4px solid #3498db;
+            padding: 15px;
+            margin: 20px 0;
+        }
+        .highlight {
+            font-weight: bold;
+            color: #2980b9;
+        }
+        .interpolated {
+            background-color: #fff3e6;
+            border-left: 4px solid #e67e22;
+        }
+    </style>
+</head>
+<body>
+    <h1>Qwen 2.5 Interpolated Scalability Analysis</h1>
+    <p>Report generato il 2025-03-21 22:43:57</p>
+   
+    <div class="summary-box">
+        <h2>Riepilogo</h2>
+        <p>Questa analisi valuta come le prestazioni del modello Qwen 2.5 sono influenzate da due parametri chiave:</p>
+        <ul>
+            <li><strong>Dimensione del batch</strong>: Il numero di campioni da elaborare prima di aggiornare lo stato interno del modello</li>
+            <li><strong>Frequenza di reset</strong>: Ogni quanti batch viene azzerato il contesto della conversazione</li>
+        </ul>
+        <p>L'analisi è basata sull'interpolazione di risultati parziali per stimare le prestazioni su tutte le configurazioni.</p>
+    </div>
+    
+    
+        <div class="summary-box">
+            <h2>Fonti dei Dati</h2>
+            <p>Questa analisi è basata sull'interpolazione di risultati parziali da diverse fonti:</p>
+            <ul>
+                <li>Dati di timing e memoria provenienti da esecuzioni parziali del modello</li>
+                <li>Dati di accuracy calcolati dai risultati completi delle predizioni</li>
+                <li>Valori mancanti stimati tramite interpolazione</li>
+            </ul>
+            <p>Nota: I risultati interpolati rappresentano una stima delle prestazioni del modello e potrebbero non riflettere esattamente il comportamento reale.</p>
+        </div>
+        
+    
+    
+        <div class="summary-box">
+            <h2>Informazioni sui Tempi di Inferenza</h2>
+            <p>I tempi di elaborazione sono basati su esecuzioni parziali e interpolazione del modello Qwen 2.5 32B:</p>
+            <ul>
+                <li><strong>Tempo medio per record</strong>: 90.52 secondi</li>
+                <li><strong>Velocità di elaborazione</strong>: 0.66 record al minuto</li>
+            </ul>
+            <p>Nota: queste tempistiche riflettono l'esecuzione su hardware specifico e possono variare in base all'ambiente di esecuzione.</p>
+        </div>
+        
+   
+    <div class="optimal-config">
+        <h2>Configurazioni Ottimali</h2>
+       
+        <h3>Massima Accuratezza</h3>
+        <p>Batch Size: <span class="highlight">50</span>,
+           Reset Frequency: <span class="highlight">None</span></p>
+        <p>Accuratezza: 0.9870,
+           Velocità: 0.00 campioni/secondo</p>
+       
+        <h3>Massima Velocità</h3>
+        <p>Batch Size: <span class="highlight">5</span>,
+           Reset Frequency: <span class="highlight">None</span></p>
+        <p>Velocità: 0.04 campioni/secondo,
+           Accuratezza: 0.9500</p>
+       
+        <h3>Miglior Equilibrio (Efficienza)</h3>
+        <p>Batch Size: <span class="highlight">5</span>,
+           Reset Frequency: <span class="highlight">None</span></p>
+        <p>Accuratezza: 0.9500,
+           Velocità: 0.04 campioni/secondo</p>
+    </div>
+   
+    <h2>Risultati Dettagliati</h2>
+    <div class="interpolated">
+        <p><strong>Nota</strong>: I valori mostrati di seguito sono in parte basati su dati reali e in parte stimati tramite interpolazione.</p>
+    </div>
+    
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Batch Size</th>
+                    <th>Reset Frequency</th>
+                    <th>Accuracy</th>
+                    <th>Samples/Second</th>
+                    <th>Avg Memory (MB)</th>
+                    <th>Time per Sample (s)</th>
+                </tr>
+            </thead>
+            <tbody>
+        
+                <tr>
+                    <td>5.0</td>
+                    <td>5.0</td>
+                    <td>0.9450</td>
+                    <td>0.04</td>
+                    <td>0.00</td>
+                    <td>25.2161</td>
+                </tr>
+            
+                <tr>
+                    <td>5.0</td>
+                    <td>10.0</td>
+                    <td>0.9332</td>
+                    <td>0.04</td>
+                    <td>0.00</td>
+                    <td>24.6142</td>
+                </tr>
+            
+                <tr>
+                    <td>5.0</td>
+                    <td>25.0</td>
+                    <td>0.9500</td>
+                    <td>0.04</td>
+                    <td>0.00</td>
+                    <td>23.8795</td>
+                </tr>
+            
+                <tr>
+                    <td>5.0</td>
+                    <td>50.0</td>
+                    <td>0.9500</td>
+                    <td>0.04</td>
+                    <td>0.00</td>
+                    <td>23.6338</td>
+                </tr>
+            
+                <tr>
+                    <td>5.0</td>
+                    <td>None</td>
+                    <td>0.9500</td>
+                    <td>0.04</td>
+                    <td>0.00</td>
+                    <td>23.3860</td>
+                </tr>
+            
+                <tr>
+                    <td>10.0</td>
+                    <td>5.0</td>
+                    <td>0.9550</td>
+                    <td>0.02</td>
+                    <td>0.00</td>
+                    <td>45.4577</td>
+                </tr>
+            
+                <tr>
+                    <td>10.0</td>
+                    <td>10.0</td>
+                    <td>0.9501</td>
+                    <td>0.02</td>
+                    <td>0.00</td>
+                    <td>44.3720</td>
+                </tr>
+            
+                <tr>
+                    <td>10.0</td>
+                    <td>25.0</td>
+                    <td>0.9537</td>
+                    <td>0.03</td>
+                    <td>0.00</td>
+                    <td>42.4574</td>
+                </tr>
+            
+                <tr>
+                    <td>10.0</td>
+                    <td>50.0</td>
+                    <td>0.9536</td>
+                    <td>0.03</td>
+                    <td>0.00</td>
+                    <td>42.6278</td>
+                </tr>
+            
+                <tr>
+                    <td>10.0</td>
+                    <td>None</td>
+                    <td>0.9546</td>
+                    <td>0.03</td>
+                    <td>0.00</td>
+                    <td>55.1375</td>
+                </tr>
+            
+                <tr>
+                    <td>20.0</td>
+                    <td>5.0</td>
+                    <td>0.9500</td>
+                    <td>0.01</td>
+                    <td>0.00</td>
+                    <td>81.9360</td>
+                </tr>
+            
+                <tr>
+                    <td>20.0</td>
+                    <td>10.0</td>
+                    <td>0.9500</td>
+                    <td>0.01</td>
+                    <td>0.00</td>
+                    <td>79.9764</td>
+                </tr>
+            
+                <tr>
+                    <td>20.0</td>
+                    <td>25.0</td>
+                    <td>0.9556</td>
+                    <td>0.02</td>
+                    <td>0.01</td>
+                    <td>77.0124</td>
+                </tr>
+            
+                <tr>
+                    <td>20.0</td>
+                    <td>50.0</td>
+                    <td>0.9595</td>
+                    <td>0.02</td>
+                    <td>0.01</td>
+                    <td>78.8631</td>
+                </tr>
+            
+                <tr>
+                    <td>20.0</td>
+                    <td>None</td>
+                    <td>0.9634</td>
+                    <td>0.01</td>
+                    <td>0.01</td>
+                    <td>118.6115</td>
+                </tr>
+            
+                <tr>
+                    <td>50.0</td>
+                    <td>5.0</td>
+                    <td>0.9500</td>
+                    <td>0.01</td>
+                    <td>0.00</td>
+                    <td>178.5314</td>
+                </tr>
+            
+                <tr>
+                    <td>50.0</td>
+                    <td>10.0</td>
+                    <td>0.9500</td>
+                    <td>0.01</td>
+                    <td>0.00</td>
+                    <td>174.2571</td>
+                </tr>
+            
+                <tr>
+                    <td>50.0</td>
+                    <td>25.0</td>
+                    <td>0.9560</td>
+                    <td>0.00</td>
+                    <td>0.01</td>
+                    <td>174.9439</td>
+                </tr>
+            
+                <tr>
+                    <td>50.0</td>
+                    <td>50.0</td>
+                    <td>0.9703</td>
+                    <td>0.00</td>
+                    <td>0.02</td>
+                    <td>186.5647</td>
+                </tr>
+            
+                <tr>
+                    <td>50.0</td>
+                    <td>None</td>
+                    <td>0.9870</td>
+                    <td>0.00</td>
+                    <td>0.02</td>
+                    <td>308.8455</td>
+                </tr>
+            
+            </tbody>
+        </table>
+        
+   
+    <h2>Visualizzazioni</h2>
+   
+    <div class="figure-container">
+        <div class="figure">
+            <img src="figures/accuracy_vs_batchsize.png" alt="Accuracy vs Batch Size">
+            <p>L'accuratezza del modello al variare della dimensione del batch e della frequenza di reset</p>
+        </div>
+       
+        <div class="figure">
+            <img src="figures/speed_vs_batchsize.png" alt="Processing Speed vs Batch Size">
+            <p>La velocità di elaborazione (campioni al secondo) al variare della dimensione del batch</p>
+        </div>
+       
+        <div class="figure">
+            <img src="figures/memory_vs_batchsize.png" alt="Memory Usage vs Batch Size">
+            <p>L'utilizzo di memoria al variare della dimensione del batch</p>
+        </div>
+       
+        <div class="figure">
+            <img src="figures/time_per_sample_vs_batchsize.png" alt="Time per Sample vs Batch Size">
+            <p>Il tempo di elaborazione per campione al variare della dimensione del batch</p>
+        </div>
+       
+        <div class="figure">
+            <img src="figures/accuracy_heatmap.png" alt="Accuracy Heatmap">
+            <p>Heatmap dell'accuratezza per diverse combinazioni di dimensione del batch e frequenza di reset</p>
+        </div>
+
+        <div class="figure">
+            <img src="figures/efficiency_heatmap.png" alt="Efficiency Heatmap">
+            <p>Heatmap dell'efficienza (accuratezza * velocità) per diverse combinazioni</p>
+        </div>
+    </div>
+   
+    <h2>Conclusioni</h2>
+    <p>Dall'analisi emergono le seguenti conclusioni:</p>
+    <ul>
+        <li><strong>Impatto della dimensione del batch</strong>: Batch più grandi tendono a migliorare l'accuratezza ma aumentano l'utilizzo di memoria.</li>
+       
+        <li><strong>Impatto della frequenza di reset</strong>: Reset meno frequenti permettono al modello di sfruttare meglio il contesto,
+        ma possono portare a degradazione delle prestazioni se il contesto diventa troppo grande.</li>
+       
+        <li><strong>Compromesso ottimale</strong>: La configurazione con batch size 5 e
+        reset frequency None offre il miglior compromesso tra accuratezza e velocità.</li>
+       
+        <li><strong>Considerazioni sulla memoria</strong>: L'utilizzo di memoria cresce in modo sub-lineare con la dimensione del batch,
+        suggerendo che il modello gestisce efficientemente i batch più grandi.</li>
+    </ul>
+   
+    <h3>Raccomandazioni</h3>
+    <p>In base ai risultati dell'analisi, si raccomanda di:</p>
+    <ul>
+        <li>Utilizzare una dimensione del batch di <strong>5</strong> per un equilibrio ottimale.</li>
+        <li>Impostare la frequenza di reset a <strong>None</strong> per mantenere le prestazioni costanti nel tempo.</li>
+        <li>Per applicazioni che richiedono la massima accuratezza, considerare batch size <strong>50</strong>
+            con reset frequency <strong>None</strong>.</li>
+        <li>Per applicazioni che richiedono la massima velocità, considerare batch size <strong>5</strong>
+            con reset frequency <strong>None</strong>.</li>
+    </ul>
+    
+    <div class="summary-box">
+        <h3>Limitazioni dell'Analisi</h3>
+        <p>È importante notare che questa analisi ha le seguenti limitazioni:</p>
+        <ul>
+            <li>I risultati sono parzialmente basati su interpolazione, non su misurazioni complete per tutte le configurazioni</li>
+            <li>Le prestazioni effettive potrebbero variare in base all'hardware specifico e alle condizioni di esecuzione</li>
+            <li>L'analisi non considera variazioni nel carico di lavoro o differenze nei tipi di input</li>
+        </ul>
+        <p>Si consiglia di verificare le prestazioni reali sul proprio ambiente di produzione con le configurazioni consigliate.</p>
+    </div>
+</body>
+</html>

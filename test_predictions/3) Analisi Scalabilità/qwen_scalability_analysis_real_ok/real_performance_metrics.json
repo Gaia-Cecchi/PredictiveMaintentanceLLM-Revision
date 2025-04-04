@@ -1,0 +1,8 @@
+{
+  "accuracy": 0.9982347749338041,
+  "anomaly_accuracy": 1.0,
+  "normal_accuracy": 0.9982174688057041,
+  "time_per_sample": 39.19,
+  "samples_per_second": 0.02551671344730799,
+  "confidence": NaN
+}
