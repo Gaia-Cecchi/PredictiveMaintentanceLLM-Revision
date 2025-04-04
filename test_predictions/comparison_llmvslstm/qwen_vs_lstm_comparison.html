@@ -1,0 +1,447 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Qwen 2.5 vs LSTM Comparison for Predictive Maintenance</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            color: #333;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1, h2, h3 {
+            color: #2c3e50;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+            padding-bottom: 20px;
+            border-bottom: 1px solid #eee;
+        }
+        .metrics-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            justify-content: center;
+            margin-bottom: 30px;
+        }
+        .metric-card {
+            background-color: #f8f9fa;
+            border-radius: 8px;
+            padding: 15px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            width: 200px;
+            text-align: center;
+        }
+        .model-qwen {
+            border-left: 4px solid #3498db;
+        }
+        .model-lstm {
+            border-left: 4px solid #e74c3c;
+        }
+        .metric-value {
+            font-size: 24px;
+            font-weight: bold;
+        }
+        .metric-value.qwen {
+            color: #3498db;
+        }
+        .metric-value.lstm {
+            color: #e74c3c;
+        }
+        .metric-label {
+            font-size: 14px;
+            color: #7f8c8d;
+            margin-top: 5px;
+        }
+        .metrics-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+        .metrics-table th, .metrics-table td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        .metrics-table th {
+            background-color: #f2f2f2;
+        }
+        .metrics-table tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+        .positive {
+            color: #27ae60;
+            font-weight: bold;
+        }
+        .negative {
+            color: #e74c3c;
+            font-weight: bold;
+        }
+        .neutral {
+            color: #7f8c8d;
+        }
+        .chart-container {
+            margin: 30px 0;
+        }
+        .chart-row {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            justify-content: center;
+            margin-bottom: 40px;
+        }
+        .chart-item {
+            text-align: center;
+            flex: 1;
+            min-width: 300px;
+            max-width: 100%;
+        }
+        .chart-item img {
+            max-width: 100%;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        .chart-caption {
+            margin-top: 10px;
+            font-style: italic;
+            color: #555;
+        }
+        .summary {
+            background-color: #f8f9fa;
+            border-radius: 8px;
+            padding: 20px;
+            margin: 30px 0;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .conclusion {
+            background-color: #e8f4f8;
+            border-left: 4px solid #3498db;
+            padding: 15px;
+            margin-top: 30px;
+        }
+        .timestamp {
+            margin-top: 40px;
+            font-size: 12px;
+            color: #999;
+            text-align: right;
+        }
+        .highlight-box {
+            background-color: #f8f9fa;
+            border-radius: 8px;
+            padding: 15px;
+            margin: 20px 0;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .highlight-box h3 {
+            margin-top: 0;
+            color: #2c3e50;
+        }
+        @media (max-width: 768px) {
+            .chart-row {
+                flex-direction: column;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Qwen 2.5 vs LSTM Model Comparison</h1>
+        <p>Comparative analysis for Predictive Maintenance of Industrial Compressors</p>
+    </div>
+    
+    <div class="summary">
+        <h2>Executive Summary</h2>
+        <p>
+            This report presents a detailed comparison between two models for anomaly detection 
+            in compressor predictive maintenance: Qwen 2.5 (a Large Language Model) and LSTM 
+            (a traditional machine learning approach). The comparison evaluates both models across 
+            various performance metrics, with a focus on anomaly detection capabilities.
+        </p>
+        <p>
+            <strong>Key findings:</strong> 
+            Qwen 2.5 achieves an accuracy of 99.8% compared to LSTM's 87.3%, 
+            with a difference of 12.5 percentage points. 
+            Qwen 2.5 correctly identified 11/11 anomalies (100.0%), 
+            while LSTM identified 4/11 (36.4%).
+        </p>
+    </div>
+    
+    <h2>Overall Performance Metrics</h2>
+    <div class="metrics-container">
+        <div class="metric-card model-qwen">
+            <div class="metric-value qwen">99.8%</div>
+            <div class="metric-label">Qwen 2.5 Accuracy</div>
+        </div>
+        <div class="metric-card model-lstm">
+            <div class="metric-value lstm">87.3%</div>
+            <div class="metric-label">LSTM Accuracy</div>
+        </div>
+        
+        <div class="metric-card model-qwen">
+            <div class="metric-value qwen">0.846</div>
+            <div class="metric-label">Qwen 2.5 Precision</div>
+        </div>
+        <div class="metric-card model-lstm">
+            <div class="metric-value lstm">0.029</div>
+            <div class="metric-label">LSTM Precision</div>
+        </div>
+        
+        <div class="metric-card model-qwen">
+            <div class="metric-value qwen">1.000</div>
+            <div class="metric-label">Qwen 2.5 Recall</div>
+        </div>
+        <div class="metric-card model-lstm">
+            <div class="metric-value lstm">0.364</div>
+            <div class="metric-label">LSTM Recall</div>
+        </div>
+        
+        <div class="metric-card model-qwen">
+            <div class="metric-value qwen">0.917</div>
+            <div class="metric-label">Qwen 2.5 F1 Score</div>
+        </div>
+        <div class="metric-card model-lstm">
+            <div class="metric-value lstm">0.053</div>
+            <div class="metric-label">LSTM F1 Score</div>
+        </div>
+    </div>
+    
+    <div class="highlight-box">
+        <h3>Anomaly Detection Capability</h3>
+        <p>
+            <strong>Qwen 2.5:</strong> Detected 11 out of 11 actual anomalies (100.0%)
+            <br>
+            <strong>LSTM:</strong> Detected 4 out of 11 actual anomalies (36.4%)
+        </p>
+    </div>
+    
+    <h2>Detailed Metrics Comparison</h2>
+    
+        <h3>Classification Performance</h3>
+        <table class="metrics-table">
+            <tr>
+                <th>Metric</th>
+                <th>Qwen 2.5</th>
+                <th>LSTM</th>
+                <th>Difference</th>
+                <th>Better Model</th>
+            </tr>
+        
+            <tr>
+                <td>Accuracy</td>
+                <td>99.8%</td>
+                <td>87.3%</td>
+                <td class="positive">12.5% ↑</td>
+                <td>Qwen 2.5</td>
+            </tr>
+            
+            <tr>
+                <td>Precision</td>
+                <td>0.846</td>
+                <td>0.029</td>
+                <td class="positive">0.818 ↑</td>
+                <td>Qwen 2.5</td>
+            </tr>
+            
+            <tr>
+                <td>Recall (Sensitivity)</td>
+                <td>1.000</td>
+                <td>0.364</td>
+                <td class="positive">0.636 ↑</td>
+                <td>Qwen 2.5</td>
+            </tr>
+            
+            <tr>
+                <td>F1 Score</td>
+                <td>0.917</td>
+                <td>0.053</td>
+                <td class="positive">0.864 ↑</td>
+                <td>Qwen 2.5</td>
+            </tr>
+            
+            <tr>
+                <td>Specificity</td>
+                <td>0.998</td>
+                <td>0.878</td>
+                <td class="positive">0.120 ↑</td>
+                <td>Qwen 2.5</td>
+            </tr>
+            
+            <tr>
+                <td>AUC-ROC</td>
+                <td>0.500</td>
+                <td>0.729</td>
+                <td class="negative">-0.229 ↓</td>
+                <td>LSTM</td>
+            </tr>
+            </table>
+        <h3>Error Metrics</h3>
+        <table class="metrics-table">
+            <tr>
+                <th>Metric</th>
+                <th>Qwen 2.5</th>
+                <th>LSTM</th>
+                <th>Difference</th>
+                <th>Better Model</th>
+            </tr>
+        
+            <tr>
+                <td>Mean Absolute Error (MAE)</td>
+                <td>0.002</td>
+                <td>0.127</td>
+                <td class="positive">-0.125 ↑</td>
+                <td>Qwen 2.5</td>
+            </tr>
+            
+            <tr>
+                <td>Mean Squared Error (MSE)</td>
+                <td>0.002</td>
+                <td>0.127</td>
+                <td class="positive">-0.125 ↑</td>
+                <td>Qwen 2.5</td>
+            </tr>
+            
+            <tr>
+                <td>Root Mean Squared Error (RMSE)</td>
+                <td>0.042</td>
+                <td>0.356</td>
+                <td class="positive">-0.314 ↑</td>
+                <td>Qwen 2.5</td>
+            </tr>
+            
+            <tr>
+                <td>False Positive Rate</td>
+                <td>0.002</td>
+                <td>0.122</td>
+                <td class="positive">-0.120 ↑</td>
+                <td>Qwen 2.5</td>
+            </tr>
+            
+            <tr>
+                <td>False Negative Rate</td>
+                <td>0.000</td>
+                <td>0.636</td>
+                <td class="positive">-0.636 ↑</td>
+                <td>Qwen 2.5</td>
+            </tr>
+            </table>
+        <h3>Confusion Matrix Values</h3>
+        <table class="metrics-table">
+            <tr>
+                <th>Metric</th>
+                <th>Qwen 2.5</th>
+                <th>LSTM</th>
+                <th>Difference</th>
+                <th>Better Model</th>
+            </tr>
+        
+            <tr>
+                <td>True Positives</td>
+                <td>11</td>
+                <td>4</td>
+                <td class="positive">7 ↑</td>
+                <td>Qwen 2.5</td>
+            </tr>
+            
+            <tr>
+                <td>True Negatives</td>
+                <td>1117</td>
+                <td>983</td>
+                <td class="positive">134 ↑</td>
+                <td>Qwen 2.5</td>
+            </tr>
+            
+            <tr>
+                <td>False Positives</td>
+                <td>2</td>
+                <td>136</td>
+                <td class="positive">-134 ↑</td>
+                <td>Qwen 2.5</td>
+            </tr>
+            
+            <tr>
+                <td>False Negatives</td>
+                <td>0</td>
+                <td>7</td>
+                <td class="positive">-7 ↑</td>
+                <td>Qwen 2.5</td>
+            </tr>
+            </table>
+    
+    <h2>Visual Performance Comparison</h2>
+    
+    <div class="chart-container">
+        <div class="chart-row">
+            <div class="chart-item">
+                <img src="figures/metrics_comparison.png" alt="Key Metrics Comparison">
+                <p class="chart-caption">Comparison of key performance metrics between Qwen 2.5 and LSTM models</p>
+            </div>
+        </div>
+        
+        <div class="chart-row">
+            <div class="chart-item">
+                <img src="figures/confusion_matrices.png" alt="Confusion Matrices">
+                <p class="chart-caption">Confusion matrices showing true/false positives and negatives for both models</p>
+            </div>
+        </div>
+        
+        <div class="chart-row">
+            <div class="chart-item">
+                <img src="figures/roc_curves.png" alt="ROC Curves">
+                <p class="chart-caption">ROC curves showing the trade-off between sensitivity and specificity</p>
+            </div>
+            <div class="chart-item">
+                <img src="figures/anomaly_detection.png" alt="Anomaly Detection Capabilities">
+                <p class="chart-caption">Comparison of anomaly detection capabilities</p>
+            </div>
+        </div>
+        
+        <div class="chart-row">
+            <div class="chart-item">
+                <img src="figures/error_comparison.png" alt="Error Comparison">
+                <p class="chart-caption">Comparison of error rates between models</p>
+            </div>
+        </div>
+        
+        <div class="chart-row">
+            <div class="chart-item">
+                <img src="figures/prediction_timeline.png" alt="Prediction Timeline">
+                <p class="chart-caption">Timeline of predictions showing correct and incorrect classifications for both models</p>
+            </div>
+        </div>
+    </div>
+    
+    <div class="conclusion">
+        <h2>Conclusion</h2>
+        <p>
+            Based on the comprehensive analysis, <strong>Qwen 2.5 outperforms LSTM</strong> 
+            in overall accuracy and most key metrics for anomaly detection in compressor maintenance prediction.
+        </p>
+        <p>
+            <strong>Key advantages of using a Large Language Model (Qwen 2.5) for predictive maintenance:</strong>
+        </p>
+        <ul>
+            <li>Better contextualization of anomalies within the operating environment</li>
+            <li>Ability to incorporate domain knowledge and company-specific maintenance policies</li>
+            <li>More detailed explanations of detected anomalies and potential causes</li>
+            <li>Flexibility to adapt to new types of anomalies without retraining</li>
+            <li>Integration of unstructured data sources such as maintenance logs and manuals</li>
+        </ul>
+        <p>
+            These results support the integration of LLMs into industrial predictive maintenance systems,
+            particularly for complex equipment like compressors where context and domain knowledge
+            significantly impact maintenance decision-making.
+        </p>
+    </div>
+    
+    <div class="timestamp">
+        <p>Report generated: 2025-03-19 21:03:02</p>
+    </div>
+</body>
+</html>

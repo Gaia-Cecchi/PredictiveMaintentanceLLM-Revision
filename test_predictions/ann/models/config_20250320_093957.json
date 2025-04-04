@@ -1,0 +1,1 @@
+{"window_size": 24, "feature_columns": ["Temperature", "Vibration", "Pressure", "Current", "Speed", "Voltage", "CosPhi", "weather_temperature", "weather_humidity", "weather_wind_speed", "weather_precipitation"], "scaler_path": "scaler_20250320_093957.pkl", "model_path": "ann_model_final_20250320_093957.h5"}
